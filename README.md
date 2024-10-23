@@ -59,7 +59,13 @@ The following will show my solutions to puzzles which have been seperated by dif
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 001 |  Name	 | ✔️ Completed | Lang | Tags |
+| 001 | Moves in Maze | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Moves%20in%20Maze/Python.py) | BFS<br>Flood Fill<br>Maze |
+| 002 | Six Degrees of Kevin Bacon | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Six%20Degrees%20of%20Kevin%20Bacon/Python.py) | Graphs<br>BFS<br>Lists  |
+| 003 | Encryption/Decryption of Enigma Machine | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Encryption%5CDecryption%20of%20Enigma%20Machine/Python.py) | Cryptography<br>Encoding<br>String Manipulation<br>Strings |
+| 004 | The Weight of Words | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Weight%20of%20Words/Python.py) | Cryptography |
+| 005 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/ABCDEFGHIJKLMNOPQRSTUVWXYZ/Python.py) | DFS<br>BFS<br>Arrays |
+| 006 |   | ✔️ Completed | [Python]() |  |
+
 
 ## Medium
 
