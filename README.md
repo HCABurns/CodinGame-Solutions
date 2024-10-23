@@ -79,6 +79,14 @@ The following will show my solutions to puzzles which have been seperated by dif
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
 | 001 |  Name	 | ✔️ Completed | Lang | Tags |
+| 002 |  Name	 | ✔️ Completed | Lang | Tags |
+| 003 |  Name	 | ✔️ Completed | Lang | Tags |
+| 004 |  Name	 | ✔️ Completed | Lang | Tags |
+| 005 |  Name	 | ✔️ Completed | Lang | Tags |
+| 006 |  Name	 | ✔️ Completed | Lang | Tags |
+| 007 |  Name	 | ✔️ Completed | Lang | Tags |
+| 008 |  Name	 | ✔️ Completed | Lang | Tags |
+| 009 |  Name	 | ❌ Not Completed | Lang | Tags |
 
 ## Hard
 
