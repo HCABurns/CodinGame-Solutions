@@ -22,7 +22,6 @@ while True:
     #If speed is quicker than landing speed -> Activate Booster at full power
     if v_speed>=-39:
         power = 0
-        print(f"0 {power}")
     else:
         power=4
-        print(f"0 {power}")
+    print(f"0 {power}")
