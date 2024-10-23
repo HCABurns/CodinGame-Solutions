@@ -53,7 +53,7 @@ The following will show my position, score rating and number of participations i
 
 # Puzzles
 
-The following will show my solutions to puzzles
+The following will show my solutions to puzzles which have been seperated by difficulty.
 
 ## Easy
 
@@ -81,26 +81,42 @@ The following will show my solutions to puzzles
 
 # Code Golf
 
+The following are my results for code golf split into the different difficulties.
+
 ## Easy
 
-| <b>No.</b> |	<b>Puzzle Name</b> |	<b>Code Size</b>	| <b> Language</b> |	<b>Tags</b> |
-| :--: |:--: |:--: |:--:  |:--: |
-| 001 |  Name	 | ✔️ Completed | size | Tags |
+| <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
+| :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
+| 1 | The Descent | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/The%20Descent/Python.py) <br/> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/The%20Descent/Ruby.rb) | 37 <br/> 51 | Loops |
+| 2 |  Ascii Art	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/ASCII%20Art/Python.py) | 119 | Strings <br> Loops <br> Arrays |
+| 3 |  Unary | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Unary/Python.py) | 166 | Encoding<br>Loops<br>Conditions<br>String |
+| 4 | Power of Thor | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Power%20of%20Thor/Python.py) | 111 | Conditions |
+| 5 |  Temperatures	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Ruby.rb) | 74 <br> 54 | Arrays<br> Loops<br> Conditions |
+| 6 |  Don't Panic	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Don't%20Panic/Python.py) | 227 | Conditions |
 
 ## Medium
 
-| <b>No.</b> |	<b>Puzzle Name</b> |	<b>Code Size</b>	| <b> Language</b> |	<b>Tags</b> |
-| :--: |:--: |:--: |:--:  |:--: |
-| 001 |  Name	 | ✔️ Completed | size | Tags |
+| <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
+| :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
+| 1 | Shadows of the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Shadows%20of%20the%20Knight%20-%20Episode%201/Python.py) | 184 | Binary Search<br>Intervals |
+| 2 | Telephone Numbers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Ruby.rb) | 93<br>80 | Sets<br>Tries |
+| 3 | Network Cabling | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Network%20Cabling/Python.py) | 149 | Loops<br>Distances<br>Medians |
+| 4 | Mayan Calculation | ❌ Not Completed | N/A | N/A | Radix<br>Strings |
+| 5 | Blunder - Episode 1 | ❌ Not Completed | N/A | N/A | State Machine<br>Simulation |
+| 6 | Dwarfs Standing on the Shoulders of Giants | ❌ Not Completed | N/A | N/A | Memoization<br>Recusion<br>Graphs |
 
 ## Hard
 
-| <b>No.</b> |	<b>Puzzle Name</b> |	<b>Code Size</b>	| <b> Language</b> |	<b>Tags</b> |
-| :--: |:--: |:--: |:--:  |:--: |
-| 001 |  Name	 | ✔️ Completed | size | Tags |
+| <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
+| :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
+| 1 |  Name	 | ❌ Not Completed | Python | size | Tags |
 
 ## Very Hard
 
-| <b>No.</b> |	<b>Puzzle Name</b> |	<b>Code Size</b>	| <b> Language</b> |	<b>Tags</b> |
-| :--: |:--: |:--: |:--:  |:--: |
-| 001 |  Name	 | ❌ Not Completed | size | Tags |
+| <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
+| :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
+| 1 |  Name	 | ❌ Not Completed | Python | size | Tags |
+
+# Bot Programming 
+
+# Optimization
