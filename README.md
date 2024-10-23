@@ -87,7 +87,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 001 |  Longest Palindrome	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Longest%20Palindrome/Python.py) | Palindrome<br>String |
 | 002 |  Magic count of Numbers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Magic%20Count%20of%20Numbers/Python.py) | Arithmetic<br>Mathematics |
 | 003 |  The Greatest Number | ✔️ Completed | [Python]() | String<br>Manipulation<br>Conditions |
-| 004 |  Name	 | ✔️ Completed | Lang | Tags |
+| 004 |  Name	 | ❌ Not Completed | Lang | Tags |
 
 ## Very Hard
 
