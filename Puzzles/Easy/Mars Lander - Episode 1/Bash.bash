@@ -1,6 +1,3 @@
-# Auto-generated code below aims at helping you parse
-# the standard input according to the problem statement.
-
 # surfaceN: the number of points used to draw the surface of Mars.
 read -r surfaceN
 for (( i=0; i<$surfaceN; i++ )); do
@@ -26,5 +23,4 @@ while true; do
         $power = 4
         echo "0 4"
     fi
-
 done
