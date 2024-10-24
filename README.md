@@ -78,7 +78,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 017 | Power of Thor - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Power%20of%20Thor%20-%20Episode%201/Python.py) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Power%20of%20Thor%20-%20Episode%201/Java.java)| Conditions |
 | 018 | MIME Type | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/MIME%20Type/Python.py) | Hash Tables<br>Loops<br>Conditions<br>Strings |
 | 019 | NGR - Basic Radar | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/NRG%20-%20Basic%20Radar/Python.py) | Hashmap<br>Sorting<br>Mathematics |
-| 020 | Brackets, Extreme Edition | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Brackets%2C%20Extreme%20Edition/Python.py)<br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Brackets%2C%20Extreme%20Edition/Java.java) | Stack<br>Hashmap |
+| 020 | Brackets, Extreme Edition | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Brackets%2C%20Extreme%20Edition/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Brackets%2C%20Extreme%20Edition/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Brackets%2C%20Extreme%20Edition/Java.java) | Stack<br>Hashmap |
 | 021 | Name | ❌ Not Completed | []()<br> | Tags |
 
 ## Medium
