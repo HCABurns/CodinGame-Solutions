@@ -84,15 +84,15 @@ The following will show my solutions to puzzles which have been seperated by dif
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 001 |  Name	 | ✔️ Completed | Lang | Tags |
-| 002 |  Name	 | ✔️ Completed | Lang | Tags |
-| 003 |  Name	 | ✔️ Completed | Lang | Tags |
-| 004 |  Name	 | ✔️ Completed | Lang | Tags |
-| 005 |  Name	 | ✔️ Completed | Lang | Tags |
-| 006 |  Name	 | ✔️ Completed | Lang | Tags |
-| 007 |  Name	 | ✔️ Completed | Lang | Tags |
-| 008 |  Name	 | ✔️ Completed | Lang | Tags |
-| 009 |  Name	 | ❌ Not Completed | Lang | Tags |
+| 001 |  Telephone Numbers	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Ruby.rb) | Tries<br>Set |
+| 002 |  War	 | ✔️ Completed | Python() | Queues |
+| 003 |  Shadow if the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Shadow%20of%20the%20Knight%20-%20Episode%201/Python.py) | Binary Search<br>Intervals |
+| 004 |  Network Cabling	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Network%20Cabling/Python.py) | Medians<br>Distances<br>Loops |
+| 005 |  Don't Panic!	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Don't%20Panic%20-%20Episode%201/Python.py) | Conditions |
+| 006 |  Stock Exchange Loses	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Stock%20Exchange%20Loss/Python.py) | Arrays<br>Loops<br>Conditions |
+| 007 |  Scrabble	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Scrabble/Python.py) | Loops<br>Conditions |
+| 008 |  There is no Spoon | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/There%20is%20no%20Spoon%20-%20Episode%201/Python.py) | Lists |
+| 009 |  Name	 | ❌ Not Completed | [Python]() | Tags |
 
 ## Hard
 
