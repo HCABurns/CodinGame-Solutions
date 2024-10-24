@@ -1,1 +1,1 @@
-while 1:print(max((input(),i)for i in range(8))[1])
+while 1:print(max(range(8),key=lambda i:input()))
