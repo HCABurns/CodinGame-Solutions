@@ -5,11 +5,13 @@ def input = new Scanner(System.in)
 
 // Declare required variables.
 int N = input.nextInt()
+int i = 0;
+int val = 0;
 def int[] arr = new int[N]
 def difference = 99999999
 
 // Store horse strength in array.
-for (int i = 0; i < N; ++i) {
+for (i; i < N; ++i) {
     arr[i] = input.nextInt()
 }
 
@@ -17,8 +19,9 @@ for (int i = 0; i < N; ++i) {
 Arrays.sort(arr)
 
 // Check adjacent horses power and store minimum difference.
-for (i = 0; i < N-1; ++i) {
-    int val = arr[i+1] - arr[i]
+i=0;
+for (i; i < N-1; ++i) {
+    val = arr[i+1] - arr[i]
     if (val < difference){
         difference = val
     }
