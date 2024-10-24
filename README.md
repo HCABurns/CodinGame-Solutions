@@ -78,7 +78,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 017 | Power of Thor - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Power%20of%20Thor%20-%20Episode%201/Python.py) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Power%20of%20Thor%20-%20Episode%201/Java.java)| Conditions |
 | 018 | MIME Type | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/MIME%20Type/Python.py) | Hash Tables<br>Loops<br>Conditions<br>Strings |
 | 019 | NGR - Basic Radar | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/NRG%20-%20Basic%20Radar/Python.py) | Hashmap<br>Sorting<br>Mathematics |
-| 020 | Name | ❌ Not Completed | []()<br> | Tags |
+| 020 | Brackets, Extreme Edition | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Brackets%2C%20Extreme%20Edition/Python.py)<br> | Stack<br>Hashmap |
+| 021 | Name | ❌ Not Completed | []()<br> | Tags |
 
 ## Medium
 
@@ -139,13 +140,26 @@ The following are my results for code golf split into the different difficulties
 
 | <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
 | :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
-| 1 |  Name	 | ❌ Not Completed | Python | size | Tags |
+| 1 |  The Labyrinth	 | ❌ Not Completed |  |  | BFS<br>Pathfinding |
+| 2 |  The Bridge	 | ❌ Not Completed |  |  | DFS<br>Backtracking |
+| 3 |  Vox Codei - Episode 1	 | ❌ Not Completed |  |  | DFS<br>Brut-force<br>simulation |
+| 4 |  Super Computer	 | ❌ Not Completed |  |  | Greedy Algorithm<br>Scheduling |
+| 5 |  Roller Coaster	 | ❌ Not Completed |  |  | Dynamic Programming<br>Simulation |
+| 6 |  Surface	 | ❌ Not Completed |  |  | BFS<br>Flood Fill<br>Memoization<br>Recursion |
+| 7 |  The Fall - Episode 2	 | ❌ Not Completed |  |  | Backtracking<br>Pathfinding |
+| 8 |  Gnome Sequencing	 | ❌ Not Completed |  |  | Permutation<br>String |
+| 9 |  Blunder - Episode 3	 | ❌ Not Completed |  |  | Regression Analysis |
 
 ## Very Hard
 
 | <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
 | :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
-| 1 |  Name	 | ❌ Not Completed | Python | size | Tags |
+| 1 |  Shaodws of the Knight - Episode 2 | ❌ Not Completed |  |  | Binary Search<br> Intervals |
+| 2 |  The Resistance | ❌ Not Completed |  |  | Dynamic Programming<br>Encoding<br>Memoization<br>Recursion |
+| 3 |  The Fall - Episode 3	 | ❌ Not Completed |  |  | Backtracking<br>Pathfinding |
+| 4 |  music Scores	 | ❌ Not Completed |  |  | Encoding<br>Image Processing<br>Pattern Recognition |
+| 5 |  Vox Codei - Episode 2 | ❌ Not Completed |  |  | Pattern Recognition<br>DFS<br>Brute-force<br>Simulation |
+| 6 |  Mars Lander - Episode 3 | ❌ Not Completed |  |  | Distances<br>Trigonometry |
 
 # Bot Programming 
 
