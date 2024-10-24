@@ -130,7 +130,7 @@ The following are my results for code golf split into the different difficulties
 | :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
 | 1 | Shadows of the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Shadows%20of%20the%20Knight%20-%20Episode%201/Python.py) | 184 | Binary Search<br>Intervals |
 | 2 | Telephone Numbers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Ruby.rb) | 93<br>80 | Sets<br>Tries |
-| 3 | Network Cabling | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Network%20Cabling/Python.py) | 141 | Loops<br>Distances<br>Medians |
+| 3 | Network Cabling | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Network%20Cabling/Python.py) | 123 | Loops<br>Distances<br>Medians |
 | 4 | Mayan Calculation | ❌ Not Completed | N/A | N/A | Radix<br>Strings |
 | 5 | Blunder - Episode 1 | ❌ Not Completed | N/A | N/A | State Machine<br>Simulation |
 | 6 | Dwarfs Standing on the Shoulders of Giants | ❌ Not Completed | N/A | N/A | Memoization<br>Recusion<br>Graphs |
