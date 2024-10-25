@@ -21,7 +21,7 @@ Clash of Code is a mode aimed at improving coding efficiency through racing othe
 
 ## What is Puzzles?
 
-Puzzles are a selection of problems split into different difficulty levels. The goal is to provide a solution that will pass hidden validators to ensure a complete solution, including edge cases are handled correctly. Each problem is accompanied by tags releated to the problem, for example: Loops, BFS, Trie, Backtracking, Pathfinding, Cryptography, ... etc. 
+Puzzles are a selection of problems split into different difficulty levels. The goal is to provide a solution that will pass hidden validators to ensure a complete solution, including edge cases are handled correctly. Each problem is accompanied by tags releated to the problem, for example: BFS, Trie, Backtracking, Pathfinding, Cryptography, ... etc. 
 
 ## What is Code Golf?
 
