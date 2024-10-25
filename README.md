@@ -5,7 +5,7 @@ These are a collection of solutions to the puzzles on [codinggame.com](https://w
 
 # Introduction
 
-CodingGame has a vast selection of challenging problems, in a variety of different contexts, requiring kno
+CodingGame has a vast selection of challenging problems, in a variety of different contexts, requiring knowledge in all aspects of programming to solve them.
 
 There are multiple different modes available: Clash of Code, Puzzles, Code Golf, Bot Programming, Optimization. Each mode offers something unqiue and challenging.
 
@@ -15,13 +15,13 @@ Clash of Code is a mode aimed at improving coding efficiency through racing othe
 
 <b>Fastest:</b> This mode is to create a solution to a problem passing all validators as quick as possible.
 
-<b>Shortest:</b> This mode is for creating a solution in the shortest number of charaters possible.
+<b>Shortest:</b> This mode is for creating a solution in the shortest number of characters possible.
 
 <b>Reverse:</b> This mode provides an input and output only. The user must decipher the problem only from this information and create a solution as quick as they can.
 
 ## What is Puzzles?
 
-Puzzles are a selection of problems split into different difficulty levels. The goal is to provide a solution that will pass hidden validators to ensure a complete solution, including edge cases are handled correctly. Each problem is accompanied by tags releated to the problem, for example: BFS, Trie, Backtracking, Pathfinding, Cryptography, ... etc. 
+Puzzles are a selection of problems split into different difficulty levels. The goal is to provide a solution that will pass hidden validators, to ensure a complete solution. The hidden validators will include general solutions as well as edge cases. Each problem is accompanied by tags releated to the problem, for example: BFS, Trie, Backtracking, Pathfinding, Cryptography, ... etc. 
 
 ## What is Code Golf?
 
@@ -33,7 +33,7 @@ Bot progamming is a challenge to create an AI to run thorugh a simulation in the
 
 ## What is Optimization?
 
-...
+Optimization is a mode where you need to optimise your code to provide the best possible outcome given a problem.
 
 
 # Clash of Code
