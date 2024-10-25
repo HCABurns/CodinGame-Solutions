@@ -79,7 +79,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 018 | MIME Type | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/MIME%20Type/Python.py) | Hash Tables<br>Loops<br>Conditions<br>Strings |
 | 019 | NGR - Basic Radar | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/NRG%20-%20Basic%20Radar/Python.py) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/NRG%20-%20Basic%20Radar/Java.java) | Hashmap<br>Sorting<br>Mathematics |
 | 020 | Brackets, Extreme Edition | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Brackets%2C%20Extreme%20Edition/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Brackets%2C%20Extreme%20Edition/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Brackets%2C%20Extreme%20Edition/Java.java) | Stack<br>Hashmap |
-| 021 | Name | ❌ Not Completed | []()<br> | Tags |
+| 021 | The Dart 101 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Dart%20101/Python.py)<br> | Queue<br>Simulation<br>Conditions |
+| 022 | Name | ❌ Not Completed | []()<br> | Tags |
 
 ## Medium
 
