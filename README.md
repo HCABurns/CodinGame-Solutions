@@ -84,7 +84,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 024 | Cheap Choices | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Cheap%20Choices/Python.py)<br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Cheap%20Choices/Java.java) | Hashmap<br>Loops |
 | 025 | Periodic Table Spelling | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Periodic%20Table%20Spelling/Python.py)<br> | DFS<br>BFS<br>Loops<br>Conditions |
 | 026 | Anagram to Break Code! | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Anagram%20to%20Break%20Code!/Python.py)<br> | Anagram<br>Array<br>String Manipulation<Loops> |
-| 027 | Name | ❌ Not Completed | []()<br> | Tags |
+| 027 | Suduko Validator | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Sudoku%20Validator/Python.py)<br> | 2D Array<br>Conditions |
+| 028 | Name | ❌ Not Completed | []()<br> | Tags |
 
 ## Medium
 
