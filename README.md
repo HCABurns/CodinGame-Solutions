@@ -82,7 +82,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 021 | The Dart 101 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Dart%20101/Python.py)<br> | Queue<br>Simulation<br>Conditions |
 | 023 | Longest Coast | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Longest%20Coast/Python.py)<br> | DFS<br>BFS<br>Graphs |
 | 024 | Cheap Choices | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Cheap%20Choices/Python.py)<br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Cheap%20Choices/Java.java) | Hashmap<br>Loops |
-| 025 | Name | ❌ Not Completed | []()<br> | Tags |
+| 025 | Periodic Table Spelling | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Periodic%20Table%20Spelling/Python.py)<br> | DFS<br>BFS<br>Loops<br>Conditions |
+| 026 | Name | ❌ Not Completed | []()<br> | Tags |
 
 ## Medium
 
