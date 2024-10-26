@@ -128,7 +128,7 @@ The following are my results for code golf split into the different difficulties
 | 2 |  Ascii Art	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/ASCII%20Art/Python.py) | 119 | Strings <br> Loops <br> Arrays |
 | 3 |  Unary | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Unary/Python.py) | 166 | Encoding<br>Loops<br>Conditions<br>String |
 | 4 | Power of Thor | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Power%20of%20Thor/Python.py) | 111 | Conditions |
-| 5 |  Temperatures	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Ruby.rb) | 74 <br> 54 | Arrays<br> Loops<br> Conditions |
+| 5 |  Temperatures	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Ruby.rb) | 73 <br> 54 | Arrays<br> Loops<br> Conditions |
 | 6 |  Don't Panic	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Don't%20Panic/Python.py) | 227 | Conditions |
 
 ## Medium
