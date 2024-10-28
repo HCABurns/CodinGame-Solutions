@@ -86,7 +86,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 026 | Anagram to Break Code! | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Anagram%20to%20Break%20Code!/Python.py)<br> | Anagram<br>Array<br>String Manipulation<Loops> |
 | 027 | Suduko Validator | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Sudoku%20Validator/Python.py)<br> | 2D Array<br>Conditions |
 | 028 | Island Escape | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Island%20Escape/Python.py)<br> | Flood Fill <br>DFS <br>2D Array |
-| 029 | Name | ❌ Not Completed | []()<br> | Tags |
+| 029 | Word Search for Programmers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Word%20Search%20for%20Programmers/Python.py)<br> | 2D Array<br>String Manipulation<br>Sets<br>Conditions |
+| 030 | Name | ❌ Not Completed | []()<br> | Tags |
 
 ## Medium
 
