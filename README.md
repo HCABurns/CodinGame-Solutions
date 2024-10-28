@@ -93,7 +93,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 033 | You are the Father: Maury Povich Style | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/You%20are%20the%20Father%3A%20Maury%20Povich%20Style/Python.py)<br> | String Manipulation<br>Hashmap |
 | 034 | Treasure Hunt | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Treasure%20hunt/Python.py)<br> | Pathfinding<br>Recursive DFS<br>Loops |
 | 035 | Fax Machine | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Fax%20Machine/Python.py)<br> | Encoding<br> |
-| 036 | Name | ❌ Not Completed | []()<br> | Tags |
+| 036 | Count Your Coins | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Count%20Your%20Coins/Python.py)<br> | Mathematics<br>Loops |
+| 037 | Name | ❌ Not Completed | []()<br> | Tags |
 
 
 
