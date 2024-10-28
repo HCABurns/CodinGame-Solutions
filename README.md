@@ -90,7 +90,10 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 030 | Should Bakers be Frugal? | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Should%20Bakers%20be%20Frugal%3F/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Should%20Bakers%20be%20Frugal%3F/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Should%20Bakers%20be%20Frugal%3F/Java.java)<br> | Resource Management<br>Simulation<br>Mathematics<br>Geometry |
 | 031 | Rock Paper Scissors Lizard Spock | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Rock%20Paper%20Scissors%20Lizard%20Spock/Python.py)<br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Rock%20Paper%20Scissors%20Lizard%20Spock/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Rock%20Paper%20Scissors%20Lizard%20Spock/Java.java)| Hashmap<br>Loops<br>Conditions |
 | 032 | What 🌼 is 🌷 Your 🌸 Garden 💐 Worth? | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/What%20%F0%9F%8C%BC%20is%20%F0%9F%8C%B7%20Your%20%F0%9F%8C%B8%20Garden%20%F0%9F%92%90%20Worth%3F/Python.py)<br> | Hashmap<br>Mathematics<br>String Manipulation |
-| 033 | Name | ❌ Not Completed | []()<br> | Tags |
+| 033 | You are the Father: Maury Povich Style | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/You%20are%20the%20Father%3A%20Maury%20Povich%20Style/Python.py)<br> | String Manipulation<br>Hashmap |
+| 034 | Name | ❌ Not Completed | []()<br> | Tags |
+
+
 
 ## Medium
 
