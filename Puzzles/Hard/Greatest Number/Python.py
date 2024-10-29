@@ -10,7 +10,7 @@ if all(1 if i == "0" else 0 for i in vals):
     print(0)
     quit()
 
-# If deciaml add deciaml.
+# If decimal add decimal.
 if "." in s:
     vals.insert(1,".")
 
