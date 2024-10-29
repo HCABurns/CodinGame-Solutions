@@ -117,7 +117,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 005 |  Don't Panic!	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Don't%20Panic%20-%20Episode%201/Python.py) | Conditions |
 | 006 |  Stock Exchange Loses	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Stock%20Exchange%20Loss/Python.py) | Arrays<br>Loops<br>Conditions |
 | 007 |  Scrabble	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Scrabble/Python.py) | Loops<br>Conditions |
-| 008 |  There is no Spoon | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/There%20is%20no%20Spoon%20-%20Episode%201/Python.py) | Lists |
+| 008 |  There is no Spoon | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/There%20is%20no%20Spoon%20-%20Episode%201/Python.py) | 2D Array<br>Lists |
 | 009 |  Name	 | ❌ Not Completed | [Python]() | Tags |
 
 ## Hard
