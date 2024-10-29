@@ -97,7 +97,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 037 | Zeckendorf Representation | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Zeckendorf%20Representation/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Zeckendorf%20Representation/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Zeckendorf%20Representation/Java.java)<br> | Greedy Algorithm<br>Mathematics<br>Arithmetic<br>Numbers |
 | 038 | Object Insertion | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Object%20Insertion/Python.py)<br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Object%20Insertion/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Object%20Insertion/Java.java)| 2D Array<br>Loops |
 | 039 | Hidden Messages In Images | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Hidden%20Messages%20In%20Images/Python.py)<br> | Image Processing<nr>Loops |
-| 040 | Name | ❌ Not Completed | []()<br> | Tags |
+| 040 | Hunger Games | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Hunger%20Games/Python.py)<br> | Object Sorting<br>Hashmap |
 | 041 | Name | ❌ Not Completed | []()<br> | Tags |
 
 
