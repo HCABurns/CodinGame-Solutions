@@ -1,7 +1,7 @@
 # Get width and hight of shape to fit
 a, b = [int(i) for i in input().split()]
 
-# Find shape coordinates relative to one of the first * characters.
+# Find shape coordinates relative to the first * character.
 shape = []
 start = []
 for i in range(a):
