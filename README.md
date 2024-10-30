@@ -102,7 +102,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 042 | Prefix Code | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Prefix%20Code/Python.py)<br> | Trie<br>String Manipulation<br>Encoding |
 | 043 | NATO-Alphabet's Odd Uncles | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/NATO-Alphabet's%20Odd%20Uncles/Python.py)<br> | Pattern Recognition<br>String Manipulation<br>Loops<br>Conditions |
 | 044 | Mountain Map | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Mountain%20Map/Python.py)<br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Mountain%20Map/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Mountain%20Map/Java.java) | ASCII Art |
-| 045 | Name | ❌ Not Completed | []()<br> | Tags |
+| 045 | The Broken Editor | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Broken%20Editor/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Broken%20Editor/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Broken%20Editor/Java.java)<br> | String Manipulation<br>Arrays |
+| 046 | Name | ❌ Not Completed | []()<br> | Tags |
 
 
 
