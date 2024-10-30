@@ -103,8 +103,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 043 | NATO-Alphabet's Odd Uncles | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/NATO-Alphabet's%20Odd%20Uncles/Python.py)<br> | Pattern Recognition<br>String Manipulation<br>Loops<br>Conditions |
 | 044 | Mountain Map | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Mountain%20Map/Python.py)<br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Mountain%20Map/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Mountain%20Map/Java.java) | ASCII Art |
 | 045 | The Broken Editor | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Broken%20Editor/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Broken%20Editor/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Broken%20Editor/Java.java)<br> | String Manipulation<br>Arrays |
-| 046 | Name | ❌ Not Completed | []()<br> | Tags |
-
+| 046 | Card Counting When Easily Distracted | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Card%20Counting%20When%20Easily%20Distracted/Python.py)<br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Card%20Counting%20When%20Easily%20Distracted/Ruby.rb)| Probability<br>Mathematics<br>Hashmap<br>String Manipulation |
+| 047 | Name | ❌ Not Completed | []()<br> | Tags |
 
 
 
