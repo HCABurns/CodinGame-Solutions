@@ -146,7 +146,7 @@ The following are my results for code golf split into the different difficulties
 | <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
 | :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
 | 1 | The Descent | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/The%20Descent/Python.py) <br/> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/The%20Descent/Ruby.rb) | 49 <br/> 37 | Loops |
-| 2 |  Ascii Art	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/ASCII%20Art/Python.py) | 119 | Strings <br> Loops <br> Arrays |
+| 2 |  Ascii Art	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/ASCII%20Art/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/ASCII%20Art/Ruby.rb)| 119 <br>116 | Strings <br> Loops <br> Arrays |
 | 3 |  Unary | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Unary/Python.py) | 166 | Encoding<br>Loops<br>Conditions<br>String |
 | 4 | Power of Thor | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Power%20of%20Thor/Python.py) | 111 | Conditions |
 | 5 |  Temperatures	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Ruby.rb) | 72 <br> 54 | Arrays<br> Loops<br> Conditions |
