@@ -101,7 +101,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 041 | Credit Card Verifier (Luhn’s Algorithm) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Credit%20Card%20Verifier%20(Luhn%E2%80%99s%20Algorithm)/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Credit%20Card%20Verifier%20(Luhn%E2%80%99s%20Algorithm)/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Credit%20Card%20Verifier%20(Luhn%E2%80%99s%20Algorithm)/Java.java) | Check-digit |
 | 042 | Prefix Code | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Prefix%20Code/Python.py)<br> | Trie<br>String Manipulation<br>Encoding |
 | 043 | NATO-Alphabet's Odd Uncles | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/NATO-Alphabet's%20Odd%20Uncles/Python.py)<br> | Pattern Recognition<br>String Manipulation<br>Loops<br>Conditions |
-| 044 | Name | ❌ Not Completed | []()<br> | Tags |
+| 044 | Mountain Map | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Mountain%20Map/Python.py)<br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Mountain%20Map/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Mountain%20Map/Java.java) | ASCII Art |
+| 045 | Name | ❌ Not Completed | []()<br> | Tags |
 
 
 
