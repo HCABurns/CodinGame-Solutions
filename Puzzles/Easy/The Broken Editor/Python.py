@@ -5,7 +5,6 @@ typed_keys = input()
 # Create array for storing chars.
 stack = []
 
-
 i = 0
 for char in typed_keys:
     # Reset bounds if out-of-bounds.
