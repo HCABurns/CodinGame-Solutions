@@ -106,7 +106,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 046 | Card Counting When Easily Distracted | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Card%20Counting%20When%20Easily%20Distracted/Python.py)<br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Card%20Counting%20When%20Easily%20Distracted/Ruby.rb)| Probability<br>Mathematics<br>Hashmap<br>String Manipulation |
 | 047 | Robot Show | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Robot%20Show/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Robot%20Show/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Robot%20Show/Java.java)<br>[Javascript](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Robot%20Show/Javascript.js)<br>[C++](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Robot%20Show/C%2B%2B.cpp)<br>[C](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Robot%20Show/C.c)<br>[C#](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Robot%20Show/C%23.cs)<br> [D](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Robot%20Show/D.d) <br> [Dart](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Robot%20Show/Dart.dart)| Strive for Simplicity<br>Array<br>Sorting |
 | 048 | Annihilation | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Annihilation/Python.py)<br> | Simulation<br>Hashmap<br>Tuple |
-| 049 | Name | ❌ Not Completed | []()<br> | Tags |
+| 049 |  | ❌ Not Completed | []()<br> |  |
 
 
 
@@ -122,7 +122,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 006 |  Stock Exchange Loses	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Stock%20Exchange%20Loss/Python.py) | Arrays<br>Loops<br>Conditions |
 | 007 |  Scrabble	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Scrabble/Python.py) | Loops<br>Conditions |
 | 008 |  There is no Spoon | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/There%20is%20no%20Spoon%20-%20Episode%201/Python.py) | 2D Array<br>Lists |
-| 009 |  Name	 | ❌ Not Completed | [Python]() | Tags |
+| 009 |  	 | ❌ Not Completed | []() | |
 
 ## Hard
 
@@ -131,13 +131,13 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 001 |  Longest Palindrome	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Longest%20Palindrome/Python.py) | Palindrome<br>String |
 | 002 |  Magic count of Numbers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Magic%20Count%20of%20Numbers/Python.py) | Arithmetic<br>Mathematics |
 | 003 |  The Greatest Number | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Greatest%20Number/Python.py) | String<br>Manipulation<br>Conditions |
-| 004 |  Name	 | ❌ Not Completed | Lang | Tags |
+| 004 |  	 | ❌ Not Completed | []() |  |
 
 ## Very Hard
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 001 |  Name	 | ❌ Not Completed | Lang | Tags |
+| 001 |  	 | ❌ Not Completed | []() |  |
 
 # Code Golf
 
