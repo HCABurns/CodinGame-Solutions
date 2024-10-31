@@ -108,7 +108,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 048 | Annihilation | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Annihilation/Python.py)<br> | Simulation<br>Hashmap<br>Tuple |
 | 049 | Detective Pikaptcha EP1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Detective%20Pikaptcha%20EP1/Python.py)<br>[Python 2](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Detective%20Pikaptcha%20EP1/Python%202.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Detective%20Pikaptcha%20EP1/Ruby.rb)| Maze <br>Recursive DFS |
 | 050 | A Child's Play | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/A%20Child's%20Play/Python.py)<br> | Graph<br>Simulation<br>Hashmap |
-| 051 |  |❌ Not Completed| []()<br> |  |
+| 051 | 1000000000D WORLD |❌ Not Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/1000000000D%20WORLD/Python.py)<br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/1000000000D%20WORLD/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/1000000000D%20WORLD/Java.java) | Mathematics<br>Dot Product |
+| 052 |  |❌ Not Completed| []()<br> |  |
 
 
 
