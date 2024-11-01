@@ -16,7 +16,7 @@ for i in range(height):
 # Get which wall to follow and convert to value to be used.
 # Value of side determines turn direction.
 # -1 means left turn, 1 means right turn.
-side = -1 if input() == "L" else 1
+side = 1 if input() == "L" else -1
 
 #Set directions-L        U        R       D
 directions = {0:[0,-1],1:[-1,0],2:[0,1],3:[1,0]}
