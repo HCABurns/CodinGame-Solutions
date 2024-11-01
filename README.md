@@ -113,8 +113,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 052 | Blackjack solver |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Blackjack%20solver/Python.py)<br> | Card Games<br>Loops<br>Conditions<br>Strings |
 | 053 | Where's Wally? |✔️ Completed| [Python]()<br> | Regular Expressions<br>ASCII Art<br>String Manipulation |
 | 054 | Unique Prefixes |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Unique%20Prefixes/Python.py)<br> | Hashmap<br>Array<br>String Manipulation |
-| 055 |  |❌ Not Completed| []() |  |
-
+| 055 | Euclid’s Algorithm |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Java.java) <br> [Javascript](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Javascript.js)| Recursion<br>Mathematics |
+| 056 |  |❌ Not Completed| []() |  |
 
 
 ## Medium
