@@ -114,8 +114,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 053 | Where's Wally? |✔️ Completed| [Python]()<br> | Regular Expressions<br>ASCII Art<br>String Manipulation |
 | 054 | Unique Prefixes |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Unique%20Prefixes/Python.py)<br> | Hashmap<br>Array<br>String Manipulation |
 | 055 | Euclid’s Algorithm |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Java.java) <br> [Javascript](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Javascript.js) <br>[C++](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/C%2B%2B.cpp) <br>[C](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/C.c)<br>[C#](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/C%23.cs)| Recursion<br>Mathematics |
+| 057 | Lumen |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Lumen/Python.py) | Loops<br>2D Array |
 | 056 |  |❌ Not Completed| []() |  |
-
 
 ## Medium
 
