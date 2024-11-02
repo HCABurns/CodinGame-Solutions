@@ -117,7 +117,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 057 | Lumen |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Lumen/Python.py) | Loops<br>2D Array |
 | 056 | Random Walk |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Random%20Walk/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Random%20Walk/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Random%20Walk/Java.java) | Simulation<br>Hashmap |
 | 058 | The Travelling Salesman Problem |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Travelling%20Salesman%20Problem/Python.py) | Graphs<br>Greedy Algorithm |
-| 059 |  |❌ Not Completed| []() |  |
+| 059 | TicTacToe |✔️ Completed| [Python]() | Simulation<br>2D Array<br>String Manipulation |
+| 060 |  |❌ Not Completed| []() |  |
 
 ## Medium
 
