@@ -116,7 +116,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 055 | Euclid’s Algorithm |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Java.java) <br> [Javascript](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/Javascript.js) <br>[C++](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/C%2B%2B.cpp) <br>[C](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/C.c)<br>[C#](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Euclid's%20Algorithm/C%23.cs)| Recursion<br>Mathematics |
 | 057 | Lumen |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Lumen/Python.py) | Loops<br>2D Array |
 | 056 | Random Walk |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Random%20Walk/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Random%20Walk/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Random%20Walk/Java.java) | Simulation<br>Hashmap |
-| 058 |  |❌ Not Completed| []() |  |
+| 058 | The Travelling Salesman Problem |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Travelling%20Salesman%20Problem/Python.py) | Graphs<br>Greedy Algorithm |
+| 059 |  |❌ Not Completed| []() |  |
 
 ## Medium
 
