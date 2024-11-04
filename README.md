@@ -127,31 +127,32 @@ The following will show my solutions to puzzles which have been seperated by dif
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 001 |  Telephone Numbers	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Java.java)| Tries<br>Set |
-| 002 |  War	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/War/Python.py) | Queues |
-| 003 |  Shadow if the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Shadow%20of%20the%20Knight%20-%20Episode%201/Python.py) | Binary Search<br>Intervals |
-| 004 |  Network Cabling	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Network%20Cabling/Python.py) | Medians<br>Distances<br>Loops |
-| 005 |  Don't Panic!	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Don't%20Panic%20-%20Episode%201/Python.py) | Conditions |
-| 006 |  Stock Exchange Loses	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Stock%20Exchange%20Loss/Python.py) | Arrays<br>Loops<br>Conditions |
-| 007 |  Scrabble	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Scrabble/Python.py) | Loops<br>Conditions |
-| 008 |  There is no Spoon | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/There%20is%20no%20Spoon%20-%20Episode%201/Python.py) | 2D Array<br>Lists |
-| 010 | Detective Pikaptcha EP3 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Detective%20Pikaptcha%20EP3/Python.py) | Maze<br>Simulation<br>DFS |
-| 009 |  	 | ❌ Not Completed | []() | |
+| 01 |  Telephone Numbers	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Java.java)| Tries<br>Set |
+| 02 |  War	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/War/Python.py) | Queues |
+| 03 |  Shadow if the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Shadow%20of%20the%20Knight%20-%20Episode%201/Python.py) | Binary Search<br>Intervals |
+| 04 |  Network Cabling	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Network%20Cabling/Python.py) | Medians<br>Distances<br>Loops |
+| 05 |  Don't Panic!	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Don't%20Panic%20-%20Episode%201/Python.py) | Conditions |
+| 06 |  Stock Exchange Loses	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Stock%20Exchange%20Loss/Python.py) | Arrays<br>Loops<br>Conditions |
+| 07 |  Scrabble	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Scrabble/Python.py) | Loops<br>Conditions |
+| 08 |  There is no Spoon | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/There%20is%20no%20Spoon%20-%20Episode%201/Python.py) | 2D Array<br>Lists |
+| 10 | Detective Pikaptcha EP3 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Detective%20Pikaptcha%20EP3/Python.py) | Maze<br>Simulation<br>DFS |
+| 11 |  	 | ❌ Not Completed | []() | |
 
 ## Hard
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 001 |  Longest Palindrome	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Longest%20Palindrome/Python.py) | Palindrome<br>String |
-| 002 |  Magic count of Numbers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Magic%20Count%20of%20Numbers/Python.py) | Arithmetic<br>Mathematics |
-| 003 |  The Greatest Number | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Greatest%20Number/Python.py) | String<br>Manipulation<br>Conditions |
-| 004 |  	 | ❌ Not Completed | []() |  |
+| 01 |  Longest Palindrome	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Longest%20Palindrome/Python.py) | Palindrome<br>String |
+| 02 |  Magic count of Numbers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Magic%20Count%20of%20Numbers/Python.py) | Arithmetic<br>Mathematics |
+| 03 |  The Greatest Number | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Greatest%20Number/Python.py) | String<br>Manipulation<br>Conditions |
+| 04 |  	 | ❌ Not Completed | []() |  |
 
 ## Very Hard
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 001 |  	 | ❌ Not Completed | []() |  |
+| 01 | The Resistance | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Ruby.rb) | Memoization<br>Dynamic Programming<br>Encoding<br>Recursion |
+| 02 |  | ❌ Not Completed | []() |  |
 
 # Code Golf
 
