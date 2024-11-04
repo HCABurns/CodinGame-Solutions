@@ -125,7 +125,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 001 |  Telephone Numbers	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Ruby.rb) | Tries<br>Set |
+| 001 |  Telephone Numbers	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Java.java)| Tries<br>Set |
 | 002 |  War	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/War/Python.py) | Queues |
 | 003 |  Shadow if the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Shadow%20of%20the%20Knight%20-%20Episode%201/Python.py) | Binary Search<br>Intervals |
 | 004 |  Network Cabling	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Network%20Cabling/Python.py) | Medians<br>Distances<br>Loops |
