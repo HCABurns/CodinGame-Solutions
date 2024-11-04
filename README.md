@@ -43,7 +43,7 @@ The following will show my position, score rating and number of participations i
 ### Current Standings
 | <b>Position</b>  | <b>Percentile</b> | <b>Score</b> | <b>Participations</b> |
 | ------------- | --- |------------- | :-----------: |
-| <b>67</b> / 736,757 | Top 0.0091% | 26.76 | 506 |
+| <b>69</b> / 736,987 | Top 0.0091% | 26.71 | 506 |
 
 ### Best Standings
 
