@@ -24,7 +24,7 @@ def search(idx):
     for word in words_keys:
         if unknown_morse[idx:idx+len(word)] == word:
             combinations += search(idx+len(word))
-    # Set new and return.
+    # Cache result and return.
     cache[idx] = combinations
     return combinations
 
