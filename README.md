@@ -202,7 +202,7 @@ The following are my results for code golf split into the different difficulties
 | 1 |  Shaodws of the Knight - Episode 2 | ❌ Not Completed |  |  | Binary Search<br> Intervals |
 | 2 |  The Resistance | ✔️ Completed | [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Very%20Hard/The%20Resistance/Ruby.rb) | 345 | Dynamic Programming<br>Encoding<br>Memoization<br>Recursion |
 | 3 |  The Fall - Episode 3	 | ❌ Not Completed |  |  | Backtracking<br>Pathfinding |
-| 4 |  music Scores	 | ❌ Not Completed |  |  | Encoding<br>Image Processing<br>Pattern Recognition |
+| 4 |  Music Scores	 | ❌ Not Completed |  |  | Encoding<br>Image Processing<br>Pattern Recognition |
 | 5 |  Vox Codei - Episode 2 | ❌ Not Completed |  |  | Pattern Recognition<br>DFS<br>Brute-force<br>Simulation |
 | 6 |  Mars Lander - Episode 3 | ❌ Not Completed |  |  | Distances<br>Trigonometry |
 
