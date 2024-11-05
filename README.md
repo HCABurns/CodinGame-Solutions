@@ -122,7 +122,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 061 | Azimut |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Azimut/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Azimut/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Azimut/Java.java) | Maze<br>Rotation<br> |
 | 062 | Personal Best |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Personal%20Best/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Personal%20Best/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Personal%20Best/Java.java) | Hashmap<br>Arrays |
 | 063 | Minimal Palindrome Distance |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Minimal%20Palindrome%20Distance/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Minimal%20Palindrome%20Distance/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Minimal%20Palindrome%20Distance/Java.java)| Palindrome<br>Loops |
-| 064 |  |❌ Not Completed| []() |  |
+| 064 | Dolbear's Law |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Dolbear's%20Law/Python.py) | Mathematics<br>Formula |
+| 065 |  |❌ Not Completed| []() |  |
 
 ## Medium
 
