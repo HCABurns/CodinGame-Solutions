@@ -126,7 +126,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 065 | Queen Control |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Queen%20Control/Python.py) | Chess<br>Loops<br>Conditions |
 | 066 | Odd-Quad-Out |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Odd-Quad-Out/Python.py) | 2D Array<br>Arithmetic<br>Digit Counts |
 | 067 | Reverse Minesweeper |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Reverse%20Minesweeper/Python.py) | 2D Array |
-| 068 |  |❌ Not Completed| []() |  |
+| 068 | Flip The Sign |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Flip%20The%20Sign/Python.py) | 2D Array |
+| 069 |  |❌ Not Completed| []() |  |
 
 ## Medium
 
