@@ -127,7 +127,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 066 | Odd-Quad-Out |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Odd-Quad-Out/Python.py) | 2D Array<br>Arithmetic<br>Digit Counts |
 | 067 | Reverse Minesweeper |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Reverse%20Minesweeper/Python.py) | 2D Array |
 | 068 | Flip The Sign |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Flip%20The%20Sign/Python.py) | 2D Array |
-| 069 | Substitution Encoding |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Substitution%20Encoding/Python.py) | Encoding<br>2D Array<br>String Manipulation |
+| 069 | Substitution Encoding |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Substitution%20Encoding/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Substitution%20Encoding/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Substitution%20Encoding/Java.java) | Encoding<br>2D Array<br>String Manipulation |
 | 070 |  |❌ Not Completed| []() |  |
 
 ## Medium
