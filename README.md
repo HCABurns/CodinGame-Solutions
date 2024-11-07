@@ -124,7 +124,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 063 | Minimal Palindrome Distance |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Minimal%20Palindrome%20Distance/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Minimal%20Palindrome%20Distance/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Minimal%20Palindrome%20Distance/Java.java)| Palindrome<br>Loops |
 | 064 | Dolbear's Law |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Dolbear's%20Law/Python.py) | Mathematics<br>Formula |
 | 065 | Queen Control |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Queen%20Control/Python.py) | Chess<br>Loops<br>Conditions |
-| 066 |  |❌ Not Completed| []() |  |
+| 066 | Odd-Quad-Out |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Odd-Quad-Out/Python.py) | 2D Array<br>Arithmetic<br>Digit Counts |
+| 067 |  |❌ Not Completed| []() |  |
 
 ## Medium
 
