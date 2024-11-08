@@ -18,7 +18,6 @@ def min_coins(remaining_amount):
     coins = None
     for coin in register:
         result = min_coins(remaining_amount - coin)
-        
         if result is not None and (coins is None or len(result) + 1 < len(coins)):
             coins = result + [coin]
 
@@ -34,4 +33,4 @@ else:
     if result == []:
         print(0)
     else:
-        print(" ".join(map(str, result[::-1])))
+        print(*result[::-1])
