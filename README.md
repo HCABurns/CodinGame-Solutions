@@ -129,7 +129,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 068 | Flip The Sign |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Flip%20The%20Sign/Python.py) | 2D Array |
 | 069 | Substitution Encoding |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Substitution%20Encoding/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Substitution%20Encoding/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Substitution%20Encoding/Java.java) | Encoding<br>2D Array<br>String Manipulation |
 | 070 | The River I. |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20River%20I./Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20River%20I./Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20River%20I./Java.java) | Conditions |
-| 071 |  |❌ Not Completed| []() |  |
+| 071 | Van Eck's sequence |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Van%20Eck's%20sequence/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Van%20Eck's%20sequence/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Van%20Eck's%20sequence/Java.java) | Memoization<br>Hashmap |
+| 072 |  |❌ Not Completed| []() |  |
 
 ## Medium
 
