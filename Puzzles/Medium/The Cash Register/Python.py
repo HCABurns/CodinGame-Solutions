@@ -29,8 +29,7 @@ def min_coins(remaining_amount):
 result = min_coins(goal_amount)
 if result is None:
     print("IMPOSSIBLE")
+elif result == []:
+    print(0)
 else:
-    if result == []:
-        print(0)
-    else:
-        print(*result[::-1])
+    print(*result[::-1])
