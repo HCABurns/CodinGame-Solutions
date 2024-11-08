@@ -146,7 +146,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 08 |  There is no Spoon | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/There%20is%20no%20Spoon%20-%20Episode%201/Python.py) | 2D Array<br>Lists |
 | 10 | Detective Pikaptcha EP3 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Detective%20Pikaptcha%20EP3/Python.py) | Maze<br>Simulation<br>DFS |
 | 11 | The Cash Register | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/The%20Cash%20Register/Python.py) | DFS<br>Memoization|
-| 11 |  | ❌ Not Completed | []() | |
+| 12 | Dwarfs Standing on the Shoulders of Giants | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | Memoization<br>DFS<br>Graphs|
+| 13 |  | ❌ Not Completed | []() | |
 
 ## Hard
 
@@ -188,7 +189,7 @@ The following are my results for code golf split into the different difficulties
 | 3 | Network Cabling | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Network%20Cabling/Python.py) | 123 | Loops<br>Distances<br>Medians |
 | 4 | Mayan Calculation | ❌ Not Completed | N/A | N/A | Radix<br>Strings |
 | 5 | Blunder - Episode 1 | ❌ Not Completed | N/A | N/A | State Machine<br>Simulation |
-| 6 | Dwarfs Standing on the Shoulders of Giants | ❌ Not Completed | N/A | N/A | Memoization<br>Recusion<br>Graphs |
+| 6 | Dwarfs Standing on the Shoulders of Giants | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | 197 | Memoization<br>Recusion<br>Graphs |
 
 ## Hard
 
