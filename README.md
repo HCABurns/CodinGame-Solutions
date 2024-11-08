@@ -144,7 +144,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 07 |  Scrabble	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Scrabble/Python.py) | Loops<br>Conditions |
 | 08 |  There is no Spoon | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/There%20is%20no%20Spoon%20-%20Episode%201/Python.py) | 2D Array<br>Lists |
 | 10 | Detective Pikaptcha EP3 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Detective%20Pikaptcha%20EP3/Python.py) | Maze<br>Simulation<br>DFS |
-| 11 |  	 | ❌ Not Completed | []() | |
+| 11 | The Cash Register | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/The%20Cash%20Register/Python.py) | DFS<br>Memoization|
+| 11 |  | ❌ Not Completed | []() | |
 
 ## Hard
 
