@@ -130,7 +130,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 069 | Substitution Encoding |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Substitution%20Encoding/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Substitution%20Encoding/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Substitution%20Encoding/Java.java) | Encoding<br>2D Array<br>String Manipulation |
 | 070 | The River I. |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20River%20I./Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20River%20I./Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20River%20I./Java.java) | Conditions |
 | 071 | Van Eck's sequence |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Van%20Eck's%20sequence/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Van%20Eck's%20sequence/Ruby.rb)<br>[Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Van%20Eck's%20sequence/Java.java) | Memoization<br>Hashmap |
-| 072 |  |❌ Not Completed| []() |  |
+| 072 | Bank Robbers |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Bank%20Robbers/Python.py) | Mathematics<br>Loops |
+| 073 |  |❌ Not Completed| []() |  |
 
 ## Medium
 
