@@ -43,13 +43,13 @@ The following will show my position, score rating and number of participations i
 ### Current Standings
 | <b>Position</b>  | <b>Percentile</b> | <b>Score</b> | <b>Participations</b> |
 | ------------- | --- |------------- | :-----------: |
-| <b>48</b> / 738,835 | Top 0.0065% | 27.56 | 514 |
+| <b>42</b> / 738,956 | Top 0.0057% | 27.80 | 518 |
 
 ### Best Standings
 
 | <b>Position</b>  | <b>Percentile</b> | <b>Score</b> | <b>Participations</b> |
 | ------------- | --- |------------- | :-----------: |
-| <b>48</b> / 738,835 | Top 0.0065% | 27.56 | 514 |
+| <b>42</b> / 738,956 | Top 0.0057% | 27.80 | 518 |
 
 # Puzzles
 
