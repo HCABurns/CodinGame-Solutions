@@ -188,7 +188,7 @@ The following are my results for code golf split into the different difficulties
 
 | <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
 | :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
-| 1 | Shadows of the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Shadows%20of%20the%20Knight%20-%20Episode%201/Python.py) | 184 | Binary Search<br>Intervals |
+| 1 | Shadows of the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Shadows%20of%20the%20Knight%20-%20Episode%201/Python%20183.py) | 183 | Binary Search<br>Intervals |
 | 2 | Telephone Numbers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Ruby.rb) | 93<br>80 | Sets<br>Tries |
 | 3 | Network Cabling | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Network%20Cabling/Python.py) | 123 | Loops<br>Distances<br>Medians |
 | 4 | Mayan Calculation | ❌ Not Completed | N/A | N/A | Radix<br>Strings |
