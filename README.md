@@ -149,7 +149,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 10 | Detective Pikaptcha EP3 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Detective%20Pikaptcha%20EP3/Python.py) | Maze<br>Simulation<br>DFS |
 | 11 | The Cash Register | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/The%20Cash%20Register/Python.py) | DFS<br>Memoization|
 | 12 | Dwarfs Standing on the Shoulders of Giants | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | Memoization<br>DFS<br>Graphs|
-| 13 |  | ❌ Not Completed | []() | |
+| 13 | Blunder - Episode 1 | ✔️ Completed | [Python 1](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Blunder%20-%20Episode%201/Python%20Recursive.py)<br>[Python 2](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Blunder%20-%20Episode%201/Python%20Iterative.py) | State Machine<br>Simulation<br>Recursion |
+| 14 |  | ❌ Not Completed | []() | |
 
 ## Hard
 
