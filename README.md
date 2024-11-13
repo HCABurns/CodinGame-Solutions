@@ -150,7 +150,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 11 | The Cash Register | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/The%20Cash%20Register/Python.py) | DFS<br>Memoization|
 | 12 | Dwarfs Standing on the Shoulders of Giants | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | Memoization<br>DFS<br>Graphs|
 | 13 | Blunder - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Blunder%20-%20Episode%201/Python%20Recursive.py)<br>[Python 2](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Blunder%20-%20Episode%201/Python%20Iterative.py) | State Machine<br>Simulation<br>Recursion |
-| 14 |  | ❌ Not Completed | []() | |
+| 14 | Mayan Calculation | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Mayan%20Calculation/Python.py) | Radix<br>Strings<br>Mathematics |
+| 15 |  | ❌ Not Completed | []() | |
 
 ## Hard
 
@@ -188,12 +189,12 @@ The following are my results for code golf split into the different difficulties
 
 | <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
 | :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
-| 1 | Shadows of the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Shadows%20of%20the%20Knight%20-%20Episode%201/Python%20176.py) | 176 | Binary Search<br>Intervals |
-| 2 | Telephone Numbers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Ruby.rb) | 93<br>80 | Sets<br>Tries |
-| 3 | Network Cabling | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Network%20Cabling/Python.py) | 123 | Loops<br>Distances<br>Medians |
-| 4 | Mayan Calculation | ❌ Not Completed | N/A | N/A | Radix<br>Strings |
-| 5 | Blunder - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Blunder%20-%20Episode%201/Python.py) | 801 | State Machine<br>Simulation |
-| 6 | Dwarfs Standing on the Shoulders of Giants | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | 197 | Memoization<br>Recusion<br>Graphs |
+| 1 | Telephone Numbers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Ruby.rb) | 93<br>80 | Sets<br>Tries |
+| 2 | Network Cabling | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Network%20Cabling/Python.py) | 123 | Loops<br>Distances<br>Medians |
+| 3 | Shadows of the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Shadows%20of%20the%20Knight%20-%20Episode%201/Python%20176.py) | 176 | Binary Search<br>Intervals |
+| 4 | Dwarfs Standing on the Shoulders of Giants | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | 197 | Memoization<br>Recusion<br>Graphs |
+| 5 | Mayan Calculation | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Mayan%20Calculation/Python%20423.py) | 423 | Radix<br>Strings<br>Mathematics |
+| 6 | Blunder - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Blunder%20-%20Episode%201/Python.py) | 801 | State Machine<br>Simulation |
 
 ## Hard
 
