@@ -1,4 +1,4 @@
-# Get height and width of the grid.
+# Get height of the grid.
 h=int(input().split()[1])
 
 # Get starting characters and store in array.
