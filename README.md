@@ -140,36 +140,36 @@ The following will show my solutions to puzzles which have been seperated by dif
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 01 |  Telephone Numbers	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Java.java)| Tries<br>Set |
-| 02 |  War	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/War/Python.py) | Queues |
-| 03 |  Shadow if the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Shadow%20of%20the%20Knight%20-%20Episode%201/Python.py) | Binary Search<br>Intervals |
-| 04 |  Network Cabling	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Network%20Cabling/Python.py) | Medians<br>Distances<br>Loops |
-| 05 |  Don't Panic!	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Don't%20Panic%20-%20Episode%201/Python.py) | Conditions |
-| 06 |  Stock Exchange Loses	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Stock%20Exchange%20Loss/Python.py) | Arrays<br>Loops<br>Conditions |
-| 07 |  Scrabble	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Scrabble/Python.py) | Loops<br>Conditions |
-| 08 |  There is no Spoon | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/There%20is%20no%20Spoon%20-%20Episode%201/Python.py) | 2D Array<br>Lists |
-| 10 | Detective Pikaptcha EP3 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Detective%20Pikaptcha%20EP3/Python.py) | Maze<br>Simulation<br>DFS |
-| 11 | The Cash Register | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/The%20Cash%20Register/Python.py) | DFS<br>Memoization|
-| 12 | Dwarfs Standing on the Shoulders of Giants | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | Memoization<br>DFS<br>Graphs|
-| 13 | Blunder - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Blunder%20-%20Episode%201/Python%20Recursive.py)<br>[Python 2](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Blunder%20-%20Episode%201/Python%20Iterative.py) | State Machine<br>Simulation<br>Recursion |
-| 14 | Mayan Calculation | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Mayan%20Calculation/Python.py) | Radix<br>Strings<br>Mathematics |
-| 15 |  | ❌ Not Completed | []() | |
+| 01 |  [Telephone Numbers](https://www.codingame.com/training/medium/telephone-numbers) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Ruby.rb) <br> [Java](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Telephone%20Numbers/Java.java)| Tries<br>Set |
+| 02 | [War](https://www.codingame.com/training/medium/winamax-battle)	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/War/Python.py) | Queues |
+| 03 | [Shadow if the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Shadow%20of%20the%20Knight%20-%20Episode%201/Python.py) | Binary Search<br>Intervals |
+| 04 | [Network Cabling](https://www.codingame.com/training/medium/network-cabling) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Network%20Cabling/Python.py) | Medians<br>Distances<br>Loops |
+| 05 | [Don't Panic!](https://www.codingame.com/training/medium/don%27t-panic-episode-1) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Don't%20Panic%20-%20Episode%201/Python.py) | Conditions |
+| 06 | [Stock Exchange Loses](https://www.codingame.com/training/medium/stock-exchange-losses)	| ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Stock%20Exchange%20Loss/Python.py) | Arrays<br>Loops<br>Conditions |
+| 07 | [Scrabble](https://www.codingame.com/training/medium/scrabble) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Scrabble/Python.py) | Loops<br>Conditions |
+| 08 | [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/There%20is%20no%20Spoon%20-%20Episode%201/Python.py) | 2D Array<br>Lists |
+| 10 | [Detective Pikaptcha EP3](https://www.codingame.com/training/medium/detective-pikaptcha-ep3) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Detective%20Pikaptcha%20EP3/Python.py) | Maze<br>Simulation<br>DFS |
+| 11 | [The Cash Register](https://www.codingame.com/training/medium/the-cash-register) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/The%20Cash%20Register/Python.py) | DFS<br>Memoization|
+| 12 | [Dwarfs Standing on the Shoulders of Giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | Memoization<br>DFS<br>Graphs|
+| 13 | [Blunder - Episode 1](https://www.codingame.com/training/medium/blunder-episode-1) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Blunder%20-%20Episode%201/Python%20Recursive.py)<br>[Python 2](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Blunder%20-%20Episode%201/Python%20Iterative.py) | State Machine<br>Simulation<br>Recursion |
+| 14 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Mayan%20Calculation/Python.py) | Radix<br>Strings<br>Mathematics |
+| 15 | []() | ❌ Not Completed | []() | |
 
 ## Hard
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 01 |  Longest Palindrome	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Longest%20Palindrome/Python.py) | Palindrome<br>String |
-| 02 |  Magic count of Numbers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Magic%20Count%20of%20Numbers/Python.py) | Arithmetic<br>Mathematics |
-| 03 |  The Greatest Number | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Greatest%20Number/Python.py) | String<br>Manipulation<br>Conditions |
-| 04 |  	 | ❌ Not Completed | []() |  |
+| 01 | [Longest Palindrome](https://www.codingame.com/training/hard/longest-palindrome) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Longest%20Palindrome/Python.py) | Palindrome<br>String |
+| 02 | [Magic count of Numbers](https://www.codingame.com/training/hard/magic-count-of-numbers) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Magic%20Count%20of%20Numbers/Python.py) | Arithmetic<br>Mathematics |
+| 03 | [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Greatest%20Number/Python.py) | String<br>Manipulation<br>Conditions |
+| 04 | []() | ❌ Not Completed | []() |  |
 
 ## Very Hard
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 01 | The Resistance | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Ruby.rb) | Memoization<br>Dynamic Programming<br>Encoding<br>Recursion |
-| 02 | Shadows of the Knight - Episode 2 | ❌ 62% Completed | []() | Binary Search<br>Intervals |
+| 01 | [The Resistance](https://www.codingame.com/training/expert/the-resistance) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Ruby.rb) | Memoization<br>Dynamic Programming<br>Encoding<br>Recursion |
+| 02 | [Shadows of the Knight - Episode 2](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2) | ❌ 62% Completed | []() | Binary Search<br>Intervals |
 | 03 |  | ❌ Not Completed | []() |  |
 
 # Code Golf
@@ -180,48 +180,48 @@ The following are my results for code golf split into the different difficulties
 
 | <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
 | :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
-| 1 | The Descent | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/The%20Descent/Python.py) <br/> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/The%20Descent/Ruby.rb) | 49 <br/> 37 | Loops |
-| 2 |  Ascii Art	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/ASCII%20Art/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/ASCII%20Art/Ruby.rb)| 119 <br>114 | Strings <br> Loops <br> Arrays |
-| 3 |  Unary | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Unary/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Unary/Ruby.rb)| 116<br>107 | Encoding<br>Loops<br>Conditions<br>String |
-| 4 | Power of Thor | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Power%20of%20Thor/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Power%20of%20Thor/Ruby.rb) | 111<br>106 | Conditions |
-| 5 |  Temperatures	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Ruby.rb) | 72 <br> 54 | Arrays<br> Loops<br> Conditions |
-| 6 |  Don't Panic	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Don't%20Panic/Python.py) | 227 | Conditions |
+| 1 | [The Descent](https://www.codingame.com/codegolf/easy/the-descent-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/The%20Descent/Python.py) <br/> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/The%20Descent/Ruby.rb) | 49 <br/> 37 | Loops |
+| 2 | [Ascii Art](https://www.codingame.com/codegolf/easy/ascii-art-codesize)	| ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/ASCII%20Art/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/ASCII%20Art/Ruby.rb)| 119 <br>114 | Strings <br> Loops <br> Arrays |
+| 3 | [Unary](https://www.codingame.com/codegolf/easy/chuck-norris-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Unary/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Unary/Ruby.rb)| 116<br>107 | Encoding<br>Loops<br>Conditions<br>String |
+| 4 | [Power of Thor](https://www.codingame.com/codegolf/easy/power-of-thor) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Power%20of%20Thor/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Power%20of%20Thor/Ruby.rb) | 111<br>106 | Conditions |
+| 5 | [Temperatures](https://www.codingame.com/codegolf/easy/temperature-code-golf)	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Python.py) <br> [Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Temperatures/Ruby.rb) | 72 <br> 54 | Arrays<br> Loops<br> Conditions |
+| 6 | [Don't Panic](https://www.codingame.com/codegolf/easy/don%27t-panic)	 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Easy/Don't%20Panic/Python.py) | 227 | Conditions |
 
 ## Medium
 
 | <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
 | :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
-| 1 | Telephone Numbers | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Ruby.rb) | 93<br>80 | Sets<br>Tries |
-| 2 | Network Cabling | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Network%20Cabling/Python.py) | 123 | Loops<br>Distances<br>Medians |
-| 3 | Shadows of the Knight - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Shadows%20of%20the%20Knight%20-%20Episode%201/Python%20176.py) | 176 | Binary Search<br>Intervals |
-| 4 | Dwarfs Standing on the Shoulders of Giants | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | 197 | Memoization<br>Recusion<br>Graphs |
-| 5 | Mayan Calculation | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Mayan%20Calculation/Python%20423.py) | 423 | Radix<br>Strings<br>Mathematics |
-| 6 | Blunder - Episode 1 | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Blunder%20-%20Episode%201/Python.py) | 801 | State Machine<br>Simulation |
+| 1 | [Telephone Numbers](https://www.codingame.com/codegolf/medium/telephone-numbers-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Python.py) <br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Telephone%20Numbers/Ruby.rb) | 93<br>80 | Sets<br>Tries |
+| 2 | [Network Cabling](https://www.codingame.com/codegolf/medium/network-cabling-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Network%20Cabling/Python.py) | 123 | Loops<br>Distances<br>Medians |
+| 3 | [Shadows of the Knight - Episode 1](https://www.codingame.com/codegolf/medium/shadows-of-the-knight-episode-1-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Shadows%20of%20the%20Knight%20-%20Episode%201/Python%20176.py) | 176 | Binary Search<br>Intervals |
+| 4 | [Dwarfs Standing on the Shoulders of Giants](https://www.codingame.com/codegolf/medium/dwarfs-standing-on-the-shoulders-of-giants-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | 197 | Memoization<br>Recusion<br>Graphs |
+| 5 | [Mayan Calculation](https://www.codingame.com/codegolf/medium/mayan-calculation-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Mayan%20Calculation/Python%20423.py) | 423 | Radix<br>Strings<br>Mathematics |
+| 6 | [Blunder - Episode 1](https://www.codingame.com/codegolf/medium/blunder-episode-1-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Blunder%20-%20Episode%201/Python.py) | 801 | State Machine<br>Simulation |
 
 ## Hard
 
 | <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
 | :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
-| 1 |  The Labyrinth	 | ❌ Not Completed |  |  | BFS<br>Pathfinding |
-| 2 |  The Bridge	 | ❌ Not Completed |  |  | DFS<br>Backtracking |
-| 3 |  Vox Codei - Episode 1	 | ❌ Not Completed |  |  | DFS<br>Brut-force<br>simulation |
-| 4 |  Super Computer	 | ❌ Not Completed |  |  | Greedy Algorithm<br>Scheduling |
-| 5 |  Roller Coaster	 | ❌ Not Completed |  |  | Dynamic Programming<br>Simulation |
-| 6 |  Surface	 | ❌ Not Completed |  |  | BFS<br>Flood Fill<br>Memoization<br>Recursion |
-| 7 |  The Fall - Episode 2	 | ❌ Not Completed |  |  | Backtracking<br>Pathfinding |
-| 8 |  Gnome Sequencing	 | ❌ Not Completed |  |  | Permutation<br>String |
-| 9 |  Blunder - Episode 3	 | ❌ Not Completed |  |  | Regression Analysis |
+| 1 |  [The Labyrinth](https://www.codingame.com/codegolf/hard/the-labyrinth-codesize) | ❌ Not Completed |  |  | BFS<br>Pathfinding |
+| 2 |  [The Bridge](https://www.codingame.com/codegolf/hard/the-bridge-episode-2-codesize)	| ❌ Not Completed |  |  | DFS<br>Backtracking |
+| 3 |  [Vox Codei - Episode 1](https://www.codingame.com/codegolf/hard/vox-codei-episode-1-codesize) | ❌ Not Completed |  |  | DFS<br>Brut-force<br>simulation |
+| 4 |  [Super Computer](https://www.codingame.com/codegolf/hard/super-computer-codesize)	| ❌ Not Completed |  |  | Greedy Algorithm<br>Scheduling |
+| 5 |  [Roller Coaster](https://www.codingame.com/codegolf/hard/roller-coaster-codesize)	| ❌ Not Completed |  |  | Dynamic Programming<br>Simulation |
+| 6 |  [Surface](https://www.codingame.com/codegolf/hard/surface-codesize) | ❌ Not Completed |  |  | BFS<br>Flood Fill<br>Memoization<br>Recursion |
+| 7 |  [The Fall - Episode 2](https://www.codingame.com/codegolf/hard/the-fall-episode-2-codesize) | ❌ Not Completed |  |  | Backtracking<br>Pathfinding |
+| 8 |  [Gnome Sequencing](https://www.codingame.com/codegolf/hard/genome-sequencing-codesize) | ❌ Not Completed |  |  | Permutation<br>String |
+| 9 |  [Blunder - Episode 3](https://www.codingame.com/codegolf/hard/blunder-episode-3-codesize) | ❌ Not Completed |  |  | Regression Analysis |
 
 ## Very Hard
 
 | <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
 | :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
-| 1 |  Shadows of the Knight - Episode 2 | ❌ 62% Completed |  |  | Binary Search<br>Intervals |
-| 2 |  The Resistance | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Very%20Hard/The%20Resistance/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Very%20Hard/The%20Resistance/Ruby.rb) | 354<br>335 | Dynamic Programming<br>Encoding<br>Memoization<br>Recursion |
-| 3 |  The Fall - Episode 3	 | ❌ Not Completed |  |  | Backtracking<br>Pathfinding |
-| 4 |  Music Scores	 | ❌ Not Completed |  |  | Encoding<br>Image Processing<br>Pattern Recognition |
-| 5 |  Vox Codei - Episode 2 | ❌ Not Completed |  |  | Pattern Recognition<br>DFS<br>Brute-force<br>Simulation |
-| 6 |  Mars Lander - Episode 3 | ❌ Not Completed |  |  | Distances<br>Trigonometry |
+| 1 |  [Shadows of the Knight - Episode 2](https://www.codingame.com/codegolf/expert/shadows-of-the-knight-episode-2-codesize) | ❌ 62% Completed |  |  | Binary Search<br>Intervals |
+| 2 |  [The Resistance](https://www.codingame.com/codegolf/expert/the-resistance-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Very%20Hard/The%20Resistance/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Very%20Hard/The%20Resistance/Ruby.rb) | 354<br>335 | Dynamic Programming<br>Encoding<br>Memoization<br>Recursion |
+| 3 |  [The Fall - Episode 3](https://www.codingame.com/codegolf/expert/the-fall-episode-3-codesize) | ❌ Not Completed |  |  | Backtracking<br>Pathfinding |
+| 4 |  [Music Scores](https://www.codingame.com/codegolf/expert/music-scores-codesize) | ❌ Not Completed |  |  | Encoding<br>Image Processing<br>Pattern Recognition |
+| 5 |  [Vox Codei - Episode 2](https://www.codingame.com/codegolf/expert/vox-codei-episode-2-codesize) | ❌ Not Completed |  |  | Pattern Recognition<br>DFS<br>Brute-force<br>Simulation |
+| 6 |  [Mars Lander - Episode 3](https://www.codingame.com/codegolf/expert/mars-lander-episode-3-codesize) | ❌ Not Completed |  |  | Distances<br>Trigonometry |
 
 # Bot Programming 
 
