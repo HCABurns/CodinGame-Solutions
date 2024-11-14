@@ -135,7 +135,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 074 | [Insert to String](https://www.codingame.com/training/easy/insert-to-string) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Insert%20to%20String/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Insert%20to%20String/Ruby.rb) | Strive for Simplicity<br>String Manipulation |
 | 075 | [Dungeons and Maps](https://www.codingame.com/training/easy/dungeons-and-maps) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Dungeons%20and%20Maps/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Dungeons%20and%20Maps/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Dungeons%20and%20Maps/Java.java) | Pathfinding<br>Hashmap |
 | 076 | [Balanced Ternary Computer: Encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Balanced%20Ternary%20Computer%3A%20Encode/Python.py) | Arithmetic |
-| 077 | []() |❌ Not Completed| []() |  |
+| 077 | [Rocks, Papers, Scissors-es](https://www.codingame.com/training/easy/rocks-papers-scissors-es) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rocks%2C%20Papers%2C%20Scissors-es/Python.py) | Hashmap<br>Simulation |
+| 078 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
