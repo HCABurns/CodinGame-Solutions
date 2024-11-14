@@ -1,4 +1,4 @@
-# Get inputs grid dimensions and starting position.
+# Get grid dimensions and starting position.
 w, h = [int(i) for i in input().split()]
 start_row, start_col = [int(i) for i in input().split()]
 
