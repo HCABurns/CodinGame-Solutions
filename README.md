@@ -1,7 +1,7 @@
 # CodinGame-Solutions
 These are a collection of solutions to the puzzles on [CodinGame.com](https://www.codingame.com)
 
-[Click here to view profile](https://www.codingame.com/profile/d926a93cb394ded661b204822965c5fa7122915)
+[Click here to view my profile.](https://www.codingame.com/profile/d926a93cb394ded661b204822965c5fa7122915)
 
 # Introduction
 
