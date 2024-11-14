@@ -216,9 +216,9 @@ The following are my results for code golf split into the different difficulties
 
 ## Very Hard
 
-| <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	|	<b>Tags</b> |
+| <b>No.</b> |	<b>Puzzle Name</b> | <b>State</b> |<b> Language</b> |	<b>Code Size</b>	| <b>Tags</b> |
 | :--------: | :-----------------: | :----------: | :------------:  | :---------------: | :---------: |
-| 1 |  [Shadows of the Knight - Episode 2](https://www.codingame.com/codegolf/expert/shadows-of-the-knight-episode-2-codesize) | ❌ 62% Completed |  |  | Binary Search<br>Intervals |
+| 1 |  [Shadows of the Knight - Episode 2](https://www.codingame.com/codegolf/expert/shadows-of-the-knight-episode-2-codesize) | ❌ 62% Completed |  | | Binary Search<br>Intervals |
 | 2 |  [The Resistance](https://www.codingame.com/codegolf/expert/the-resistance-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Code%20Golf/Very%20Hard/The%20Resistance/Python%20346.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Code%20Golf/Very%20Hard/The%20Resistance/Ruby%20281.rb) | 346<br>281 | Dynamic Programming<br>Encoding<br>Memoization<br>Recursion |
 | 3 |  [The Fall - Episode 3](https://www.codingame.com/codegolf/expert/the-fall-episode-3-codesize) | ❌ Not Completed |  |  | Backtracking<br>Pathfinding |
 | 4 |  [Music Scores](https://www.codingame.com/codegolf/expert/music-scores-codesize) | ❌ Not Completed |  |  | Encoding<br>Image Processing<br>Pattern Recognition |
