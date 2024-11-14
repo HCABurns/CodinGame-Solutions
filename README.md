@@ -134,7 +134,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 073 | [Wordle Colorizer](https://www.codingame.com/training/easy/wordle-colorizer) |✔️ Completed| [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Wordle%20colorizer/Python.py) | Hashmap<br>String Manipulation |
 | 074 | [Insert to String](https://www.codingame.com/training/easy/insert-to-string) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Insert%20to%20String/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Insert%20to%20String/Ruby.rb) | Strive for Simplicity<br>String Manipulation |
 | 075 | [Dungeons and Maps](https://www.codingame.com/training/easy/dungeons-and-maps) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Dungeons%20and%20Maps/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Dungeons%20and%20Maps/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Dungeons%20and%20Maps/Java.java) | Pathfinding<br>Hashmap |
-| 076 | []() |❌ Not Completed| []() |  |
+| 076 | [Balanced Ternary Computer: Encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Balanced%20Ternary%20Computer%3A%20Encode/Python.py) | Arithmetic |
+| 077 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
