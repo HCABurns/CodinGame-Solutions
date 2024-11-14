@@ -1,4 +1,4 @@
-# Coding-Game-Solutions
+# CodinGame-Solutions
 These are a collection of solutions to the puzzles on [codinggame.com](https://www.codingame.com/home)
 
 [Click here to view profile](https://www.codingame.com/profile/d926a93cb394ded661b204822965c5fa7122915)
