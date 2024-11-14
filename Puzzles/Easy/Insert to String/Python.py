@@ -14,7 +14,7 @@ for i in range(change_count):
     # Find out how many additions have been made before current id to ensure added to correct location.
     to_change = sum([1 if val < idx else 0 for val in added.get(line,[])])
     
-    # Insert int correct location.
+    # Insert string correct location.
     s[line].insert(idx+to_change,change)
 
     # Update hashamp but new additons index on the correct line.
