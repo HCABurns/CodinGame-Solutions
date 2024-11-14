@@ -2,7 +2,7 @@
 w, h = [int(i) for i in input().split()]
 start_row, start_col = [int(i) for i in input().split()]
 
-# Set directions hashamp and set minimum path size and idx.
+# Set directions hashmap and set minimum path size and idx.
 directions = {">":(0,1),"<":(0,-1),"^":(-1,0),"v":(1,0)}
 min_path = w*h+1
 min_path_idx = None
