@@ -23,5 +23,5 @@ while idx < n*n+1:
     idx+=1
     counter += 1
 
-# Output sum. (+1 for including top left 1 di)
+# Output sum.
 print(total)
