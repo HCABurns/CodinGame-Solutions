@@ -140,7 +140,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 079 | [Offset Arrays](https://www.codingame.com/training/easy/offset-arrays) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Offset%20Array/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Offset%20Array/Ruby.rb) | Hashmap<br>Parsing |
 | 080 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/May%20the%20Triforce%20be%20with%20you!/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/May%20the%20Triforce%20be%20with%20you!/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/May%20the%20Triforce%20be%20with%20you!/Java.java) | ASCII Art<br>Loops |
 | 081 | [Sum of Spiral's Diagonals](https://www.codingame.com/training/easy/sum-of-spirals-diagonals) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Sum%20of%20Spiral's%20Diagonals/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Sum%20of%20Spiral's%20Diagonals/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Sum%20of%20Spiral's%20Diagonals/Java.java)<br> | Optimization<br>Mathematics |
-| 082 | []() |❌ Not Completed| []() |  |
+| 082 | [Popularity of Each Activity](https://www.codingame.com/training/easy/popularity-of-each-activity) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Popularity%20of%20Each%20Activity/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Popularity%20of%20Each%20Activity/Ruby.rb) | 2D Array<br>Mathematics |
+| 083 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
