@@ -172,7 +172,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 01 | [Longest Palindrome](https://www.codingame.com/training/hard/longest-palindrome) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Longest%20Palindrome/Python.py) | Palindrome<br>String |
 | 02 | [Magic count of Numbers](https://www.codingame.com/training/hard/magic-count-of-numbers) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Magic%20Count%20of%20Numbers/Python.py) | Arithmetic<br>Mathematics |
 | 03 | [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Greatest%20Number/Python.py) | String<br>Manipulation<br>Conditions |
-| 04 | [Spreadsheet Labels](https://www.codingame.com/training/hard/spreadsheet-labels) | ❌ Not Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Ruby.rb) | Base Conversion<br>String Manipulation<br> |
+| 04 | [Spreadsheet Labels](https://www.codingame.com/training/hard/spreadsheet-labels) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Ruby.rb) | Base Conversion<br>String Manipulation<br> |
 | 05 | []() | ❌ Not Completed | []() |  |
 
 ## Very Hard
