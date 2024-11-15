@@ -138,7 +138,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 077 | [Rocks, Papers, Scissors-es](https://www.codingame.com/training/easy/rocks-papers-scissors-es) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rocks%2C%20Papers%2C%20Scissors-es/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rocks%2C%20Papers%2C%20Scissors-es/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rocks%2C%20Papers%2C%20Scissors-es/Java.java) | Hashmap<br>Simulation |
 | 078 | [Die Handedness](https://www.codingame.com/training/easy/die-handedness) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Die%20Handedness/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Die%20Handedness/Ruby.rb) | Mathematics<br>Geometry |
 | 079 | [Offset Arrays](https://www.codingame.com/training/easy/offset-arrays) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Offset%20Array/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Offset%20Array/Ruby.rb) | Hashmap<br>Parsing |
-| 080 | []() |❌ Not Completed| []() |  |
+| 080 | [May the Triforce be with you!]() |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/May%20the%20Triforce%20be%20with%20you!/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/May%20the%20Triforce%20be%20with%20you!/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/May%20the%20Triforce%20be%20with%20you!/Java.java) | ASCII Art<br>Loops |
+| 081 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
