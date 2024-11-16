@@ -143,8 +143,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 082 | [Popularity of Each Activity](https://www.codingame.com/training/easy/popularity-of-each-activity) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Popularity%20of%20Each%20Activity/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Popularity%20of%20Each%20Activity/Ruby.rb) | 2D Array<br>Mathematics |
 | 083 | [Simple Load Balancing](https://www.codingame.com/training/easy/simple-load-balancing) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Simple%20Load%20Balancing/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Simple%20Load%20Balancing/Ruby.rb) | Simulation<br>Optimization<br>Mathematics |
 | 084 | [Decode the Message](https://www.codingame.com/training/easy/decode-the-message) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Decode%20the%20Message/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Decode%20the%20Message/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Decode%20the%20Message/Java.java) | Cryptography<br>Encoding<br>Modular Calculus |
-| 085 | []() |❌ Not Completed| []() |  |
-
+| 085 | [Bouncing Simulator](https://www.codingame.com/training/easy/bouncing-simulator) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Bouncing%20Simulator/Python.py) | 2D Array<br>Simulation |
+| 086 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
