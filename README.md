@@ -144,7 +144,9 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 083 | [Simple Load Balancing](https://www.codingame.com/training/easy/simple-load-balancing) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Simple%20Load%20Balancing/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Simple%20Load%20Balancing/Ruby.rb) | Simulation<br>Optimization<br>Mathematics |
 | 084 | [Decode the Message](https://www.codingame.com/training/easy/decode-the-message) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Decode%20the%20Message/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Decode%20the%20Message/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Decode%20the%20Message/Java.java) | Cryptography<br>Encoding<br>Modular Calculus |
 | 085 | [Bouncing Simulator](https://www.codingame.com/training/easy/bouncing-simulator) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Bouncing%20Simulator/Python.py) | 2D Array<br>Simulation |
-| 086 | []() |❌ Not Completed| []() |  |
+| 086 | [🤖 Robot Reach](https://www.codingame.com/training/easy/robot-reach) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/%F0%9F%A4%96%20Robot%20Reach/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/%F0%9F%A4%96%20Robot%20Reach/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/%F0%9F%A4%96%20Robot%20Reach/Java.java) | Recursion |
+| 087 | []() |❌ Not Completed| []() |  |
+
 
 ## Medium
 
