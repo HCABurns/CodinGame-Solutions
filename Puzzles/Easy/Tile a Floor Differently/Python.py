@@ -1,4 +1,3 @@
-#NOTE: Mess of code but ASCII Art.
 # Get grid size and form grid.
 quarter_size = int(input())
 grid = []
