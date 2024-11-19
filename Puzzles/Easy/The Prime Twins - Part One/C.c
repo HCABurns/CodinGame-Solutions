@@ -4,6 +4,7 @@
 
 int main()
 {
+    // Get starting number.
     int n;
     scanf("%d", &n);
     n+=1;
