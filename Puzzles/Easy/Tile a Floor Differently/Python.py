@@ -31,15 +31,15 @@ for _ in range(2):
     # Leave the TOP LEFT and horizontally flip the row for TOP RIGHT.
     new_grid = []
     for row in grid:
-        TL = "".join(row)
-        TR = "".join(swapper(row,0)[::-1])
+        TL = row
+        TR = swapper(row,0)[::-1]
         new_row = TL+TR
         new_grid += ["|"+ new_row +"|" + swapper(new_row[::-1],0)+"|"]
 
     # Vertical flip for BOTTOM LEFT and Vertical and Horizontal flip for BOTTOM RIGHT.
     for row in grid[::-1]:
-        BL = "".join(swapper(row,1))
-        BR = "".join(swapper(swapper(row,0),1)[::-1])
+        BL = swapper(row,1)
+        BR = swapper(swapper(row,0),1)[::-1]
         new_row = BL + BR
         new_grid += ["|"+new_row+"|" +swapper(new_row[::-1],0)+"|"]
 
