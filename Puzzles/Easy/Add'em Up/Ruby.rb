@@ -2,9 +2,8 @@
 n = gets.to_i
 cards = gets.split.map(&:to_i).sort.reverse
 
-# Set total and idx.
+# Set total.
 total = 0
-idx = cards.size - 1
 
 # While there is still cards to be combined, combine the cheapest cost.
 while cards.size > 1
