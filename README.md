@@ -151,8 +151,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 090 | [Distributing Candy](https://www.codingame.com/training/easy/distributing-candy) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Distributing%20Candy/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Distributing%20Candy/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Distributing%20Candy/Java.java)<br>[JavaScript](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Distributing%20Candy/Javascript.js) | Array<br>Conditions |
 | 091 | [Couple's Picture-Frame](https://www.codingame.com/training/easy/couples-picture-frame) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Couple's%20Picture-Frame/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Couple's%20Picture-Frame/Ruby.rb) | Mathematics<br>String Manipulation<br>ASCII Art |
 | 092 | [Caesar is the Chief](https://www.codingame.com/training/easy/caesar-is-the-chief) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Caesar%20is%20the%20Chief/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Caesar%20is%20the%20Chief/Ruby.rb) | Cipher<br>Encryption |
-| 093 | []() |❌ Not Completed| []() |  |
-
+| 093 | [Max Area](https://www.codingame.com/training/easy/max-area) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Max%20Area/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Max%20Area/Ruby.rb) | Mathematics<br>Arrays |
+| 094 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
