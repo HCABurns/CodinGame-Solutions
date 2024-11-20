@@ -153,7 +153,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 092 | [Caesar is the Chief](https://www.codingame.com/training/easy/caesar-is-the-chief) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Caesar%20is%20the%20Chief/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Caesar%20is%20the%20Chief/Ruby.rb) | Cipher<br>Encryption |
 | 093 | [Max Area](https://www.codingame.com/training/easy/max-area) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Max%20Area/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Max%20Area/Ruby.rb) | Mathematics<br>Arrays |
 | 094 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Add'em%20Up/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Add'em%20Up/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Add'em%20Up/Java.java)<br>[Javascript](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Add'em%20Up/Javascript.js) | Greedy Algorithm<br>Sorting |
-| 095 | []() |❌ Not Completed| []() |  |
+| 095 | [Benford's Law](https://www.codingame.com/training/easy/benfords-law) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Benford's%20Law/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Benford's%20Law/Ruby.rb) | Probability<br>Hashmap |
+| 096 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
