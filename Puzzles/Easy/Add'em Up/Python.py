@@ -2,9 +2,8 @@
 n = int(input())
 cards=sorted(map(int,input().split()) , reverse = True)
 
-# Set total and idx.
+# Set total.
 total = 0
-idx = len(cards) - 1
 
 # While there is still cards to be combined, combine the cheapest cost.
 while len(cards) > 1:
