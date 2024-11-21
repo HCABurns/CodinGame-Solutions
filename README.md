@@ -157,7 +157,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 096 | [Panel Count](https://www.codingame.com/training/easy/panel-count) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Panel%20count/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Panel%20count/Ruby.rb) | Hashmap<br>Conditions |
 | 097 | [The Michelangelo Code](https://www.codingame.com/training/easy/the-michelangelo-code) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Michelangelo%20Code/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Michelangelo%20Code/Ruby.rb) | Optimization<br>String Manipulation |
 | 098 | [Shoot Enemy Aircraft](https://www.codingame.com/training/easy/shoot-enemy-aircraft) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Shoot%20Enemy%20Aircraft/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Shoot%20Enemy%20Aircraft/Ruby.rb) | Arrays<br>Loops |
-| 099 | []() |❌ Not Completed| []() |  |
+| 099 | [Rotating Arrows](https://www.codingame.com/training/easy/rotating-arrows) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rotating%20Arrow/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rotating%20Arrow/Ruby.rb) | 2D Array<br>Loops |
+| 100 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
