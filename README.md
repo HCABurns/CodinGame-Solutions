@@ -156,7 +156,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 095 | [Benford's Law](https://www.codingame.com/training/easy/benfords-law) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Benford's%20Law/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Benford's%20Law/Ruby.rb) | Probability<br>Hashmap |
 | 096 | [Panel Count](https://www.codingame.com/training/easy/panel-count) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Panel%20count/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Panel%20count/Ruby.rb) | Hashmap<br>Conditions |
 | 097 | [The Michelangelo Code](https://www.codingame.com/training/easy/the-michelangelo-code) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Michelangelo%20Code/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Michelangelo%20Code/Ruby.rb) | Optimization<br>String Manipulation |
-| 098 | []() |❌ Not Completed| []() |  |
+| 098 | [Shoot Enemy Aircraft](https://www.codingame.com/training/easy/shoot-enemy-aircraft) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Shoot%20Enemy%20Aircraft/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Shoot%20Enemy%20Aircraft/Ruby.rb) | Arrays<br>Loops |
+| 099 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
