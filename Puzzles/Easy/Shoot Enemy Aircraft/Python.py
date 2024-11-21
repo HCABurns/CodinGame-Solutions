@@ -19,7 +19,7 @@ while len(planes) > 0:
     to_remove = None
 
     # Move plane and check if they can be shot.
-    for i , plane in enumerate(planes):
+    for plane in planes:
         y , x = plane
         # Check if vertical distance between plane and SAM equals horizontal distance between.
         # If so then they will intercept so shoot.
