@@ -1,3 +1,4 @@
+import math
 # Get text, covert to lowercase and remove any non-alpha characters.
 text = "".join([char.lower() for char in input() if char.isalpha()])
 
@@ -18,7 +19,8 @@ for _ in range(int(input())):
     # Check all starting positions for hidden word.
     for pos in starts:
         # Check evenly spaced positions for "word"
-        for j in range(1,(len(text)-pos) // len(word)):
+        for j in range(1,math.ceil((len(text)-pos) / (len(word)-1))):
+            #print(j)
             txt = text[pos:pos+len(word)*j:j]
             # If found, add capitalization where required and set new max.
             if txt == word:
