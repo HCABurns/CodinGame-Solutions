@@ -158,7 +158,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 097 | [The Michelangelo Code](https://www.codingame.com/training/easy/the-michelangelo-code) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Michelangelo%20Code/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Michelangelo%20Code/Ruby.rb) | Optimization<br>String Manipulation |
 | 098 | [Shoot Enemy Aircraft](https://www.codingame.com/training/easy/shoot-enemy-aircraft) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Shoot%20Enemy%20Aircraft/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Shoot%20Enemy%20Aircraft/Ruby.rb) | Arrays<br>Loops |
 | 099 | [Rotating Arrows](https://www.codingame.com/training/easy/rotating-arrows) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rotating%20Arrow/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rotating%20Arrow/Ruby.rb) | 2D Array<br>Loops |
-| 100 | []() |❌ Not Completed| []() |  |
+| 100 | [Tile a Floor](https://www.codingame.com/training/easy/tile-a-floor) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Tile%20a%20Floor/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Tile%20a%20Floor/Ruby.rb) | ASCII Art<br>String Manipulation<br>Loops |
+| 101 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
