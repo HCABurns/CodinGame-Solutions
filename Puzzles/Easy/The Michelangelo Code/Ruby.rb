@@ -18,7 +18,7 @@ gets.to_i.times do
   # Check all starting positions for hidden word.
   starts.each do |pos|
     # Check evenly spaced positions for "word"
-    (1..((text.size-pos)/word.size).floor).each do |j|
+    (1..((text.size-pos)/(word.size-1)).ceil).each do |j|
       hidden_word = word.size.times.map{|i| text[pos+j*i]}.join
       # If found, add capitalization where required and set new max.
       if hidden_word == word
