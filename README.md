@@ -155,7 +155,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 094 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Add'em%20Up/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Add'em%20Up/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Add'em%20Up/Java.java)<br>[Javascript](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Add'em%20Up/Javascript.js) | Greedy Algorithm<br>Sorting |
 | 095 | [Benford's Law](https://www.codingame.com/training/easy/benfords-law) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Benford's%20Law/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Benford's%20Law/Ruby.rb) | Probability<br>Hashmap |
 | 096 | [Panel Count](https://www.codingame.com/training/easy/panel-count) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Panel%20count/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Panel%20count/Ruby.rb) | Hashmap<br>Conditions |
-| 096 | []() |❌ Not Completed| []() |  |
+| 097 | [The Michelangelo Code](https://www.codingame.com/training/easy/the-michelangelo-code) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Michelangelo%20Code/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Michelangelo%20Code/Ruby.rb) | Optimization<br>String Manipulation |
+| 098 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
