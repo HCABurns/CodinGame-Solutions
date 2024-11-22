@@ -181,7 +181,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 14 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Mayan%20Calculation/Python.py) | Radix<br>Strings<br>Mathematics |
 | 15 | [Frequency-Based Decryption](https://www.codingame.com/training/medium/frequency-based-decryption) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Frequency-Based%20Decryption/Python.py) | Cryptography<br>Encoding<br>String Manipulation|
 | 16 | [Hidden Word](https://www.codingame.com/training/medium/hidden-word) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Hidden%20Word/Python.py) | 2D Array<br>String Manipulation |
-| 17 | []() | ❌ Not Completed | []() | |
+| 17 | [Gravity](https://www.codingame.com/training/medium/gravity) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Gravity/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Gravity/Ruby.rb) | 2D Array |
+| 18 | []() | ❌ Not Completed | []() | |
 
 ## Hard
 
