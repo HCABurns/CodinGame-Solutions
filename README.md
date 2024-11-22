@@ -182,7 +182,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 15 | [Frequency-Based Decryption](https://www.codingame.com/training/medium/frequency-based-decryption) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Frequency-Based%20Decryption/Python.py) | Cryptography<br>Encoding<br>String Manipulation|
 | 16 | [Hidden Word](https://www.codingame.com/training/medium/hidden-word) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Hidden%20Word/Python.py) | 2D Array<br>String Manipulation |
 | 17 | [Gravity](https://www.codingame.com/training/medium/gravity) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Gravity/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Gravity/Ruby.rb) | 2D Array |
-| 18 | []() | ❌ Not Completed | []() | |
+| 18 | [Roman Sorting](https://www.codingame.com/training/medium/roman-sorting) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Roman%20Sorting/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Roman%20Sorting/Ruby.rb) | Sorting |
+| 19 | []() |❌ Not Completed| []() | |
 
 ## Hard
 
@@ -192,7 +193,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 02 | [Magic count of Numbers](https://www.codingame.com/training/hard/magic-count-of-numbers) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Magic%20Count%20of%20Numbers/Python.py) | Arithmetic<br>Mathematics |
 | 03 | [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Greatest%20Number/Python.py) | String<br>Manipulation<br>Conditions |
 | 04 | [Spreadsheet Labels](https://www.codingame.com/training/hard/spreadsheet-labels) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Ruby.rb) | Base Conversion<br>String Manipulation<br> |
-| 05 | []() | ❌ Not Completed | []() |  |
+| 05 | []() |❌ Not Completed| []() |  |
 
 ## Very Hard
 
@@ -200,7 +201,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 | :--: |:--: |:--: |:--:  |:--: |
 | 01 | [The Resistance](https://www.codingame.com/training/expert/the-resistance) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Ruby.rb) | Memoization<br>Dynamic Programming<br>Encoding<br>Recursion |
 | 02 | [Shadows of the Knight - Episode 2](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2) | ❌ 62% Completed | []() | Binary Search<br>Intervals |
-| 03 |  | ❌ Not Completed | []() |  |
+| 03 |  |❌ Not Completed| []() |  |
 
 # Code Golf
 
