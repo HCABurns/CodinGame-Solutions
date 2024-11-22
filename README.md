@@ -178,8 +178,9 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 12 | [Dwarfs Standing on the Shoulders of Giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | Memoization<br>DFS<br>Graphs|
 | 13 | [Blunder - Episode 1](https://www.codingame.com/training/medium/blunder-episode-1) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Blunder%20-%20Episode%201/Python%20Recursive.py)<br>[Python 2](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Blunder%20-%20Episode%201/Python%20Iterative.py) | State Machine<br>Simulation<br>Recursion |
 | 14 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Medium/Mayan%20Calculation/Python.py) | Radix<br>Strings<br>Mathematics |
-| 16 | [Frequency-Based Decryption](https://www.codingame.com/training/medium/frequency-based-decryption) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Frequency-Based%20Decryption/Python.py) | Cryptography<br>Encoding<br>String Manipulation|
-| 15 | []() | ❌ Not Completed | []() | |
+| 15 | [Frequency-Based Decryption](https://www.codingame.com/training/medium/frequency-based-decryption) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Frequency-Based%20Decryption/Python.py) | Cryptography<br>Encoding<br>String Manipulation|
+| 16 | [Hidden Word](https://www.codingame.com/training/medium/hidden-word) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Hidden%20Word/Python.py) | 2D Array<br>String Manipulation |
+| 17 | []() | ❌ Not Completed | []() | |
 
 ## Hard
 
