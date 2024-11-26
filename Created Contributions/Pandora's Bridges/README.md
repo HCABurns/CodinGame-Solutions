@@ -9,3 +9,7 @@ Tests holds all the connections and coordinates that will be plotted. Each funct
 # 3D Coordinates Generator
 
 Tool used to generate a set amount of 3D coordinates in user defined ranges.
+
+# CoordsStringTo2DArray
+
+Tool used to conver the coordinates from the generator to Pythonic code that can be used in the Connections Visualiser.
