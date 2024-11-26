@@ -5,3 +5,7 @@ The connections visualiser is a tool used during development to validate and deb
 # <b>Tests</b>
 
 Tests holds all the connections and coordinates that will be plotted. Each function has it's own pair of coordinates and connections.
+
+# 3D Coordinates Generator
+
+Tool used to generate a set amount of 3D coordinates in user defined ranges.
