@@ -7,7 +7,7 @@ for i in range(height):
 # Get prizes.
 prizes = [int(input()) for i in range(height+1)]
 
-# Ceache for efficiency.
+# Cache for efficiency.
 cache = {}
 def search(i , j, multiplier):
     """
