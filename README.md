@@ -161,7 +161,9 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 100 | [Tile a Floor](https://www.codingame.com/training/easy/tile-a-floor) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Tile%20a%20Floor/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Tile%20a%20Floor/Ruby.rb) | ASCII Art<br>String Manipulation<br>Loops |
 | 101 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rooks%20Movements/Python.py) | Chess<br>Conditions |
 | 102 | [Pachinko Jackpot](https://www.codingame.com/training/easy/pachinko-jackpot) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Pachinko%20Jackpot/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Pachinko%20Jackpot/Ruby.rb) | Dynamic Programming<br>Trees<br>Memoization |
-| 103 | []() |❌ Not Completed| []() |  |
+| 103 | [Faro shuffle](https://www.codingame.com/training/easy/faro-shuffle) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Faro%20shuffle/Python.py) | Loops |
+| 104 | []() |❌ Not Completed| []() |  |
+
 
 ## Medium
 
