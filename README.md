@@ -162,8 +162,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 101 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rooks%20Movements/Python.py) | Chess<br>Conditions |
 | 102 | [Pachinko Jackpot](https://www.codingame.com/training/easy/pachinko-jackpot) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Pachinko%20Jackpot/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Pachinko%20Jackpot/Ruby.rb) | Dynamic Programming<br>Trees<br>Memoization |
 | 103 | [Faro shuffle](https://www.codingame.com/training/easy/faro-shuffle) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Faro%20shuffle/Python.py) | Loops |
-| 104 | []() |❌ Not Completed| []() |  |
-
+| 104 | [Folding Paper](https://www.codingame.com/training/easy/folding-paper) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Folding%20Paper/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Folding%20Paper/Ruby.rb) | Mathematics<br>Loops<br>Sequences |
+| 105 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
