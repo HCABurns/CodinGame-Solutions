@@ -166,7 +166,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 105 | [Tree Paths](https://www.codingame.com/training/easy/tree-paths) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Tree%20Paths/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Tree%20Paths/Ruby.rb) | Binary Tree<br>Graphs |
 | 106 | [7-Segment Scanner](https://www.codingame.com/training/easy/7-segment-scanner) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/7-Segment%20Scanner/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/7-Segment%20Scanner/Ruby.rb) | ASCII Art<br>String Manipulation<br>Conditions<br>Loops |
 | 107 | [Happy Numbers](https://www.codingame.com/training/easy/happy-numbers) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Happy%20Numbers/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Happy%20Numbers/Ruby.rb) | Data Types<br>Loops |
-| 108 | []() |❌ Not Completed| []() |  |
+| 108 | [Page of Contents](https://www.codingame.com/training/easy/table-of-contents) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Table%20of%20Contents/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Table%20of%20Contents/Ruby.rb) | Parsing<br>String Manipulation |
+| 109 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
