@@ -168,7 +168,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 107 | [Happy Numbers](https://www.codingame.com/training/easy/happy-numbers) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Happy%20Numbers/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Happy%20Numbers/Ruby.rb) | Data Types<br>Loops |
 | 108 | [Page of Contents](https://www.codingame.com/training/easy/table-of-contents) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Table%20of%20Contents/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Table%20of%20Contents/Ruby.rb) | Parsing<br>String Manipulation |
 | 109 | [Playing Card Odds](https://www.codingame.com/training/easy/playing-card-odds) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Playing%20Card%20Odds/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Playing%20Card%20Odds/Ruby.rb) | Probability<br>Sets<br>Card Games |
-| 110 | []() |❌ Not Completed| []() |  |
+| 110 | [How high up does the beer go?](https://www.codingame.com/training/easy/how-high-up-does-the-beer-go) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/How%20high%20up%20does%20the%20beer%20go%3F/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/How%20high%20up%20does%20the%20beer%20go%3F/Ruby.rb) | Geometry |
+| 111 | []() |❌ Not Completed| []() |  |
 
 ## Medium
 
