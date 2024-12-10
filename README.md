@@ -172,7 +172,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 111 | [Ted's Compiler](https://www.codingame.com/training/easy/teds-compiler) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Ted's%20Compiler/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Ted's%20Compiler/Ruby.rb) | Parsing<br>Stack |
 | 112 | [Kiss the Girls](https://www.codingame.com/training/easy/kiss-the-girls) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Kiss%20the%20Girls/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Kiss%20the%20Girls/Ruby.rb) | Probability |
 | 113 | [Cosmic Love](https://www.codingame.com/training/easy/cosmic-love) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Cosmic%20Love/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Cosmic%20Love/Ruby.rb) | Physics<br>Mathematics |
-| 114 | []() |❌ Not Completed| []()<br>[]() |  |
+| 114 | [Horse-Racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Horse-Racing%20Hyperduals/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Horse-Racing%20Hyperduals/Ruby.rb) | Loops |
+| 115 | []() |❌ Not Completed| []()<br>[]() |  |
 
 ## Medium
 
