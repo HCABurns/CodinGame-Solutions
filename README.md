@@ -174,7 +174,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 113 | [Cosmic Love](https://www.codingame.com/training/easy/cosmic-love) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Cosmic%20Love/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Cosmic%20Love/Ruby.rb) | Physics<br>Mathematics |
 | 114 | [Horse-Racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Horse-Racing%20Hyperduals/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Horse-Racing%20Hyperduals/Ruby.rb) | Loops |
 | 115 | [Item Maker](https://www.codingame.com/training/easy/item-maker) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Item%20Maker/Python.py) | ASCII Art<br> |
-| 115 | []() |❌ Not Completed| []()<br>[]() |  |
+| 116 | []() |❌ Not Completed| []()<br>[]() |  |
 
 ## Medium
 
