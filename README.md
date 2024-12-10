@@ -241,7 +241,7 @@ The following are my results for code golf split into the different difficulties
 | 3 | [Shadows of the Knight - Episode 1](https://www.codingame.com/codegolf/medium/shadows-of-the-knight-episode-1-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Shadows%20of%20the%20Knight%20-%20Episode%201/Python%20176.py) | 176 | Binary Search<br>Intervals |
 | 4 | [Dwarfs Standing on the Shoulders of Giants](https://www.codingame.com/codegolf/medium/dwarfs-standing-on-the-shoulders-of-giants-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Dwarfs%20Standing%20on%20the%20Shoulders%20of%20Giants/Python.py) | 197 | Memoization<br>Recusion<br>Graphs |
 | 5 | [Mayan Calculation](https://www.codingame.com/codegolf/medium/mayan-calculation-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Mayan%20Calculation/Python%20423.py) | 423 | Radix<br>Strings<br>Mathematics |
-| 6 | [Blunder - Episode 1](https://www.codingame.com/codegolf/medium/blunder-episode-1-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Code%20Golf/Medium/Blunder%20-%20Episode%201/Python.py) | 801 | State Machine<br>Simulation |
+| 6 | [Blunder - Episode 1](https://www.codingame.com/codegolf/medium/blunder-episode-1-codesize) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Code%20Golf/Medium/Blunder%20-%20Episode%201/Python%20773.py) | 773 | State Machine<br>Simulation |
 
 ## Hard
 
