@@ -176,7 +176,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 115 | [Item Maker](https://www.codingame.com/training/easy/item-maker) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Item%20Maker/Python.py) | ASCII Art<br> |
 | 116 | [Ulam Spiral](https://www.codingame.com/training/easy/ulam-spiral) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Ulam%20Spiral/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Ulam%20Spiral/Ruby.rb) | Mathematics<br>ASCII Art<br>Primes |
 | 117 | [Number derivation](https://www.codingame.com/training/easy/number-derivation) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Number%20Derivation/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Number%20Derivation/Ruby.rb) | Mathematics<br>Arithmetic<br>Derivative |
-| 118 | []() |❌ Not Completed| []()<br>[]() |  |
+| 118 | [Stunning Numbers](https://www.codingame.com/training/easy/stunning-numbers) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Stunning%20Numbers/Python.py) | Optimization<br>String Manipulation |
+| 119 | []() |❌ Not Completed| []()<br>[]() |  |
 
 ## Medium
 
