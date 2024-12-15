@@ -51,7 +51,7 @@ The following is a collection of my own created puzzles and Clash of Codes.
 
 ### Puzzles
 | <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Solution</b> |<b>Accepted</b> |
-| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
+| :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
 | [Tired Pac-Man]() | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | ⏳ |
 | [Pandora's Bridges]() | Medium | | | | Graphs<br>Trigonometry<br>3D | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) |⏳ |
 | [The Sovereign's Game]() | Easy | | | | Heap<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |⏳ |
