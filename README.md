@@ -40,12 +40,14 @@ Optimization is a mode where you need to optimise your code to provide the best 
 The following is a collection of my own created puzzles and Clash of Codes.
 
 ### Clash of Codes
-| <b>Name</b> | <b>Tags</b> | <b>Accepted</b> |
-| :---------: | :---------: | :-------------: |
-| [GeoGuessr Best Guess](https://www.codingame.com/ide/demo/1188140b6f43ae715e1d3bb07230216b833b367) | String Manipulation<br>Conditions | ✔️ |
-| [Formula 1 Championship]() | Hashmap<br>String Manipulation<br>Sorting | ⏳ |
+| <b>Name</b> | <b>Tags</b> | <b>Modes</b> | <b>Accepted</b> |
+| :---------: | :---------: | :----------: | :-------------: |
+| [GeoGuessr Best Guess](https://www.codingame.com/ide/demo/1188140b6f43ae715e1d3bb07230216b833b367) | String Manipulation<br>Conditions | Fastest<br>Shortest |✔️ |
+| [Formula 1 Championship]() | Hashmap<br>String Manipulation<br>Sorting | Fastest<br>Shortest | ⏳ |
+| [Beam Rotation]() | Mathematics<br>Moments| Fastest<br>Shortest | 🚧|
+| [Ordinal Selection]() | Ordinal Number | Reverse | 🚧|
 
-<!--     | []() | | |     -->          
+<!--     | []() | | | Fastest<br>Shortest<br>Reverse |⏳🚧✔️|     -->          
 
 ### Puzzles
 | <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Accepted</b> |
@@ -53,8 +55,8 @@ The following is a collection of my own created puzzles and Clash of Codes.
 | [Tired Pac-Man]() | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | ⏳ |
 | [Pandora's Bridges]() | Medium | | | | Graphs<br>Trigonometry<br>3D | ⏳ |
 | [The Sovereign's Game]() | Easy | | | | Heap<br>Greedy Algorithm | ⏳ |
-
-<!--    | []() | | | | | | ⏳ |      -->
+| [The Institute]() | Medium | | | | DFS<br>BFS | 🚧 |
+<!--    | []() | | | | | | ⏳🚧✔️ |      -->
 
 # Clash of Code
 
