@@ -35,6 +35,26 @@ Bot progamming is a challenge to create an AI to run thorugh a simulation in the
 
 Optimization is a mode where you need to optimise your code to provide the best possible outcome given a problem.
 
+# My Contributions
+
+The following is a collection of my own created puzzles and Clash of Codes.
+
+### Clash of Codes
+| <b>Name</b> | <b>Tags</b> | <b>Accepted</b> |
+| :---------: | :---------: | :-------------: |
+| [GeoGuessr Best Guess](https://www.codingame.com/ide/demo/1188140b6f43ae715e1d3bb07230216b833b367) | String Manipulation<br>Conditions | ✔️ |
+| [Formula 1 Championship]() | Hashmap<br>String Manipulation<br>Sorting | ⏳ |
+
+<!--     | []() | | |     -->          
+
+### Puzzles
+| <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Accepted</b> |
+| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
+| [Tired Pac-Man]() | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | ⏳ |
+| [Pandora's Bridges]() | Medium | | | | Graphs<br>Trigonometry<br>3D | ⏳ |
+| [The Sovereign's Game]() | | | | | Heap<br>Greedy Algorithm | ⏳ |
+
+<!--    | []() | | | | | | ⏳ |      -->
 
 # Clash of Code
 
