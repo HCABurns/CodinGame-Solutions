@@ -52,7 +52,7 @@ The following is a collection of my own created puzzles and Clash of Codes.
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 | [Tired Pac-Man]() | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | ⏳ |
 | [Pandora's Bridges]() | Medium | | | | Graphs<br>Trigonometry<br>3D | ⏳ |
-| [The Sovereign's Game]() | | | | | Heap<br>Greedy Algorithm | ⏳ |
+| [The Sovereign's Game]() | Easy | | | | Heap<br>Greedy Algorithm | ⏳ |
 
 <!--    | []() | | | | | | ⏳ |      -->
 
