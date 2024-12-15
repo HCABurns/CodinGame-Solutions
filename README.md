@@ -40,23 +40,23 @@ Optimization is a mode where you need to optimise your code to provide the best 
 The following is a collection of my own created puzzles and Clash of Codes.
 
 ### Clash of Codes
-| <b>Name</b> | <b>Tags</b> | <b>Modes</b> | <b>Accepted</b> |
-| :---------: | :---------: | :----------: | :-------------: |
-| [GeoGuessr Best Guess](https://www.codingame.com/ide/demo/1188140b6f43ae715e1d3bb07230216b833b367) | String Manipulation<br>Conditions | Fastest<br>Shortest |✔️ |
-| [Formula 1 Championship]() | Hashmap<br>String Manipulation<br>Sorting | Fastest<br>Shortest | ⏳ |
-| [Beam Rotation]() | Mathematics<br>Moments| Fastest<br>Shortest | 🚧|
-| [Ordinal Selection]() | Ordinal Number | Reverse | 🚧|
+| <b>Name</b> | <b>Tags</b> | <b>Modes</b> | <b>Solution</b> | <b>Accepted</b> |
+| :---------: | :---------: | :----------: | :-------------: | :-------------: |
+| [GeoGuessr Best Guess](https://www.codingame.com/ide/demo/1188140b6f43ae715e1d3bb07230216b833b367) | String Manipulation<br>Conditions | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/GeoGuessr%20Best%20Guess/Solution.py) |✔️ |
+| [Formula 1 Championship]() | Hashmap<br>String Manipulation<br>Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Formula%201%20Championship/Solution.py) | ⏳ |
+| [Beam Rotation]() | Mathematics<br>Moments| Fastest<br>Shortest | []() | 🚧 |
+| [Ordinal Selection]() | Ordinal Number | Reverse | []() | 🚧 |
 
-<!--     | []() | | | Fastest<br>Shortest<br>Reverse |⏳🚧✔️|     -->          
+<!--     | []() | | | Fastest<br>Shortest<br>Reverse | []() | ⏳🚧✔️|     -->          
 
 ### Puzzles
-| <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Accepted</b> |
-| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
-| [Tired Pac-Man]() | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | ⏳ |
-| [Pandora's Bridges]() | Medium | | | | Graphs<br>Trigonometry<br>3D | ⏳ |
-| [The Sovereign's Game]() | Easy | | | | Heap<br>Greedy Algorithm | ⏳ |
-| [The Institute]() | Medium | | | | DFS<br>BFS | 🚧 |
-<!--    | []() | | | | | | ⏳🚧✔️ |      -->
+| <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Solution</b> |<b>Accepted</b> |
+| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
+| [Tired Pac-Man]() | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | ⏳ |
+| [Pandora's Bridges]() | Medium | | | | Graphs<br>Trigonometry<br>3D | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) |⏳ |
+| [The Sovereign's Game]() | Easy | | | | Heap<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |⏳ |
+| [The Institute]() | Medium | | | | DFS<br>BFS | []() |🚧 |
+<!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
 # Clash of Code
 
