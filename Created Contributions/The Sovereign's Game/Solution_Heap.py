@@ -1,5 +1,5 @@
 # Required imports.
-import math
+from math import floor
 import heapq
 
 # Create maxheap.
@@ -25,10 +25,8 @@ while True:
     except:
         break
 
-# Create variables to store which resources are on cooldown.
-to_add = []
-wait = []
-wait2 = []
+# Create empty heap to store which resources are on cooldown.
+replenish = []
 
 # Select largest value k times.
 resources = 0
@@ -39,16 +37,14 @@ for i in range(k):
     # Increment resources amount.
     resources += value * -1
 
-    # Add available item after replenishment.
-    for replenished_value, replenished_rate in to_add:
+    # Add item after replenishment cooldown, if exists.
+    if replenish and replenish[0][0] == i:
+        _,replenished_value, replenished_rate = heapq.heappop(replenish)
         heapq.heappush(heap, [replenished_value, replenished_rate])
 
-    # Move collect resources down a stage.
-    to_add, wait, wait2 = wait, wait2, []
-
-    # Add updated value to waitlist.
+    # Add updated value to replenish cooldown heap.
     if value != 0:
-        wait2 = [[-math.floor(abs(value)/100*-rate),rate]]
+        heapq.heappush(replenish, [i+3, -floor(abs(value)/100*-rate),rate])
 
-# Output max resources amount.
+# Output number of resources collected.
 print(resources)
