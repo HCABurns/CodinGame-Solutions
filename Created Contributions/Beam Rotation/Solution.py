@@ -14,9 +14,9 @@ for i in range(n):
     box_identifier, mass = input().split()
     weight = float(mass) * 9.81
     if beam.find(box_identifier) < pos:
-        anti_clockwise += weight * (pos-beam.find(box_identifier)+1)
+        anti_clockwise += weight * (pos-beam.find(box_identifier))
     else:
-        clockwise +=  weight * (beam.find(box_identifier)-pos+1)
+        clockwise +=  weight * (beam.find(box_identifier)-pos)
 
 # Round to 2dp. 
 anti_clockwise = round(anti_clockwise , 2)
