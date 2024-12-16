@@ -1,8 +1,8 @@
-# Get plank.
-plank = input()
+# Get beam.
+beam = input()
 
 # Find pivot position.
-pos = plank.find("^")
+pos = beam.find("^")
 
 # Variables for storing clockwise and anti-clockwise moments.
 anti_clockwise = 0
@@ -11,12 +11,12 @@ clockwise = 0
 n = int(input())
 for i in range(n):
     # Get name and mass.
-    box_name, mass = input().split()
+    box_identifier, mass = input().split()
     weight = float(mass) * 9.81
-    if plank.find(box_name) < pos:
-        anti_clockwise += weight * (pos-plank.find(box_name)+1)
+    if beam.find(box_identifier) < pos:
+        anti_clockwise += weight * (pos-beam.find(box_identifier)+1)
     else:
-        clockwise +=  weight * (plank.find(box_name)-pos+1)
+        clockwise +=  weight * (beam.find(box_identifier)-pos+1)
 
 # Round to 2dp. 
 anti_clockwise = round(anti_clockwise , 2)
