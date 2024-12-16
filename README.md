@@ -199,7 +199,8 @@ The following will show my solutions to puzzles which have been seperated by dif
 | 116 | [Ulam Spiral](https://www.codingame.com/training/easy/ulam-spiral) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Ulam%20Spiral/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Ulam%20Spiral/Ruby.rb) | Mathematics<br>ASCII Art<br>Primes |
 | 117 | [Number derivation](https://www.codingame.com/training/easy/number-derivation) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Number%20Derivation/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Number%20Derivation/Ruby.rb) | Mathematics<br>Arithmetic<br>Derivative |
 | 118 | [Stunning Numbers](https://www.codingame.com/training/easy/stunning-numbers) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Stunning%20Numbers/Python.py) | Optimization<br>String Manipulation |
-| 119 | []() |❌ Not Completed| []()<br>[]() |  |
+| 119 | [Pirate's Treasure](https://www.codingame.com/training/easy/pirates-treasure) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Pirate's%20Treasure/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Pirate's%20Treasure/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Pirate's%20Treasure/Java.java) | Arrays<br>Loops<br>Conditions |
+| 120 | []() |❌ Not Completed| []()<br>[]() |  |
 
 ## Medium
 
