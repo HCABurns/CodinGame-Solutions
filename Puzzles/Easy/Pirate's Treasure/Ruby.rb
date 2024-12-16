@@ -30,7 +30,7 @@ h.times do |i|
     end
     
     # Determine is current position is the treasure.
-    if sum_val == 3 && ((i == 0 && j == 0 || j == w-1) or (i == h-1 && j == 0 || j == w-1))
+    if sum_val == 3 && ((i == 0 && j == 0 || j == w-1) || (i == h-1 && j == 0 || j == w-1))
       coords = "#{j} #{i}"
     elsif sum_val == 5 && ((i == 0 || i == h-1) || (j == 0 || j == w-1))
       coords = "#{j} #{i}"
