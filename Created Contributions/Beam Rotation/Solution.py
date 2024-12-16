@@ -25,7 +25,7 @@ clockwise = round(clockwise , 2)
 # Print direction
 if anti_clockwise == clockwise:
     print("BALANCED")
-elif anti_clockwise < clockwise:
+elif anti_clockwise > clockwise:
     print("ANTI-CLOCKWISE")
 else:
     print("CLOCKWISE")
