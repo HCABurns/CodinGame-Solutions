@@ -7,7 +7,7 @@ These are a collection of solutions to the puzzles on [CodinGame.com](https://ww
 
 CodingGame has a vast selection of challenging problems, in a variety of different contexts, requiring knowledge in all aspects of programming to solve them.
 
-There are multiple different modes available: Clash of Code, Puzzles, Code Golf, Bot Programming, Optimization. Each mode offers something unqiue and challenging.
+There are multiple different modes available: Clash of Code, Puzzles, Code Golf, Bot Programming and Optimization. Each mode offers something unqiue and challenging.
 
 ## What is Clash of Code?
 
