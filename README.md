@@ -9,35 +9,9 @@ CodingGame has a vast selection of challenging problems, in a variety of differe
 
 There are multiple different modes available: Clash of Code, Puzzles, Code Golf, Bot Programming and Optimization. Each mode offers something unqiue and challenging.
 
-## What is Clash of Code?
-
-Clash of Code is a mode aimed at improving coding efficiency through racing other users to create a robust solution to a problem as quick as possible. There are three different modes available in Clash of Code: Fastest, Shortest and Reverse.
-
-<b>Fastest:</b> This mode is to create a solution to a problem passing all validators as quick as possible.
-
-<b>Shortest:</b> This mode is for creating a solution in the shortest number of characters possible.
-
-<b>Reverse:</b> This mode provides an input and output only. The user must decipher the problem only from this information and create a solution as quick as they can.
-
-## What is Puzzles?
-
-Puzzles are a selection of problems split into different difficulty levels. The goal is to provide a solution that will pass hidden validators, to ensure a complete solution. The hidden validators will include general solutions as well as edge cases. Each problem is accompanied by tags releated to the problem, for example: BFS, Trie, Backtracking, Pathfinding, Cryptography, ... etc. 
-
-## What is Code Golf?
-
-Code golf is a challenge to achieve the shortest possible source code by using language specific tricks for a specific problem.
-
-## What is Bot Programming?
-
-Bot progamming is a challenge to create an AI to run thorugh a simulation in the best method for a given task. This could be as simple as a rules based approach to neural networks. A solution is tested against other users solutions and ranked based on how well it performs against others.
-
-## What is Optimization?
-
-Optimization is a mode where you need to optimise your code to provide the best possible outcome given a problem.
-
 # My Contributions
 
-The following is a collection of my own created puzzles and Clash of Codes.
+The following is a collection of my created puzzles and Clash of Codes that have been accepted, awaiting approval or under construction.
 
 ### Clash of Codes
 | <b>Name</b> | <b>Tags</b> | <b>Modes</b> | <b>Solution</b> | <b>Accepted</b> |
@@ -60,7 +34,13 @@ The following is a collection of my own created puzzles and Clash of Codes.
 
 # Clash of Code
 
-The following will show my position, score rating and number of participations in clash of code games.
+Clash of Code is a mode aimed at improving coding efficiency through racing other users to create a robust solution to a problem as quick as possible. There are three different modes available in Clash of Code: Fastest, Shortest and Reverse.
+
+<b>Fastest:</b> This mode is to create a solution to a problem passing all validators as quick as possible.
+
+<b>Shortest:</b> This mode is for creating a solution in the shortest number of characters possible.
+
+<b>Reverse:</b> This mode provides an input and output only. The user must decipher the problem only from this information and create a solution as quick as they can.
 
 ### Current Standings
 | <b>Position</b>  | <b>Percentile</b> | <b>Score</b> | <b>Participations</b> |
@@ -75,7 +55,7 @@ The following will show my position, score rating and number of participations i
 
 # Puzzles
 
-The following will show my solutions to puzzles which have been seperated by difficulty.
+Puzzles are a selection of problems split into different difficulty levels. The goal is to provide a solution that will pass hidden validators, to ensure a complete solution. The hidden validators will include general solutions as well as edge cases. Each problem is accompanied by tags releated to the problem, for example: BFS, Trie, Backtracking, Pathfinding, Cryptography, ... etc. 
 
 ## Easy
 
@@ -245,7 +225,7 @@ The following will show my solutions to puzzles which have been seperated by dif
 
 # Code Golf
 
-The following are my results for code golf split into the different difficulties.
+Code golf is a challenge to achieve the shortest possible source code by using language specific tricks for a specific problem.
 
 ## Easy
 
@@ -295,5 +275,7 @@ The following are my results for code golf split into the different difficulties
 | 6 |  [Mars Lander - Episode 3](https://www.codingame.com/codegolf/expert/mars-lander-episode-3-codesize) | ❌ Not Completed |  |  | Distances<br>Trigonometry |
 
 # Bot Programming 
+Bot progamming is a challenge to create an AI to run thorugh a simulation in the best method for a given task. This could be as simple as a rules based approach to neural networks. A solution is tested against other users solutions and ranked based on how well it performs against others.
 
 # Optimization
+Optimization is a mode where you need to optimise your code to provide the best possible outcome given a problem.
