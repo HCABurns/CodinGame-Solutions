@@ -187,7 +187,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 119 | [Pirate's Treasure](https://www.codingame.com/training/easy/pirates-treasure) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Pirate's%20Treasure/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Pirate's%20Treasure/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Pirate's%20Treasure/Java.java) | Arrays<br>Loops<br>Conditions |
 | 120 | [Kangaroo Words](https://www.codingame.com/training/easy/kangaroo-words) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Kangaroo%20Words/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Kangaroo%20Words/Ruby.rb) | Sorting<br>Loops<br>Conditions |
 | 121 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Jack%20Silver%3A%20The%20Casino/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Jack%20Silver%3A%20The%20Casino/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Jack%20Silver%3A%20The%20Casino/Java.java) | Strings |
-| 122 | []() |❌ Not Completed| []()<br>[]() |  |
+| 122 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Bulk%20Email%20Generator/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Bulk%20Email%20Generator/Ruby.rb) | String Manipulation |
+| 123 | []() |❌ Not Completed| []()<br>[]() |  |
 
 ## Medium
 
