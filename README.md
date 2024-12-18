@@ -9,9 +9,24 @@ CodingGame has a vast selection of challenging problems, in a variety of differe
 
 There are multiple different modes available: Clash of Code, Puzzles, Code Golf, Bot Programming and Optimization. Each mode offers something unqiue and challenging.
 
-Puzzles Completed: [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Easy?label=Easy&color=green)](#easy) [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Medium?label=Medium&color=yellow)](#medium) [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Hard?label=Hard&color=red)](#hard) [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
+Puzzles Completed:
+[![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Easy?label=Easy&color=green)](#easy)
+[![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Medium?label=Medium&color=yellow)](#medium)
+[![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Hard?label=Hard&color=red)](#hard)
+[![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
-Code Golf Completed: [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Code%20Golf/Easy?label=Easy&color=green)](#easy-1) [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Code%20Golf/Medium?label=Medium&color=yellow)](#medium-1) [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Code%20Golf/Hard?label=Hard&color=red)](#hard-1) [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Code%20Golf/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard-1)
+Total Puzzle Solutions: 
+[![](https://img.shields.io/badge/Easy-309-green)](#easy) 
+[![](https://img.shields.io/badge/Medium-21-yellow)](#medium) 
+[![](https://img.shields.io/badge/Hard-5-red)](#hard) 
+[![](https://img.shields.io/badge/Very_Hard-2-purple
+)](#very-hard)
+
+Code Golf Completed:
+[![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Code%20Golf/Easy?label=Easy&color=green)](#easy-1)
+[![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Code%20Golf/Medium?label=Medium&color=yellow)](#medium-1)
+[![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Code%20Golf/Hard?label=Hard&color=red)](#hard-1)
+[![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Code%20Golf/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard-1)
 
 # My Contributions
 
