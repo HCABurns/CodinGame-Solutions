@@ -1,8 +1,8 @@
 ![logo](https://logonoid.com/images/codingame-logo.png)
 
-These are a collection of solutions to the puzzles on [CodinGame.com](https://www.codingame.com)
+<p align="center"> These are a collection of solutions to the puzzles on <a href="https://www.codingame.com"> CodinGame.com </a></p>
 
-[Click here to view my profile.](https://www.codingame.com/profile/d926a93cb394ded661b204822965c5fa7122915)
+<p align="center"> <a href="https://www.codingame.com/profile/d926a93cb394ded661b204822965c5fa7122915"> Click here to view my profile </a></p>
 
 # Introduction
 
