@@ -51,6 +51,9 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Pandora's Bridges]() | Medium | | | | Graphs<br>Trigonometry<br>3D | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) |⏳ |
 | [The Sovereign's Game]() | Easy | | | | Heap<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |⏳ |
 | [The Institute]() | Medium | | | | DFS<br>BFS | []() |🚧 |
+| [Darts Checkout Combinations]() | Easy | | | | | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | 🚧 |
+
+
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
 # Clash of Code
