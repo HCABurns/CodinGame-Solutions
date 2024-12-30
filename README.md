@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-343-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-21-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-22-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
 )](#very-hard)
@@ -232,7 +232,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 16 | [Hidden Word](https://www.codingame.com/training/medium/hidden-word) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Hidden%20Word/Python.py) | 2D Array<br>String Manipulation |
 | 17 | [Gravity](https://www.codingame.com/training/medium/gravity) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Gravity/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Gravity/Ruby.rb) | 2D Array |
 | 18 | [Roman Sorting](https://www.codingame.com/training/medium/roman-sorting) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Roman%20Sorting/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Roman%20Sorting/Ruby.rb) | Sorting |
-| 19 | []() |❌ Not Completed| []() | |
+| 19 | [Vote Counting](https://www.codingame.com/training/medium/vote-counting) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Vote%20Counting/Python.py) | Hashmap<br>Loops |
+| 20 | []() |❌ Not Completed| []() | |
 
 ## Hard
 
