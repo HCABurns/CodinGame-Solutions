@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-343-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-345-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-22-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -212,7 +212,9 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 125 | [Rugby Score](https://www.codingame.com/training/easy/rugby-score) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rugby%20Score/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rugby%20Score/Ruby.rb) | Conditions<br>Loops |
 | 126 | [Self-Driving Car Testing](https://www.codingame.com/training/easy/self-driving-car-testing) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Self-Driving%20Car%20Testing/Python.py)<br> | ASCII Art |
 | 127 | [nD-Vector Sorting](https://www.codingame.com/training/easy/nd-vector-sorting) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/nD-Vector%20Sorting/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/nD-Vector%20Sorting/Ruby.rb) | Topology<br>Sorting<br>2D Array |
-| 128 | []() |❌ Not Completed| []()<br>[]() |  |
+| 128 | [Where am I going?](https://www.codingame.com/training/easy/where-am-i-going) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Where%20am%20I%20going%3F/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Where%20am%20I%20going%3F/Ruby.rb) | Pathfinding<br>Strings<br>Loops<br>Conditions |
+| 129 | []() |❌ Not Completed| []()<br>[]() |  |
+
 
 ## Medium
 
