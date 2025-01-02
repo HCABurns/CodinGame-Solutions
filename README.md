@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-347-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-349-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-22-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -214,7 +214,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 127 | [nD-Vector Sorting](https://www.codingame.com/training/easy/nd-vector-sorting) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/nD-Vector%20Sorting/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/nD-Vector%20Sorting/Ruby.rb) | Topology<br>Sorting<br>2D Array |
 | 128 | [Where am I going?](https://www.codingame.com/training/easy/where-am-i-going) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Where%20am%20I%20going%3F/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Where%20am%20I%20going%3F/Ruby.rb) | Pathfinding<br>Strings<br>Loops<br>Conditions |
 | 129 | [Tabloid Couple-Names 💕](https://www.codingame.com/training/easy/tabloid-couple-names) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Tabloid%20Couple-Names%20%F0%9F%92%95/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Tabloid%20Couple-Names%20%F0%9F%92%95/Ruby.rb) | String Manipulation<br>Loops |
-| 130 | []() |❌ Not Completed| []()<br>[]() |  |
+| 130 | [Create 'Turn Here' Signs](https://www.codingame.com/training/easy/create-turn-here-signs) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Create%20'Turn%20Here'%20Signs/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Create%20'Turn%20Here'%20Signs/Ruby.rb) | ASCII Art<br>Loops<br>Conditions<br>Logic |
+| 131 | []() |❌ Not Completed| []()<br>[]() |  |
 
 
 ## Medium
