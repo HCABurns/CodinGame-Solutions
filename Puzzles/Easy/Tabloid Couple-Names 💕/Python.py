@@ -12,22 +12,22 @@ for _ in range(n):
     n2 = name2.lower()
 
     # Find overlapping substrings.
-    n1s = []
+    substrings = []
     overlaps = []
     for idx in range(0,len(n1)):
-        [n1s.append(n1[idx:i])for i in range(1,len(n1)+1) if n1[idx:i] != ""]
+        [substrings.append(n1[idx:i])for i in range(1,len(n1)+1) if n1[idx:i] != ""]
     for idx in range(0,len(n2)):
         [overlaps.append(n2[idx:i]) for i in range(1,len(n2)+1) if n2[idx:i] != ""]
     
     # Find all possible tabloid names.
     words = []
-    for o in overlaps:
+    for overlap in overlaps:
         for n1,n2 in [[n1,n2] , [n2,n1]]:
-            for w1_idx in range(0,len(n1)-len(o)+1):
-                if n1[w1_idx:w1_idx+len(o)] == o:
-                    for w2_idx in range(0,len(n2)-len(o)+1):
-                        if n2[w2_idx:w2_idx+len(o)] == o:
-                            words.append((n1[:w1_idx+len(o)] + n2[w2_idx+len(o):] , len(o)))
+            for w1_idx in range(0,len(n1)-len(overlap)+1):
+                if n1[w1_idx:w1_idx+len(overlap)] == overlap:
+                    for w2_idx in range(0,len(n2)-len(overlap)+1):
+                        if n2[w2_idx:w2_idx+len(overlap)] == overlap:
+                            words.append((n1[:w1_idx+len(overlap)] + n2[w2_idx+len(overlap):] , len(overlap)))
 
 
     # Find only valid words, then select all those names with max number of overlapping characters.
