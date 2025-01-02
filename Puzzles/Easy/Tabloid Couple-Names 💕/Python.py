@@ -22,8 +22,7 @@ for _ in range(n):
     # Find all possible tabloid names.
     words = []
     for o in overlaps:
-        f = [[n1,n2] , [n2,n1]]
-        for n1,n2 in f:
+        for n1,n2 in [[n1,n2] , [n2,n1]]:
             for w1_idx in range(0,len(n1)-len(o)+1):
                 if n1[w1_idx:w1_idx+len(o)] == o:
                     for w2_idx in range(0,len(n2)-len(o)+1):
