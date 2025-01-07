@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-351-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-353-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-22-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -216,7 +216,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 129 | [Tabloid Couple-Names 💕](https://www.codingame.com/training/easy/tabloid-couple-names) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Tabloid%20Couple-Names%20%F0%9F%92%95/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Tabloid%20Couple-Names%20%F0%9F%92%95/Ruby.rb) | String Manipulation<br>Loops |
 | 130 | [Create 'Turn Here' Signs](https://www.codingame.com/training/easy/create-turn-here-signs) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Create%20'Turn%20Here'%20Signs/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Create%20'Turn%20Here'%20Signs/Ruby.rb) | ASCII Art<br>Loops<br>Conditions<br>Logic |
 | 131 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/XML%20MDF-2016/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/XML%20MDF-2016/Ruby.rb) | Hashmap<br>Strings<br>Parsing |
-| 132 | []() |❌ Not Completed| []()<br>[]() |  |
+| 132 | [Metric Units](https://www.codingame.com/training/easy/metric-units) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Metric%20Units/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Metric%20Units/Ruby.rb) | Mathematics<br>Conversion |
+| 133 | []() |❌ Not Completed| []()<br>[]() |  |
 
 
 ## Medium
