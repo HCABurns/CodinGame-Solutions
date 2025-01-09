@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-357-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-22-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-23-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
 )](#very-hard)
@@ -244,7 +244,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 16 | [Gravity](https://www.codingame.com/training/medium/gravity) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Gravity/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Gravity/Ruby.rb) | 2D Array |
 | 17 | [Roman Sorting](https://www.codingame.com/training/medium/roman-sorting) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Roman%20Sorting/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Roman%20Sorting/Ruby.rb) | Sorting |
 | 18 | [Vote Counting](https://www.codingame.com/training/medium/vote-counting) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Vote%20Counting/Python.py) | Hashmap<br>Loops |
-| 19 | []() |❌ Not Completed| []() | |
+| 19 | [Magic Coloring](https://www.codingame.com/training/medium/magic-coloring) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Magic%20Coloring/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Magic%20Coloring/Ruby.rb) | DFS<br>Flood Fill<br>Recursion |
+| 20 | []() |❌ Not Completed| []() | |
 
 ## Hard
 
