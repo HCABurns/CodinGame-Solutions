@@ -52,7 +52,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [The Sovereign's Game]() | Easy | | | | Heap<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |⏳ |
 | [The Institute]() | Medium | | | | DFS<br>BFS | []() |🚧 |
 | [Darts Checkout Combinations]() | Easy | | | | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ⏳ |
-| [Run Length Processing]() | Easy | | | | | []() | 🚧 |
+| [Run Length Processing]() | Easy | | | | RLE<br>Data Processing<br>Encoding<br>Decoding | []() | 🚧 |
 
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
