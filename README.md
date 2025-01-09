@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-355-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-24-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-26-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
 )](#very-hard)
