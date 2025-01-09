@@ -34,7 +34,7 @@ Code Golf Completed:
 The following is a collection of my created puzzles and Clash of Codes that have been accepted, awaiting approval or under construction.
 
 ### Clash of Codes
-| <b>Name</b> | <b>Tags</b> | <b>Modes</b> | <b>Solution</b> | <b>Accepted</b> |
+| <b>Name</b> | <b>Tags</b> | <b>Modes</b> | <b>Solution</b> | <b>Status</b> |
 | :---------: | :---------: | :----------: | :-------------: | :-------------: |
 | [GeoGuessr Best Guess](https://www.codingame.com/ide/demo/1188140b6f43ae715e1d3bb07230216b833b367) | String Manipulation<br>Conditions | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/GeoGuessr%20Best%20Guess/Solution_Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/GeoGuessr%20Best%20Guess/Solution_Ruby.rb) |✔️ |
 | [Formula 1 Championship](https://www.codingame.com/ide/demo/119738040664567973a82f3c047f3eb7730be4a) | Hashmap<br>String Manipulation<br>Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Formula%201%20Championship/Solution_Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Formula%201%20Championship/Solution_Ruby.rb) | ✔️ |
@@ -45,14 +45,14 @@ The following is a collection of my created puzzles and Clash of Codes that have
 <!--     | []() | | Fastest<br>Shortest<br>Reverse | []() | ⏳🚧✔️|     -->          
 
 ### Puzzles
-| <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Solution</b> |<b>Accepted</b> |
+| <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Solution</b> |<b>Status</b> |
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
 | [Tired Pac-Man]() | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | ⏳ |
 | [Pandora's Bridges]() | Medium | | | | Graphs<br>Trigonometry<br>3D | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) |⏳ |
 | [The Sovereign's Game]() | Easy | | | | Heap<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |⏳ |
 | [The Institute]() | Medium | | | | DFS<br>BFS | []() |🚧 |
 | [Darts Checkout Combinations]() | Easy | | | | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ⏳ |
-
+| [Run Length Processing]() | Easy | | | | | []() | 🚧 |
 
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
