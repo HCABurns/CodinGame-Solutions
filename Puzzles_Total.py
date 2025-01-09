@@ -26,6 +26,7 @@ expert_community = [f"https://chadok.info/codingame/players_puzzles.php?level=ex
 # Iterate through each difficulty level for community and official CodinGame puzzles and find total number of puzzles solved.
 urls = [tutorial, easy_cg, easy_community, medium_cg, medium_community, hard_cg, hard_community, expert_cg, expert_community]
 totals = []
+solved = []
 total = 0
 for url_info in urls:
     # Get data.
@@ -35,16 +36,33 @@ for url_info in urls:
     if data.status_code == 200:
         # Find total of completed puzzles for `identifier`.
         local_total = 0
+        local_solved = 0
         for val in findall("<th>[0-9]+</th>",data.text):
             val = val.replace("<th>","").replace("</th>","")
             if val.isnumeric():
                 local_total += int(val)
+
+        # Find total of individual completed puzzles for `identifier`.
+        for val in findall("<td>[0-9]+</td>",data.text):
+            val = val.replace("<td>","").replace("</td>","")
+            if val.isnumeric():
+                if int(val) != 0:
+                    local_solved += 1
+            
         # Output and store total.
         print(f"Total for {identifier}: {local_total}")
         total+=local_total
         totals+=[local_total]
+        solved += [local_solved]
     else:
         print(f"Error! Could not retrieve data for {identifier}... Error Code: {data.status_code}")
+
+# Print number of individual puzzles solved for each category. (Classify tutorial as easy)
+print()
+solved[1] += solved[0]
+for i,name in zip(range(1,len(solved),2),["Easy","Medium","Hard","Expert"]):
+    print(f"Total individual {name} puzzles solved: {solved[i]+solved[i+1]}")
+
 
 # Print combined totals for community and official CodinGame puzzles.
 print()
