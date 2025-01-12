@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-356-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-357-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-26-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -219,7 +219,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 132 | [Digital Scoreboard](https://www.codingame.com/training/easy/digital-scoreboard) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Digital%20Scoreboard/Python.py) | ASCII Art<br>Conditions<br>Parsing |
 | 133 | [Snake Sort 2D](https://www.codingame.com/training/easy/snake-sort-2d) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Snake%20Sort%202D/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Snake%20Sort%202D/Ruby.rb) | Sorting |
 | 134 | [Histogram](https://www.codingame.com/training/easy/histogram) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Histogram/Python.py) | Mathematics<br>ASCII Art |
-| 135 | []() |❌ Not Completed| []()<br>[]() |  |
+| 135 | [Make an Atari Font](https://www.codingame.com/training/easy/make-an-atari-font) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Make%20an%20Atari%20Font/Python.py) | Bitboarding<br>ASCII Art<br>2D Array<br>String Manipulation |
+| 136 | []() |❌ Not Completed| []()<br>[]() |  |
 
 ## Medium
 
