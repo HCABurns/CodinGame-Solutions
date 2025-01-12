@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-359-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-26-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-28-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
 )](#very-hard)
@@ -247,7 +247,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 18 | [Vote Counting](https://www.codingame.com/training/medium/vote-counting) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Vote%20Counting/Python.py) | Hashmap<br>Loops |
 | 19 | [Magic Coloring](https://www.codingame.com/training/medium/magic-coloring) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Magic%20Coloring/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Magic%20Coloring/Ruby.rb) | DFS<br>Flood Fill<br>Recursion |
 | 20 | [Pachinko Jackpot](https://www.codingame.com/training/easy/pachinko-jackpot) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Pachinko%20Jackpot/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Pachinko%20Jackpot/Ruby.rb) | Dynamic Programming<br>Trees<br>Memoization |
-| 21 | []() |❌ Not Completed| []() | |
+| 21 | [Is the King In Check? (Part 2)](https://www.codingame.com/ide/puzzle/is-the-king-in-check-part-2) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Is%20the%20King%20In%20Check%3F%20(Part%202)/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Is%20the%20King%20In%20Check%3F%20(Part%202)/Ruby.rb) | Chess<br>Conditions |
+| 22 | []() |❌ Not Completed| []() | |
 
 ## Hard
 
