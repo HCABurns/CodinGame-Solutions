@@ -38,7 +38,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | :---------: | :---------: | :----------: | :-------------: | :-------------: |
 | [GeoGuessr Best Guess](https://www.codingame.com/ide/demo/1188140b6f43ae715e1d3bb07230216b833b367) | String Manipulation<br>Conditions | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/GeoGuessr%20Best%20Guess/Solution_Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/GeoGuessr%20Best%20Guess/Solution_Ruby.rb) |✔️ |
 | [Formula 1 Championship](https://www.codingame.com/ide/demo/119738040664567973a82f3c047f3eb7730be4a) | Hashmap<br>String Manipulation<br>Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Formula%201%20Championship/Solution_Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Formula%201%20Championship/Solution_Ruby.rb) | ✔️ |
-| [Beam Rotation]() | Mathematics<br>Moments| Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Beam%20Rotation/Solution.py) | ⏳ |
+| [Beam Rotation]() | Mathematics<br>Moments| Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Beam%20Rotation/Solution.py) | ✔️ |
 | [Santa's Gift Sorting]() | Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Santa's%20Gift%20Sorting/Solution.py) | ✔️ |
 | [Ordinal Selection]() | Ordinal Number | Reverse | []() | 🚧 |
 
