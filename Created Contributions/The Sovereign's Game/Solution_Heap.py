@@ -5,25 +5,11 @@ import heapq
 # Create maxheap.
 heap = []
 k = int(input())
-assert k>=1 and k<=999999, f"{k}: K is out of range"
 n = int(input())
-assert n>=1 and n<=1500, f"{n}: N is out of range"
 for i in range(n):
     value, rate = [int(j) for j in input().split()]
-    assert value>=1 and value<=10000, f"{value}: Value is out of range"
-    assert rate>=0 and rate<=100, f"{rate}: Rate is out of range"
     heap += [[-value ,-rate]]
 heapq.heapify(heap)
-
-# Test to ensure all rows have been read (check n is the correct number)
-while True:
-    try:
-        input()
-        raise AssertionError
-    except AssertionError:
-        assert False, f"More than {n} rows in the input"
-    except:
-        break
 
 # Create empty heap to store which resources are on cooldown.
 replenish = []
