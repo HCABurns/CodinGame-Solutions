@@ -44,7 +44,7 @@ for i in range(k):
 
     # Add updated value to replenish cooldown heap.
     if value != 0:
-        heapq.heappush(replenish, [i+3, -floor(abs(value)/100*-rate),rate])
+        heapq.heappush(replenish, [i+3, -floor(abs(value)*-rate/100),rate])
 
 # Output number of resources collected.
 print(resources)
