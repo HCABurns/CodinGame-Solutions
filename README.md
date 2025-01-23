@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-361-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-28-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-29-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
 )](#very-hard)
@@ -49,7 +49,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
 | [Tired Pac-Man]() | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | ⏳ |
 | [Pandora's Bridges]() | Medium | | | | Graphs<br>Trigonometry<br>3D | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) |⏳ |
-| [The Sovereign's Game]() | Medium | | | | Heap<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |⏳ |
+| [The Sovereign's Game]() | Medium | | | | Heap<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
 | [The Institute]() | Medium | | | | DFS<br>BFS | []() |🚧 |
 | [Darts Checkout Combinations]() | Easy | | | | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ⏳ |
 | [Run Length Processing]() | Easy | | | | RLE<br>Data Processing<br>Encoding<br>Decoding | []() | 🚧 |
@@ -249,7 +249,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 19 | [Magic Coloring](https://www.codingame.com/training/medium/magic-coloring) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Magic%20Coloring/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Magic%20Coloring/Ruby.rb) | DFS<br>Flood Fill<br>Recursion |
 | 20 | [Pachinko Jackpot](https://www.codingame.com/training/easy/pachinko-jackpot) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Pachinko%20Jackpot/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Pachinko%20Jackpot/Ruby.rb) | Dynamic Programming<br>Trees<br>Memoization |
 | 21 | [Is the King In Check? (Part 2)](https://www.codingame.com/ide/puzzle/is-the-king-in-check-part-2) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Is%20the%20King%20In%20Check%3F%20(Part%202)/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Is%20the%20King%20In%20Check%3F%20(Part%202)/Ruby.rb) | Chess<br>Conditions |
-| 22 | []() |❌ Not Completed| []() | |
+| 22 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Sovereign's%20Game/Python.py) | Greedy Algorithm<br>Optimization<br>Sorting |
+| 23 | []() |❌ Not Completed| []() | |
 
 ## Hard
 
