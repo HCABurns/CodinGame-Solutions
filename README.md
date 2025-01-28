@@ -51,7 +51,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Pandora's Bridges]() | Medium | | | | Graphs<br>Trigonometry<br>3D | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) |⏳ |
 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 19 | 68% | 4.2⭐ | Heap<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
 | [The Institute]() | Medium | | | | DFS<br>BFS | []() |🚧 |
-| [Darts Checkout Combinations]() | Easy | 8 | 75% | 4.8⭐ | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ✔️ |
+| [Darts Checkout Combinations]() | Easy | 8 | 88% | 4.8⭐ | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ✔️ |
 | [Run Length Processing]() | Easy | | | | RLE<br>Data Processing<br>Encoding<br>Decoding | []() | 🚧 |
 
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
