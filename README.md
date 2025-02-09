@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-363-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-364-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-29-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -222,7 +222,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 135 | [Make an Atari Font](https://www.codingame.com/training/easy/make-an-atari-font) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Make%20an%20Atari%20Font/Python.py) | Bitboarding<br>ASCII Art<br>2D Array<br>String Manipulation |
 | 136 | [Is the King In Check? (Part 1)](https://www.codingame.com/training/easy/is-the-king-in-check-part-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Is%20the%20King%20In%20Check%3F%20(Part%201)/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Is%20the%20King%20In%20Check%3F%20(Part%201)/Ruby.rb) | Chess<br>Conditions |
 | 137 | [1D Bush Fire](https://www.codingame.com/training/easy/1d-bush-fire) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/1D%20Bush%20Fire/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/1D%20Bush%20Fire/Ruby.rb) | Array |
-| 138 | [Darts Checkout Routes](https://www.codingame.com/training/easy/darts-checkout-routes) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Darts%20Checkout%20Routes/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Darts%20Checkout%20Routes/Ruby.rb) | DFS<br>BFS<br>Brute-Force |
+| 138 | [Darts Checkout Routes](https://www.codingame.com/training/easy/darts-checkout-routes) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Darts%20Checkout%20Routes/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Darts%20Checkout%20Routes/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Darts%20Checkout%20Routes/Java.java) | DFS<br>BFS<br>Brute-Force |
 | 139 | []() |❌ Not Completed| []()<br>[]() |  |
 
 
