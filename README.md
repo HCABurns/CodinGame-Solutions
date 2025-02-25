@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-367-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-368-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-29-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -225,7 +225,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 138 | [Darts Checkout Routes](https://www.codingame.com/training/easy/darts-checkout-routes) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Darts%20Checkout%20Routes/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Darts%20Checkout%20Routes/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Darts%20Checkout%20Routes/Java.java) | DFS<br>BFS<br>Brute-Force |
 | 139 | [Save the Drone!](https://www.codingame.com/training/easy/save-my-drone) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Save%20my%20Drone!/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Save%20my%20Drone!/Ruby.rb) | Parsing<br>String<br>Hashmap |
 | 140 | [Furlongs per Fortnight](https://www.codingame.com/training/easy/furlongs-per-fortnight/discuss) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Furlongs%20per%20Fortnight/Python.py) | String Manipulation<br>Mathematics |
-| 141 | []() |❌ Not Completed| []()<br>[]() |  |
+| 141 | [Binary Image](https://www.codingame.com/training/easy/binary-image) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Binary%20Image/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Binary%20Image/Ruby.rb) | Arrays<br>ASCII Art |
+| 142 | []() |❌ Not Completed| []()<br>[]() |  |
 
 
 ## Medium
