@@ -40,8 +40,8 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Formula 1 Championship](https://www.codingame.com/ide/demo/119738040664567973a82f3c047f3eb7730be4a) | Hashmap<br>String Manipulation<br>Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Formula%201%20Championship/Solution_Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Formula%201%20Championship/Solution_Ruby.rb) | ✔️ |
 | [Beam Rotation](https://www.codingame.com/ide/demo/1201571c100a965df299af10fddd04f8c5559d8) | Mathematics<br>Moments| Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Beam%20Rotation/Solution.py) | ✔️ |
 | [Santa's Gift Sorting](https://www.codingame.com/ide/demo/1200650cc3d81d212484f24bc4be8396d207253) | Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Santa's%20Gift%20Sorting/Solution.py) |✔️|
+| [Football Scores](https://www.codingame.com/ide/demo/12297844fba01e3b75ab47d84dbf6dc63304cb2) | Hashmap<br>String<br>Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Football%20Scores/Solution.py) | ✔️ |
 | [Ordinal Selection]() | Ordinal Number | Reverse | []() | 🚧 |
-| [Football Scores]() | Hashmap<br>String<br>Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Football%20Scores/Solution.py) | ⏳ | 
 
 <!--     | []() | | Fastest<br>Shortest<br>Reverse | []() | ⏳🚧✔️|     -->          
 
