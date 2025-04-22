@@ -228,8 +228,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 141 | [Binary Image](https://www.codingame.com/training/easy/binary-image) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Binary%20Image/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Binary%20Image/Ruby.rb) | Arrays<br>ASCII Art |
 | 142 | [Frame The Picture](https://www.codingame.com/training/easy/frame-the-picture) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Frame%20The%20Picture/Python.py) | Loops<br>String Manipulation |
 | 143 | [Build A Bookcase🔨](https://www.codingame.com/training/easy/build-a-bookcase) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/%7CBuild%20A%20Bookcase%7C%F0%9F%94%A8/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/%7CBuild%20A%20Bookcase%7C%F0%9F%94%A8/Ruby.rb) | ASCII Art<br>Mathematics<br>Loops<br>Logic |
-| 144 | []() |❌ Not Completed| []()<br>[]() |  |
-
+| 144 | [Agent X, Mission 1 — The Caesar Cipher](https://www.codingame.com/training/easy/agent-x-mission-1-the-caesar-cipher) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Agent%20X%2C%20Mission%201%20%E2%80%94%20The%20Caesar%20Cipher/Python.py) | Cryptography<br>Cipher |
+<!--  |  | []() |✔️ Completed| []()<br>[]() |  | -->
 
 ## Medium
 
