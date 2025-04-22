@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-370-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-372-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-29-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -227,7 +227,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 140 | [Furlongs per Fortnight](https://www.codingame.com/training/easy/furlongs-per-fortnight/discuss) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Furlongs%20per%20Fortnight/Python.py) | String Manipulation<br>Mathematics |
 | 141 | [Binary Image](https://www.codingame.com/training/easy/binary-image) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Binary%20Image/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Binary%20Image/Ruby.rb) | Arrays<br>ASCII Art |
 | 142 | [Frame The Picture](https://www.codingame.com/training/easy/frame-the-picture) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Frame%20The%20Picture/Python.py) | Loops<br>String Manipulation |
-| 143 | []() |❌ Not Completed| []()<br>[]() |  |
+| 143 | [Build A Bookcase🔨](https://www.codingame.com/training/easy/build-a-bookcase) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/%7CBuild%20A%20Bookcase%7C%F0%9F%94%A8/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/%7CBuild%20A%20Bookcase%7C%F0%9F%94%A8/Ruby.rb) | ASCII Art<br>Mathematics<br>Loops<br>Logic |
+| 144 | []() |❌ Not Completed| []()<br>[]() |  |
 
 
 ## Medium
