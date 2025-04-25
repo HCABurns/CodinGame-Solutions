@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-374-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-375-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-29-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-5-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -230,6 +230,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 143 | [Build A Bookcase🔨](https://www.codingame.com/training/easy/build-a-bookcase) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/%7CBuild%20A%20Bookcase%7C%F0%9F%94%A8/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/%7CBuild%20A%20Bookcase%7C%F0%9F%94%A8/Ruby.rb) | ASCII Art<br>Mathematics<br>Loops<br>Logic |
 | 144 | [Agent X, Mission 1 — The Caesar Cipher](https://www.codingame.com/training/easy/agent-x-mission-1-the-caesar-cipher) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Agent%20X%2C%20Mission%201%20%E2%80%94%20The%20Caesar%20Cipher/Python.py) | Cryptography<br>Cipher |
 | 145 | [Someone's Acting Sus....](https://www.codingame.com/training/easy/someones-acting-sus----) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Someone's%20Acting%20Sus..../Python.py) | Logic<br>Loops |
+| 146 | [No More Pythons, Please!](https://www.codingame.com/training/easy/no-more-pythons-please) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/No%20More%20Pythons%2C%20Please!/Python.py) | ASCII Art<br>Loops<br>Conditions<br>2D Array<br>Strings |
 <!--  |  | []() |✔️ Completed| []()<br>[]() |  | -->
 
 ## Medium
