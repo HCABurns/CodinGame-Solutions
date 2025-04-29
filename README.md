@@ -53,7 +53,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 37 | 76% | 4.3⭐ | Heap<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
 | [The Institute]() | Medium | | | | DFS<br>BFS | []() |🚧 |
 | [Darts Checkout Combinations](https://www.codingame.com/training/easy/darts-checkout-routes) | Easy | 172 | 71% | 4.5⭐ | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ✔️ |
-| [Road to Mount Boom]() | | | | | | []() | 🚧 | 
+| [Road to Mount Boom]() | | | | | | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Road%20to%20Mount%20Boom/Solution.py) | 🚧 | 
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
 # Clash of Code
