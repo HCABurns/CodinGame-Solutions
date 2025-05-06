@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-381-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-29-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-5-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-6-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
 )](#very-hard)
 
@@ -270,7 +270,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 02 | [Magic count of Numbers](https://www.codingame.com/training/hard/magic-count-of-numbers) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Magic%20Count%20of%20Numbers/Python.py) | Arithmetic<br>Mathematics |
 | 03 | [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Greatest%20Number/Python.py) | String<br>Manipulation<br>Conditions |
 | 04 | [Spreadsheet Labels](https://www.codingame.com/training/hard/spreadsheet-labels) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Ruby.rb) | Base Conversion<br>String Manipulation<br> |
-| 05 | []() |❌ Not Completed| []() |  |
+| 05 | [Connect Four](https://www.codingame.com/training/hard/connect-four) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Connect%20Four/Python.py) | 2D Array |
+<!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
 
