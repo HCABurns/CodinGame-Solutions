@@ -260,7 +260,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 20 | [Pachinko Jackpot](https://www.codingame.com/training/easy/pachinko-jackpot) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Pachinko%20Jackpot/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Pachinko%20Jackpot/Ruby.rb) | Dynamic Programming<br>Trees<br>Memoization |
 | 21 | [Is the King In Check? (Part 2)](https://www.codingame.com/ide/puzzle/is-the-king-in-check-part-2) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Is%20the%20King%20In%20Check%3F%20(Part%202)/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Is%20the%20King%20In%20Check%3F%20(Part%202)/Ruby.rb) | Chess<br>Conditions |
 | 22 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Sovereign's%20Game/Python.py) | Greedy Algorithm<br>Optimization<br>Sorting |
-| 23 | []() |❌ Not Completed| []() | |
+<!--  |  | []() |✔️ Completed| []()<br>[]() |  | -->
 
 ## Hard
 
@@ -279,7 +279,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | :--: |:--: |:--: |:--:  |:--: |
 | 01 | [The Resistance](https://www.codingame.com/training/expert/the-resistance) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Ruby.rb) | Memoization<br>Dynamic Programming<br>Encoding<br>Recursion |
 | 02 | [Shadows of the Knight - Episode 2](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2) | ❌ 62% Completed | []() | Binary Search<br>Intervals |
-| 03 |  |❌ Not Completed| []() |  |
+<!--  |  | []() |✔️ Completed| []()<br>[]() |  | -->
 
 # Code Golf
 
