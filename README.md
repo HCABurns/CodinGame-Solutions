@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-385-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-29-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-30-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-7-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
 )](#very-hard)
@@ -264,7 +264,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 20 | [Pachinko Jackpot](https://www.codingame.com/training/easy/pachinko-jackpot) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Pachinko%20Jackpot/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Pachinko%20Jackpot/Ruby.rb) | Dynamic Programming<br>Trees<br>Memoization |
 | 21 | [Is the King In Check? (Part 2)](https://www.codingame.com/ide/puzzle/is-the-king-in-check-part-2) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Is%20the%20King%20In%20Check%3F%20(Part%202)/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Is%20the%20King%20In%20Check%3F%20(Part%202)/Ruby.rb) | Chess<br>Conditions |
 | 22 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Sovereign's%20Game/Python.py) | Greedy Algorithm<br>Optimization<br>Sorting |
-<!--  |  | []() |✔️ Completed| []()<br>[]() |  | -->
+| 23  | [Finish the Eight Queens](https://www.codingame.com/training/medium/finish-the-eight-queens/solution) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Finish%20the%20Eight%20Queens/Python.py) | Backtracking<br>Chess | 
+<!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
 
