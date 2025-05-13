@@ -50,7 +50,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
 | [Tired Pac-Man]() | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | ⏳ |
 | [Pandora's Bridges]() | Medium | | | | Graphs<br>Trigonometry<br>3D | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) |⏳ |
-| [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 38 | 76% | 4.3⭐ | Heap<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
+| [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 39 | 77% | 4.3⭐ | Heap<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
 | [The Institute]() | Medium | | | | DFS<br>BFS | []() |🚧 |
 | [Darts Checkout Combinations](https://www.codingame.com/training/easy/darts-checkout-routes) | Easy | 182 | 70% | 4.5⭐ | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ✔️ |
 | [Road to Mount Boom]() | | | | | | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Road%20to%20Mount%20Boom/Solution.py) | 🚧 | 
