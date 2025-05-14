@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-385-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-386-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-30-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-7-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -235,6 +235,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 148 | [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/1D%20Spreadsheet/Python.py) | Memoization<br>Dependancy Graph<br>Lazy Evaluation |
 | 149 | [Reverse FizzBuzz](https://www.codingame.com/training/easy/reverse-fizzbuzz) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Reverse%20FizzBuzz/Python.py) | Mathematics<br>Intervals |
 | 150 | [Mountain Map Convergence](https://www.codingame.com/training/easy/mountain-map-convergence) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Mountain%20Map%20Convergence/Python.py) | ASCII Art |
+| 151 | [Triangle Toggle](https://www.codingame.com/training/easy/triangle-toggle) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Triangle%20Toggle/Python.py) | ASCII Art<br>Mathematics<br>2D Array |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  | -->
 
 
