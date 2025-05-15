@@ -69,7 +69,7 @@ Clash of Code is a mode aimed at improving coding efficiency through racing othe
 ### Current Standings
 | <b>Position</b>  | <b>Percentile</b> | <b>Score</b> | <b>Participations</b> |
 | ------------- | --- |------------- | :-----------: |
-| <b>178</b> / 779,622 | Top 0.023% | 25.13 | 602 |
+| <b>140</b> / 800,136 | Top 0.0175% | 26.21 | 630 |
 
 ### Best Standings
 
