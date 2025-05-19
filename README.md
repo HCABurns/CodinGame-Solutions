@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-389-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-390-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-30-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-7-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -238,8 +238,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 151 | [Triangle Toggle](https://www.codingame.com/training/easy/triangle-toggle) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Triangle%20Toggle/Python.py) | ASCII Art<br>Mathematics<br>2D Array |
 | 152 | [Crop-Circles](https://www.codingame.com/training/easy/crop-circles) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Crop-Circles/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Crop-Circles/Ruby.rb) | Geometry<br>Mathematics<br>2D Array<br>ASCII Art |
 | 153 | [Video Comments](https://www.codingame.com/training/easy/video-comments) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Video%20Comments/Video_Comments_CodinGame_Python_Solution.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Video%20Comments/Video_Comments_CodinGame_Ruby_Solution.rb) | Sorting<br>Hashmap<br>Arrays |
+| 154 | [Logically Reasonable Inequalities](https://www.codingame.com/training/easy/logically-reasonable-inequalities) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Logically%20Reasonable%20Inequalities/Logically_reasonable_inequalities_codingame_python_solution.py) | Graph |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  | -->
-
 
 ## Medium
 
