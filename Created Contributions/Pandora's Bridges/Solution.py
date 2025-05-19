@@ -1,6 +1,7 @@
-# Import for angle calculations.
+# Import for angle calculations and floor divison truncating.
 from math import atan
 from math import pi
+from math import floor
 
 # Class for storing an island.
 class Island():
@@ -18,7 +19,7 @@ class Island():
         if horizontal_distance == 0:
             angle = 90
         else:
-            angle = round(atan(abs(z2 - self.z)/horizontal_distance)*(180/pi),2)
+            angle = atan(abs(z2 - self.z)/horizontal_distance)*(180/pi)
         return distance, angle
 
 # Array for storing islands.
@@ -40,7 +41,7 @@ edges = []
 for i, island in enumerate(islands):
     for j in range(i+1,len(islands)):
         distance, angle = island.angle_and_distance(islands[j])
-        if angle <= ANGLE_THRESHOLD and distance <= DISTANCE_THRESHOLD:
+        if angle < ANGLE_THRESHOLD and distance <= DISTANCE_THRESHOLD:
             edges.append([distance, i, j])
 
 # Kruskal's Algorithm for MST.
@@ -69,20 +70,26 @@ def union(u, v):
             parent[v_rep] = u_rep
             rank[u_rep] += 1
 
+# Find the total minimum distance for connecting the islands and store weights.
+weights = []
 for weight, u, v in edges:
     if find_rep(u) != find_rep(v):
         union(u, v)
         total_distance += weight
-        # Find the first reusable tree or cut down a new one.
-        reused_tree_idx = next((i for i, tree in enumerate(leftover_wood) if tree >= weight), None)
-        if reused_tree_idx is not None:
-            leftover_wood[reused_tree_idx] -= weight
-        else:
-            leftover_wood.append(DISTANCE_THRESHOLD - weight)
+        weights.append(weight)
 
-# Output the required variables.
-print("%.02f"%total_distance)
-print("%.02f"%sum(leftover_wood))
+# Find minimum leftover wood by building bridges from largest to smallest.
+weights = weights[::-1]
+leftover_wood = []
+for weight in weights:
+    reused_tree_idx = next((i for i, tree in enumerate(leftover_wood) if tree >= weight), None)
+    if reused_tree_idx is not None:
+        leftover_wood[reused_tree_idx] -= weight
+    else:
+        leftover_wood.append(DISTANCE_THRESHOLD - weight)
+
+# Output the total distance and the number of logs used.
+print("%.2f"%(floor(total_distance*100)/100))
 print(len(leftover_wood))
 
 # TESTING: Ensure that all islands are in the same tree.
