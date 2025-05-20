@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-391-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-392-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-30-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-7-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -240,6 +240,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 153 | [Video Comments](https://www.codingame.com/training/easy/video-comments) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Video%20Comments/Video_Comments_CodinGame_Python_Solution.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Video%20Comments/Video_Comments_CodinGame_Ruby_Solution.rb) | Sorting<br>Hashmap<br>Arrays |
 | 154 | [Logically Reasonable Inequalities](https://www.codingame.com/training/easy/logically-reasonable-inequalities) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Logically%20Reasonable%20Inequalities/Logically_reasonable_inequalities_codingame_python_solution.py) | Graph |
 | 155 | Who is leading? |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Who%20is%20leading?/Python.py) | Parsing<br>Loops | 
+| 156 | Chinese Numbers |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Chinese%20Numbers/Python.py) | ASCII Art<br>Conditions<br>Loops |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  | -->
 
 ## Medium
