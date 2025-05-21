@@ -17,7 +17,7 @@ for i in range(1, len(str(n))):
     m = val2[i:i+2].zfill(2)
     i-=4
     y = val2[i:i+4].zfill(4)
-    if int(d) > 31 or int(m) > 12:
+    if int(d) > 31 or int(m) > 12 or val == 0:
         continue
     
     # Find the closest factores of val.
@@ -32,4 +32,3 @@ for i in range(1, len(str(n))):
     # If v1 and v2 are the closest factors, print the formated date.
     if closest_factors == True:
         print(f"{y}-{m}-{d}")
-        quit()
