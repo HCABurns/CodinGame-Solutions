@@ -11,12 +11,9 @@ for i in range(1, len(str(n))):
 
     # Ensure that val translates to a valid date.
     val2 = str(val)
-    i = -2
-    d = val2[i:].zfill(2)
-    i-=2
-    m = val2[i:i+2].zfill(2)
-    i-=4
-    y = val2[i:i+4].zfill(4)
+    d = val2[-2:].zfill(2)
+    m = val2[len(val2)-4:len(val2)-2].zfill(2)
+    y = val2[:len(val2)-len(m)-len(d)].zfill(4)
     if int(d) > 31 or int(m) > 12 or val == 0:
         continue
     
