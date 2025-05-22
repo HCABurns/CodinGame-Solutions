@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-394-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-395-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-30-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-7-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -88,7 +88,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 001 | [Moves in Maze](https://www.codingame.com/training/easy/moves-in-maze) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Moves%20in%20Maze/Python.py) | BFS<br>Flood Fill<br>Maze |
+| 001 | [Moves in Maze](https://www.codingame.com/training/easy/moves-in-maze) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Moves%20in%20Maze/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Moves%20in%20Maze/Ruby.rb) | BFS<br>Flood Fill<br>Maze |
 | 002 | [Six Degrees of Kevin Bacon](https://www.codingame.com/training/easy/six-degrees-of-kevin-bacon) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Six%20Degrees%20of%20Kevin%20Bacon/Python.py) | Graphs<br>BFS<br>Lists  |
 | 003 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/Encryption%5CDecryption%20of%20Enigma%20Machine/Python.py) | Cryptography<br>Encoding<br>String Manipulation<br>Strings |
 | 004 | [The Weight of Words](https://www.codingame.com/training/easy/the-weight-of-words) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Easy/The%20Weight%20of%20Words/Python.py) | Cryptography |
