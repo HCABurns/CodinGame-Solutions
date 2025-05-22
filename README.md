@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-400-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-401-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-30-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-7-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-2-purple
@@ -247,6 +247,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 157 | [Rocky Pohp's Concert Date](https://www.codingame.com/training/easy/rocky-pohps-concert-date) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rocky%20Pohp's%20Concert%20Date/Python.py) | Cryptography<br>Number Theory<br>Combinatorics |
 | 158 | [Vectors in variables dimensions](https://www.codingame.com/training/easy/vectors-in-variables-dimensions) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Vectors%20in%20Variables%20Dimensions/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Vectors%20in%20Variables%20Dimensions/Ruby.rb) | Distances<br>Arrays |
 | 159 | [ISBN Check Digit](https://www.codingame.com/training/easy/isbn-check-digit) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/ISBN%20Check%20Digit/Python.py) | Check-Digit<br>Arithmetic |
+| 160 | [Largest Number](https://www.codingame.com/training/easy/largest-number) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Largest%20Number/Python.py) | Mathematics<br>String Manipulation |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
