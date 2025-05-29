@@ -1,25 +1,25 @@
 h, w = map(int,input().split())
+h, w = h+2, w+2
 grid = [[] for _ in range(h)]
+grid[0] = [" " for _ in range(w)]
 brodo = boom = (0,0)
-for i in range(h):
-    row = input()
+for i in range(1,h-1):
+    row = " " + input() + " "
     for j,char in enumerate(row):
         grid[i].append(char)
-        if char == "B":
-            brodo = (i,j)
-            grid[i][j] = 0
-        elif char == "M":
-            boom = (i,j)
+        if char == "B": brodo = (i,j); grid[i][j] = 0
+        elif char == "M": boom = (i,j)
+grid[-1] = [" " for _ in range(w)]
+
+directions = [(-1, 0), (0, 1), (1, 0), (0, -1), (1,1),(-1,-1),(1,-1),(-1,1)]
+routes = {(1,1):[(1,0),(0,1)],(-1,-1):[(-1,0),(0,-1)],(-1,1):[(-1,0),(0,1)],(1,-1):[(1,0),(0,-1)]}
 
 from collections import deque
 to_visit = deque([brodo])
-directions = [(-1, 0), (0, 1), (1, 0), (0, -1), (1,1),(-1,-1),(1,-1),(-1,1)]
 visited = set()
-routes = {(1,1):[(1,0),(0,1)],(-1,-1):[(-1,0),(0,-1)],(-1,1):[(-1,0),(0,1)],(1,-1):[(1,0),(0,-1)]}
 
 while to_visit:
-    current = to_visit.popleft()
-    i, j = current
+    i, j = current = to_visit.popleft()
     visited.add(current)
     if current == boom:
         break
@@ -30,10 +30,9 @@ while to_visit:
             di1 , dj1 = diag1[0]+i , diag1[1]+j
             di2 , dj2 = diag2[0]+i , diag2[1]+j
             if all(0 <= x < h and 0 <= y < w for x, y in [(di1, dj1), (di2, dj2)]):
-                if "^" == grid[diag1[0]+i][diag1[1]+j] == grid[diag2[0]+i][diag2[1]+j]:
+                if "^" == grid[di1][dj1] == grid[di2][dj2]:
                     continue
-            else:
-                continue
+
         iy = i + iy
         jx = j + jx
         if 0 <= iy < h and 0 <= jx < w and (iy,jx) not in visited and grid[iy][jx] != "^":
@@ -42,16 +41,18 @@ while to_visit:
             to_visit.append((iy,jx))
 
 distance = grid[boom[0]][boom[1]]
-print(f"{distance} league{['','s'][distance != 1]}")
+print(f"{distance} league{'s' if distance != 1 else ''}")
 
 
 """ Code with general comments
 # Form grid, find Brodo and Mount Boom.
 h, w = [int(i) for i in input().split()]
+w, h = w+2, h+2
 grid = [[] for _ in range(h)]
+grid[0] = [" " for _ in range(w)]
 brodo = boom = (0,0)
-for i in range(h):
-    row = input()
+for i in range(1,h-1):
+    row = " " + input() + " "
     assert len(row) == w, f"Row {i} is size {len(row)} instead of {w}"
     for j,char in enumerate(row):
         grid[i].append(char)
@@ -60,6 +61,7 @@ for i in range(h):
             grid[i][j] = 0
         elif char == "M":
             boom = (i,j)
+grid[-1] = [" " for _ in range(w)]
 assert len(grid) == h, f"Grid is size {len(grid)} instead of {h}"
 
 # Define the required variables to perfrom BFS.
