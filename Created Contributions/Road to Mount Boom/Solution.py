@@ -1,5 +1,4 @@
-# Form grid, find Brodo and Mount Boom.
-h, w = [int(i) for i in input().split()]
+h, w = map(int,input().split())
 grid = [[] for _ in range(h)]
 brodo = boom = (0,0)
 for i in range(h):
@@ -11,6 +10,57 @@ for i in range(h):
             grid[i][j] = 0
         elif char == "M":
             boom = (i,j)
+
+from collections import deque
+to_visit = deque([brodo])
+directions = [(-1, 0), (0, 1), (1, 0), (0, -1), (1,1),(-1,-1),(1,-1),(-1,1)]
+visited = set()
+routes = {(1,1):[(1,0),(0,1)],(-1,-1):[(-1,0),(0,-1)],(-1,1):[(-1,0),(0,1)],(1,-1):[(1,0),(0,-1)]}
+
+while to_visit:
+    current = to_visit.popleft()
+    i, j = current
+    visited.add(current)
+    if current == boom:
+        break
+    
+    for iy, jx in directions:
+        if (iy,jx) in routes:
+            diag1, diag2 = routes[(iy,jx)]
+            di1 , dj1 = diag1[0]+i , diag1[1]+j
+            di2 , dj2 = diag2[0]+i , diag2[1]+j
+            if all(0 <= x < h and 0 <= y < w for x, y in [(di1, dj1), (di2, dj2)]):
+                if "^" == grid[diag1[0]+i][diag1[1]+j] == grid[diag2[0]+i][diag2[1]+j]:
+                    continue
+            else:
+                continue
+        iy = i + iy
+        jx = j + jx
+        if 0 <= iy < h and 0 <= jx < w and (iy,jx) not in visited and grid[iy][jx] != "^":
+            grid[iy][jx] = grid[i][j] + 1
+            visited.add((iy,jx))
+            to_visit.append((iy,jx))
+
+distance = grid[boom[0]][boom[1]]
+print(f"{distance} league{['','s'][distance != 1]}")
+
+
+""" Code with general comments
+# Form grid, find Brodo and Mount Boom.
+h, w = [int(i) for i in input().split()]
+grid = [[] for _ in range(h)]
+brodo = boom = (0,0)
+for i in range(h):
+    row = input()
+    assert len(row) == w, f"Row {i} is size {len(row)} instead of {w}"
+    for j,char in enumerate(row):
+        grid[i].append(char)
+        if char == "B":
+            brodo = (i,j)
+            grid[i][j] = 0
+        elif char == "M":
+            boom = (i,j)
+assert len(grid) == h, f"Grid is size {len(grid)} instead of {h}"
 
 # Define the required variables to perfrom BFS.
 to_visit = [brodo]
@@ -36,8 +86,11 @@ while to_visit:
         # Check if the diagonal path is valid or blocked by connected mountains.
         if (iy,jx) in routes:
             diag1, diag2 = routes[(iy,jx)]
-            if "^" == grid[diag1[0]+i][diag1[1]+j] == grid[diag2[0]+i][diag2[1]+j]:
-                continue
+            di1 , dj1 = diag1[0]+i , diag1[1]+j
+            di2 , dj2 = diag2[0]+i , diag2[1]+j
+            if all(0 <= x < h and 0 <= y < w for x, y in [(di1, dj1), (di2, dj2)]):
+                if "^" == grid[diag1[0]+i][diag1[1]+j] == grid[diag2[0]+i][diag2[1]+j]:
+                    continue
 
         # If move has not been visited, is valid and not a mountain, add to to_visit array.
         iy = i + iy
@@ -48,4 +101,11 @@ while to_visit:
             to_visit.append((iy,jx))
 
 # Print the length from Brodo's starting position and Mount Boom.
-print(f"{grid[boom[0]][boom[1]]} leagues")
+distance = grid[boom[0]][boom[1]]
+print(f"{distance} league{['','s'][distance != 1]}")
+
+# Testing prints.
+import sys
+for i in grid:
+    print("".join([str(j).ljust(2," ") for j in i]) , file = sys.stderr)
+"""
