@@ -25,10 +25,11 @@ while to_visit:
         break
     
     for iy, jx in directions:
+        # Adjacent mountain rule.
         if (iy,jx) in routes:
             diag1, diag2 = routes[(iy,jx)]
-            di1 , dj1 = diag1[0]+i , diag1[1]+j
-            di2 , dj2 = diag2[0]+i , diag2[1]+j
+            di1 ,dj1 = diag1[0]+i , diag1[1]+j
+            di2 ,dj2 = diag2[0]+i , diag2[1]+j
             if all(0 <= x < h and 0 <= y < w for x, y in [(di1, dj1), (di2, dj2)]):
                 if "^" == grid[di1][dj1] == grid[di2][dj2]:
                     continue
