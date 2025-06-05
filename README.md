@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-423-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-32-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-37-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-7-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-8-purple)](#very-hard)
 
@@ -282,7 +282,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 21 | [Is the King In Check? (Part 2)](https://www.codingame.com/ide/puzzle/is-the-king-in-check-part-2) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Is%20the%20King%20In%20Check%3F%20(Part%202)/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Is%20the%20King%20In%20Check%3F%20(Part%202)/Ruby.rb) | Chess<br>Conditions |
 | 22 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Sovereign's%20Game/Python.py) | Greedy Algorithm<br>Optimization<br>Sorting |
 | 23  | [Finish the Eight Queens](https://www.codingame.com/training/medium/finish-the-eight-queens/solution) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Finish%20the%20Eight%20Queens/Python.py) | Backtracking<br>Chess | 
-| 24 | [Minimal Number of Swaps](https://www.codingame.com/training/medium/minimal-number-of-swaps) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Minimal%20Number%20of%20Swaps/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Minimal%20Number%20of%20Swaps/Ruby.rb) | Array |
+| 24 | [Minimal Number of Swaps](https://www.codingame.com/training/medium/minimal-number-of-swaps) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Minimal%20Number%20of%20Swaps/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Minimal%20Number%20of%20Swaps/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Minimal%20Number%20of%20Swaps/Java.java)<br>[JavaScript](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Minimal%20Number%20of%20Swaps/JavaScript.js)<br>[C++](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Minimal%20Number%20of%20Swaps/C%2B%2B.cpp)<br>[C](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Minimal%20Number%20of%20Swaps/C.c)<br>[C#](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Minimal%20Number%20of%20Swaps/C%23.cs) | Array |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
