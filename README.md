@@ -20,7 +20,7 @@ Total Puzzle Solutions:
 [![](https://img.shields.io/badge/Easy-444-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-40-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-7-red)](#hard) 
-[![](https://img.shields.io/badge/Very_Hard-9-purple)](#very-hard)
+[![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Code%20Golf/Easy?label=Easy&color=green)](#easy-1)
@@ -303,9 +303,10 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
-| 01 | [The Resistance](https://www.codingame.com/training/expert/the-resistance) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Ruby.rb) | Memoization<br>Dynamic Programming<br>Encoding<br>Recursion |
-| 02 | [Recurring Decimals](https://www.codingame.com/training/expert/recurring-decimals) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Java.java)<br>[JavaScript](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/JavaScript.js)<br>[C++](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/C%2B%2B.cpp)<br>[C#](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/C%23.cs)<br>[Kotlin](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Kotlin.kt) | Mathematics |
-| 03 | [Shadows of the Knight - Episode 2](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2) | ❌ 62% Completed | []() | Binary Search<br>Intervals |
+| 1 | [The Resistance](https://www.codingame.com/training/expert/the-resistance) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Ruby.rb) | Memoization<br>Dynamic Programming<br>Encoding<br>Recursion |
+| 2 | [Recurring Decimals](https://www.codingame.com/training/expert/recurring-decimals) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Java.java)<br>[JavaScript](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/JavaScript.js)<br>[C++](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/C%2B%2B.cpp)<br>[C#](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/C%23.cs)<br>[Kotlin](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Kotlin.kt) | Mathematics |
+| 4 | [Sliding Puzzle](https://www.codingame.com/training/expert/sliding-puzzle) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Sliding%20Puzzle/Python.py) | Pathfinding |
+| 3 | [Shadows of the Knight - Episode 2](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2) | ❌ 62% Completed | []() | Binary Search<br>Intervals |
 <!--  |  | []() |✔️ Completed| []()<br>[]() |  | -->
 
 # Code Golf
