@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-445-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-40-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-7-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-8-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -297,6 +297,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 04 | [Spreadsheet Labels](https://www.codingame.com/training/hard/spreadsheet-labels) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Ruby.rb) | Base Conversion<br>String Manipulation<br> |
 | 05 | [Connect Four](https://www.codingame.com/training/hard/connect-four) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Connect%20Four/Python.py) | 2D Array |
 | 06 | [Staircases](https://www.codingame.com/training/hard/staircases) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Staircases/Python.py) | Memoization |
+| 07 | [11-Puzzle](https://www.codingame.com/training/hard/11-puzzle) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/11-Puzzle/Python.py) | Pathfinding<br>A* |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
