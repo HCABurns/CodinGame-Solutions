@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-455-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-456-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-41-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-8-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -251,6 +251,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 162 | [Square Spiral for Alien Contact 👽](https://www.codingame.com/training/easy/square-spiral-for-alien-contact) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Square%20Spiral%20for%20Alien%20Contact%20%F0%9F%91%BD/Python.py) | 2D Array<br>String Manipulation |
 | 163 | [Merlin's Magic Square](https://www.codingame.com/training/easy/merlins-magic-square) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Merlin's%20Magic%20Square/Python.py) | Bitboarding<br>Simulation<br>Strive for Simplicity<br>Arrays<br>Logic | 
 | 164 | [Key-Value Store](https://www.codingame.com/training/easy/key-value-store) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Key-Value%20Store/Python.py) | Parsing<br>Condition<br>String Maniplation |
+| 165 | [Blending Colors](https://www.codingame.com/training/easy/blending-colors) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Blending%20Colors/Python_Blending_Colors_CodinGame_Solution.py) | Geometry |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
