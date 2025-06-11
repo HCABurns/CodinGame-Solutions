@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-466-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-467-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-41-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-8-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -253,6 +253,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 164 | [Key-Value Store](https://www.codingame.com/training/easy/key-value-store) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Key-Value%20Store/Python.py)<br>[PHP](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Key-Value%20Store/PHP.php) | Parsing<br>Condition<br>String Maniplation |
 | 165 | [Blending Colors](https://www.codingame.com/training/easy/blending-colors) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Blending%20Colors/Python_Blending_Colors_CodinGame_Solution.py) | Geometry |
 | 166 | [Crazy List](https://www.codingame.com/training/easy/crazy-list) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Crazy%20List/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Crazy%20List/Ruby.rb)<br>[PHP](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Crazy%20List/PHP.php) | Arithmetic | 
+| 167 | [Next Car License Plate?](https://www.codingame.com/training/easy/next-car-license-plate) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Next%20Car%20License%20Plate%3F/Python.py) | Sequences<br>Mathematics |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
