@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-470-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-471-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-41-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-8-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -257,6 +257,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 168 | [Sand Fall](https://www.codingame.com/training/easy/sand-fall) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Sand%20Fall/Sand_Fall_CodinGame_Python_Solution.py) | ASCII Art<br>Conditions<br>Loops |
 | 169 | [Asteroids](https://www.codingame.com/training/easy/asteroids) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Asteroids/Python.py) | Image Processing |
 | 170 | [Graffiti on the Fence](https://www.codingame.com/training/easy/graffiti-on-the-fence) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Graffiti%20on%20the%20Fence/Python.py) | Intervals |
+| 171 | [Snail Run](https://www.codingame.com/training/easy/snail-run) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Snail%20Run/Python.py) | Arrays<br>Loops |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 ## Medium
