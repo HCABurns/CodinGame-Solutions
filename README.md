@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-475-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-41-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-42-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-8-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -295,6 +295,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 25 | [Conway Sequence](https://www.codingame.com/training/medium/conway-sequence) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Conway%20Sequence/Python.py) | Sequences |
 | 26 | [The Gift](https://www.codingame.com/training/medium/the-gift) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Gift/Python.py) | Greedy Algorithm |
 | 27 | [Death First Search - Episode 1](https://www.codingame.com/training/medium/death-first-search-episode-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Death%20First%20Search%20-%20Episode%201/Python.py) | BFS<br>Graphs |
+| 28 | [English Length Units Conversion](https://www.codingame.com/training/medium/english-length-units-conversion) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/English%20Length%20Units%20Conversion/Python.py) | BFS<br>Graphs |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
