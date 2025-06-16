@@ -52,10 +52,11 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
 | [Darts Checkout Combinations](https://www.codingame.com/training/easy/darts-checkout-routes) | Easy | 198 | 69% | 4.4⭐ | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ✔️ |
 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 40 | 75% | 4.3⭐ | Priority Queue<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
-| Road to Mount Boom | Easy | | | | DFS<br>BFS<br>2D Array | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Road%20to%20Mount%20Boom/Solution.py) | 🚧 | 
-| Pandora's Bridges | Hard | | | | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) |⏳ |
+| Road to Mount Boom | Easy | | | | DFS<br>BFS<br>2D Array | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Road%20to%20Mount%20Boom/Solution.py) | ⏳ | 
+| Pandora's Bridges | Hard | | | | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) | ⏳ |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
-| Tired Pac-Man | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | ⏳ |
+| Tired Pac-Man | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | 🚧 |
+| Serpents and Vines | Easy | | | | BFS<br>Pathfinding | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Serpents%20and%20Vines/Python.py) | 🚧 |
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
 # Clash of Code
