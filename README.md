@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-475-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-42-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-43-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-8-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -297,8 +297,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 26 | [The Gift](https://www.codingame.com/training/medium/the-gift) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Gift/Python.py) | Greedy Algorithm |
 | 27 | [Death First Search - Episode 1](https://www.codingame.com/training/medium/death-first-search-episode-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Death%20First%20Search%20-%20Episode%201/Python.py) | BFS<br>Graphs |
 | 28 | [English Length Units Conversion](https://www.codingame.com/training/medium/english-length-units-conversion) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/English%20Length%20Units%20Conversion/Python.py) | BFS<br>Graphs |
+| 29 | [Networking](https://www.codingame.com/training/medium/networking) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Networking/Python.py) | Graph<br>Sets<br>Loops |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
-
 ## Hard
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
