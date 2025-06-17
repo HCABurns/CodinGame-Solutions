@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-475-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-43-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-44-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-8-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -298,6 +298,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 27 | [Death First Search - Episode 1](https://www.codingame.com/training/medium/death-first-search-episode-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Death%20First%20Search%20-%20Episode%201/Python.py) | BFS<br>Graphs |
 | 28 | [English Length Units Conversion](https://www.codingame.com/training/medium/english-length-units-conversion) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/English%20Length%20Units%20Conversion/Python.py) | BFS<br>Graphs |
 | 29 | [Networking](https://www.codingame.com/training/medium/networking) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Networking/Python.py) | Graph<br>Sets<br>Loops |
+| 30 | [How many roads lead to Rome?](https://www.codingame.com/training/medium/how-many-roads-lead-to-rome) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/How%20many%20roads%20lead%20to%20Rome%3F/Python.py) | Pathfinding<br>Graphs |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 ## Hard
 
