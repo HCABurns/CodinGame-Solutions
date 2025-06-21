@@ -10,7 +10,8 @@ from requests import get
 from re import findall
 
 # Player ID
-player_id = 5192217
+#TO DO - Replace the ID with YOUR ID. Can be found using #7 at https://chadok.info/codingame/index.php
+player_id = 0
 
 # URLS
 tutorial = [f"https://chadok.info/codingame/players_puzzles.php?level=tutorial&commu=0&player={player_id}&update=0","Tutorial"]
