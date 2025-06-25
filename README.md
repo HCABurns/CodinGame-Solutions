@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-475-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-476-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-44-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-8-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -263,6 +263,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 173 | [Number Partition](https://www.codingame.com/training/easy/number-partition) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Number%20Partition/Python.py) | Backtracking<br>DFS<br>Number Theory<br>Recursion |
 | 174 | [Artificial Emotional Intelligence](aining/easy/artificial-emotional-intelligence) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Artificial%20Emotional%20Intelligence/Python.py) | Strings<br>Arrays<br>Lists |
 | 175 | [Gold Packing](https://www.codingame.com/training/easy/gold-packing) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Gold%20Packing/Python.py) | Recursion<br>Arrays | 
+| 176 | [Darts](https://www.codingame.com/training/easy/darts) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Darts/Python.py) | Collision Detection |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 ## Medium
