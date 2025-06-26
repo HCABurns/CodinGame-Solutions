@@ -43,7 +43,6 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Beam Rotation](https://www.codingame.com/ide/demo/1201571c100a965df299af10fddd04f8c5559d8) | Mathematics<br>Moments| Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Beam%20Rotation/Solution.py) | ✔️ |
 | [Santa's Gift Sorting](https://www.codingame.com/ide/demo/1200650cc3d81d212484f24bc4be8396d207253) | Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Santa's%20Gift%20Sorting/Solution.py) |✔️|
 | [Football Scores](https://www.codingame.com/ide/demo/12297844fba01e3b75ab47d84dbf6dc63304cb2) | Hashmap<br>String<br>Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Football%20Scores/Solution.py) | ✔️ |
-| [Ordinal Selection]() | Ordinal Number | Reverse | []() | 🚧 |
 
 <!--     | []() | | Fastest<br>Shortest<br>Reverse | []() | ⏳🚧✔️|     -->          
 
