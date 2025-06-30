@@ -56,7 +56,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | Pandora's Bridges | Hard | | | | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) | 2/3<br>⏳ |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
 | Tired Pac-Man | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | 🚧 |
-| Numberlink | Medium | | | | BFS<br>DFS<br>Pathfinding | []() | 🚧 | 
+| Link the Numbers | Medium | | | | BFS<br>DFS<br>Pathfinding | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Link%20the%20Numbers/Python.py) | 🚧 | 
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
 # Clash of Code
