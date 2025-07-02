@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-478-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-46-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-47-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-8-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -303,6 +303,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 30 | [How many roads lead to Rome?](https://www.codingame.com/training/medium/how-many-roads-lead-to-rome) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/How%20many%20roads%20lead%20to%20Rome%3F/Python.py) | Pathfinding<br>Graphs |
 | 31 | [The Fall - Episode 1](https://www.codingame.com/training/medium/the-fall-episode-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Fall%20-%20Episode%201/Python.py) | Conditions |
 | 32 | [Sky Maze Adventures 1](https://www.codingame.com/training/medium/sky-maze-adventures-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Sky%20Maze%20Adventures%201/Python.py) | BFS<br>DFS<br>Pathfinding |
+| 33 | [Find the Shortest Path Home](https://www.codingame.com/training/medium/find-the-shortest-path-home) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Find%20the%20Shortest%20Path%20Home/Python.py) | Pathfinding<br>BFS<br>Coordinates<br>Codnitions<br>String Manipulation |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 ## Hard
 
