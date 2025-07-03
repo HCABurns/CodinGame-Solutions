@@ -49,7 +49,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 ### Puzzles
 | <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Solution</b> |<b>Status</b> |
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
-| [Darts Checkout Combinations](https://www.codingame.com/training/easy/darts-checkout-routes) | Easy | 201 | 69% | 4.4⭐ | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ✔️ |
+| [Darts Checkout Combinations](https://www.codingame.com/training/easy/darts-checkout-routes) | Easy | 202 | 69% | 4.4⭐ | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ✔️ |
 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 41 | 76% | 4.3⭐ | Priority Queue<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
 | [Road to Mount Boom](https://www.codingame.com/training/easy/road-to-mount-boom) | Easy | 1 | 100% | 5.0⭐ | DFS<br>BFS<br>2D Array | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Road%20to%20Mount%20Boom/Solution.py) | ✔️ | 
 | Snakes and Ladders | Easy | | | | BFS<br>Pathfinding<br>DFS | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snakes%20and%20Ladders/Python.py) | 1/3<br>⏳ |
