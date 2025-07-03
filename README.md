@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-478-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-479-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-47-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-8-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -51,7 +51,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
 | [Darts Checkout Combinations](https://www.codingame.com/training/easy/darts-checkout-routes) | Easy | 201 | 69% | 4.4⭐ | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ✔️ |
 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 41 | 76% | 4.3⭐ | Priority Queue<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
-| Road to Mount Boom | Easy | | | | DFS<br>BFS<br>2D Array | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Road%20to%20Mount%20Boom/Solution.py) | 2/3<br>⏳ | 
+| [Road to Mount Boom](https://www.codingame.com/training/easy/road-to-mount-boom) | Easy | 1 | 100% | 5.0⭐ | DFS<br>BFS<br>2D Array | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Road%20to%20Mount%20Boom/Solution.py) | ✔️ | 
 | Snakes and Ladders | Easy | | | | BFS<br>Pathfinding<br>DFS | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snakes%20and%20Ladders/Python.py) | 1/3<br>⏳ |
 | Pandora's Bridges | Hard | | | | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) | 2/3<br>⏳ |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
@@ -265,6 +265,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 175 | [Gold Packing](https://www.codingame.com/training/easy/gold-packing) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Gold%20Packing/Python.py) | Recursion<br>Arrays | 
 | 176 | [Darts](https://www.codingame.com/training/easy/darts) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Darts/Python.py) | Collision Detection |
 | 177 | [Button Mash](https://www.codingame.com/training/easy/button-mash) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Button%20Mash/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Button%20Mash/Ruby.rb)| Numbers<br>BFS |
+| 178 | [Road to Mount Boom](https://www.codingame.com/training/easy/road-to-mount-boom) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Road%20to%20Mount%20Boom/Python.py) | BFS<br>DFS<br>2D Array |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 ## Medium
