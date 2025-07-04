@@ -304,7 +304,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 31 | [The Fall - Episode 1](https://www.codingame.com/training/medium/the-fall-episode-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Fall%20-%20Episode%201/Python.py) | Conditions |
 | 32 | [Sky Maze Adventures 1](https://www.codingame.com/training/medium/sky-maze-adventures-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Sky%20Maze%20Adventures%201/Python.py) | BFS<br>DFS<br>Pathfinding |
 | 33 | [Find the Shortest Path Home](https://www.codingame.com/training/medium/find-the-shortest-path-home) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Find%20the%20Shortest%20Path%20Home/Python.py) | Pathfinding<br>BFS<br>Coordinates<br>Codnitions<br>String Manipulation |
-| 34 | [Road to Mount Boom](https://www.codingame.com/training/medium/road-to-mount-boom) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Road%20to%20Mount%20Boom/Python.py) | BFS<br>DFS<br>2D Array |
+| 34 | [Road to Mount Boom](https://www.codingame.com/training/medium/road-to-mount-boom) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Road%20to%20Mount%20Boom/Python.py) | BFS<br>DFS<br>2D Array |
 
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 ## Hard
