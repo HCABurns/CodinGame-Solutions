@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-478-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-48-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-8-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-9-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -315,9 +315,10 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 02 | [Magic count of Numbers](https://www.codingame.com/training/hard/magic-count-of-numbers) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Magic%20Count%20of%20Numbers/Python.py) | Arithmetic<br>Mathematics |
 | 03 | [The Greatest Number](https://www.codingame.com/training/hard/the-greatest-number) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Hard/Greatest%20Number/Python.py) | String<br>Manipulation<br>Conditions |
 | 04 | [Spreadsheet Labels](https://www.codingame.com/training/hard/spreadsheet-labels) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Spreadsheet%20Labels/Ruby.rb) | Base Conversion<br>String Manipulation<br> |
-| 05 | [Connect Four](https://www.codingame.com/training/hard/connect-four) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Connect%20Four/Python.py) | 2D Array |
-| 06 | [Staircases](https://www.codingame.com/training/hard/staircases) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Staircases/Python.py) | Memoization |
-| 07 | [11-Puzzle](https://www.codingame.com/training/hard/11-puzzle) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/11-Puzzle/Python.py) | Pathfinding<br>A* |
+| 05 | [Connect Four](https://www.codingame.com/training/hard/connect-four) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Connect%20Four/Python.py) | 2D Array |
+| 06 | [Staircases](https://www.codingame.com/training/hard/staircases) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Staircases/Python.py) | Memoization |
+| 07 | [11-Puzzle](https://www.codingame.com/training/hard/11-puzzle) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/11-Puzzle/Python.py) | Pathfinding<br>A* |
+| 08 | [KGood](https://www.codingame.com/training/hard/kgood) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/KGood/Python.py) | Strings<br>Sets  |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
@@ -326,8 +327,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | :--: |:--: |:--: |:--:  |:--: |
 | 1 | [The Resistance](https://www.codingame.com/training/expert/the-resistance) | ✔️ Completed | [Python](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Python.py)<br>[Ruby](https://github.com/HCABurns/Coding-Game-Solutions/blob/main/Puzzles/Very%20Hard/The%20Resistance/Ruby.rb) | Memoization<br>Dynamic Programming<br>Encoding<br>Recursion |
 | 2 | [Recurring Decimals](https://www.codingame.com/training/expert/recurring-decimals) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Java.java)<br>[JavaScript](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/JavaScript.js)<br>[C++](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/C%2B%2B.cpp)<br>[C#](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/C%23.cs)<br>[Kotlin](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Recurring%20Decimals/Kotlin.kt) | Mathematics |
-| 4 | [Sliding Puzzle](https://www.codingame.com/training/expert/sliding-puzzle) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Sliding%20Puzzle/Python.py) | Pathfinding |
-| 3 | [Shadows of the Knight - Episode 2](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2) | ❌ 62% Completed | []() | Binary Search<br>Intervals |
+| 3 | [Sliding Puzzle](https://www.codingame.com/training/expert/sliding-puzzle) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Very%20Hard/Sliding%20Puzzle/Python.py) | Pathfinding |
+| 4 | [Shadows of the Knight - Episode 2](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2) | ❌ 62% Completed | []() | Binary Search<br>Intervals |
 <!--  |  | []() |✔️ Completed| []()<br>[]() |  | -->
 
 # Code Golf
