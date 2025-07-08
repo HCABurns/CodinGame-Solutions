@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-478-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-479-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-48-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-9-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -271,7 +271,9 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 175 | [Gold Packing](https://www.codingame.com/training/easy/gold-packing) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Gold%20Packing/Python.py) | Recursion<br>Arrays | 
 | 176 | [Darts](https://www.codingame.com/training/easy/darts) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Darts/Python.py) | Collision Detection |
 | 177 | [Button Mash](https://www.codingame.com/training/easy/button-mash) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Button%20Mash/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Button%20Mash/Ruby.rb)| Numbers<br>BFS |
+| 178 | [City Lights Part 1](https://www.codingame.com/training/easy/city-lights-part-1) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/City%20Lights%20Part%201/Python.py) | Distances<br>2D Array | 
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
+
 
 ## Medium
 
