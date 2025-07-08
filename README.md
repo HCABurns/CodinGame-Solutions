@@ -61,7 +61,6 @@ The following is a collection of my created puzzles and Clash of Codes that have
 ### Solo Games
 | <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Source Code</b> |<b>Status</b> |
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
-
 | Link the Numbers | Medium | | | | BFS<br>DFS<br>Pathfinding |  | 🚧 | 
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
