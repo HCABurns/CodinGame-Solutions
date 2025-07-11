@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-481-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-49-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-50-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-10-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -317,6 +317,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 33 | [Find the Shortest Path Home](https://www.codingame.com/training/medium/find-the-shortest-path-home) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Find%20the%20Shortest%20Path%20Home/Python.py) | Pathfinding<br>BFS<br>Coordinates<br>Codnitions<br>String Manipulation |
 | 34 | [Road to Mount Boom](https://www.codingame.com/training/medium/road-to-mount-boom) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Road%20to%20Mount%20Boom/Python.py) | BFS<br>DFS<br>2D Array |
 | 35 | [These Romans are crazy!](https://www.codingame.com/training/medium/these-romans-are-crazy!) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/These%20Romans%20are%20crazy!/Python.py) | String Manipulation |
+| 36 | [Train Passenger](https://www.codingame.com/training/medium/train-passenger) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Train%20Passenger/Python.py) | Pathfinding<br>BFS<br>Graphs |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 ## Hard
 
