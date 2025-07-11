@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-479-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-48-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-9-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-10-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -327,6 +327,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 06 | [Staircases](https://www.codingame.com/training/hard/staircases) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Staircases/Python.py) | Memoization |
 | 07 | [11-Puzzle](https://www.codingame.com/training/hard/11-puzzle) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/11-Puzzle/Python.py) | Pathfinding<br>A* |
 | 08 | [KGood](https://www.codingame.com/training/hard/kgood) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/KGood/Python.py) | Strings<br>Sets  |
+| 09 | [Hangman](https://www.codingame.com/training/community/hangman) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Hangman/Python.py) | String Manipulation |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
