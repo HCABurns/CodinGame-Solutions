@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-481-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-50-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-10-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-11-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -332,6 +332,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 07 | [11-Puzzle](https://www.codingame.com/training/hard/11-puzzle) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/11-Puzzle/Python.py) | Pathfinding<br>A* |
 | 08 | [KGood](https://www.codingame.com/training/hard/kgood) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/KGood/Python.py) | Strings<br>Sets  |
 | 09 | [Hangman](https://www.codingame.com/training/community/hangman) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Hangman/Python.py) | String Manipulation |
+| 10 | [Surface](https://www.codingame.com/training/hard/surface) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Surface/Python.py) | Flood Fill<br>BFS<br>Memoization<br>Recursion |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
