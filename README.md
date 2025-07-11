@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-481-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-50-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-51-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-11-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -318,6 +318,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 34 | [Road to Mount Boom](https://www.codingame.com/training/medium/road-to-mount-boom) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Road%20to%20Mount%20Boom/Python.py) | BFS<br>DFS<br>2D Array |
 | 35 | [These Romans are crazy!](https://www.codingame.com/training/medium/these-romans-are-crazy!) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/These%20Romans%20are%20crazy!/Python.py) | String Manipulation |
 | 36 | [Train Passenger](https://www.codingame.com/training/medium/train-passenger) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Train%20Passenger/Python.py) | Pathfinding<br>BFS<br>Graphs |
+| 37 | [Wine from Kalbodia - Episode 1](https://www.codingame.com/training/medium/wine-from-kalbodia---episode-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Wine%20from%20Kalbodia%20-%20Episode%201/Python.py) | Parsing<br>Lists |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 ## Hard
 
