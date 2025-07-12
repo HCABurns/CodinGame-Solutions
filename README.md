@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-481-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-53-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-11-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-12-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -337,6 +337,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 08 | [KGood](https://www.codingame.com/training/hard/kgood) | ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/KGood/Python.py) | Strings<br>Sets  |
 | 09 | [Hangman](https://www.codingame.com/training/community/hangman) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Hangman/Python.py) | String Manipulation |
 | 10 | [Surface](https://www.codingame.com/training/hard/surface) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Surface/Python.py) | Flood Fill<br>BFS<br>Memoization<br>Recursion |
+| 11 | [Roller Coaster](https://www.codingame.com/training/hard/roller-coaster) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Roller%20Coaster/Python.py) | Dynamic Programming<br>Memoization<br>Simulation |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
