@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-493-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-494-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-53-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-12-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -275,6 +275,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 179 | [Rectangular Block Spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Rectangular%20Block%20Spinner/Python.py) | Loops<br>Conditions<br>ASCII Art |
 | 180 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20River%20II./Python.py) | Memoization<br>Artithmetic |
 | 181 | [Catching Up](https://www.codingame.com/training/easy/catching-up/discuss) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Catching%20Up/Python.py) | Pathfinding<br>BFS<br>Graphs<br>Greedy Algorithm |
+| 182 | [Takuzu Solver (Easy Mode)](https://www.codingame.com/training/easy/takuzu-solver-easy-mode) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Takuzu%20Solver%20(Easy%20Mode)/Python.py) | Conditions<br>2D Array |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
