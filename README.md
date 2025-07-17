@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-500-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-53-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-54-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-12-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -324,9 +324,9 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 37 | [Wine from Kalbodia - Episode 1](https://www.codingame.com/training/medium/wine-from-kalbodia---episode-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Wine%20from%20Kalbodia%20-%20Episode%201/Python.py) | Parsing<br>Lists |
 | 38 | [Monthly System](https://www.codingame.com/training/medium/monthly-system) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Monthly%20System/Python.py) | Strings<br>Modulus |
 | 39 | [Maximum Sub-Sequence](https://www.codingame.com/training/medium/maximum-sub-sequence) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Maximum%20Sub-Sequence/Python.py) | Mathematics |
+| 40 | [Snakes and Ladders](https://www.codingame.com/training/medium/snakes-and-ladders) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Snakes%20and%20Ladders/Python.py)| BFS<br>DFS<br>Pathfinding |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 ## Hard
-
 
 | <b>No.</b> |	<b>Puzzle Name</b> |	<b>State</b>	| <b> Language</b> |	<b>Tags</b> |
 | :--: |:--: |:--: |:--:  |:--: |
