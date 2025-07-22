@@ -388,7 +388,7 @@ Code golf is a challenge to achieve the shortest possible source code by using l
 | 2 |  [The Bridge](https://www.codingame.com/codegolf/hard/the-bridge-episode-2-codesize)	| ❌ Not Completed |  |  | DFS<br>Backtracking |
 | 3 |  [Vox Codei - Episode 1](https://www.codingame.com/codegolf/hard/vox-codei-episode-1-codesize) | ❌ Not Completed |  |  | DFS<br>Brut-force<br>simulation |
 | 4 |  [Super Computer](https://www.codingame.com/codegolf/hard/super-computer-codesize)	| ❌ Not Completed |  |  | Greedy Algorithm<br>Scheduling |
-| 5 |  [Roller Coaster](https://www.codingame.com/codegolf/hard/roller-coaster-codesize)	| ❌ Not Completed |  |  | Dynamic Programming<br>Simulation |
+| 5 |  [Roller Coaster](https://www.codingame.com/codegolf/hard/roller-coaster-codesize)	| ✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Code%20Golf/Hard/Roller%20Coaster/Python%20%20-%20446.py) | 446 | Dynamic Programming<br>Simulation |
 | 6 |  [Surface](https://www.codingame.com/codegolf/hard/surface-codesize) | ❌ Not Completed |  |  | BFS<br>Flood Fill<br>Memoization<br>Recursion |
 | 7 |  [The Fall - Episode 2](https://www.codingame.com/codegolf/hard/the-fall-episode-2-codesize) | ❌ Not Completed |  |  | Backtracking<br>Pathfinding |
 | 8 |  [Gnome Sequencing](https://www.codingame.com/codegolf/hard/genome-sequencing-codesize) | ❌ Not Completed |  |  | Permutation<br>String |
