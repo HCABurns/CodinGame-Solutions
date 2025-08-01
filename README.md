@@ -409,5 +409,9 @@ Code golf is a challenge to achieve the shortest possible source code by using l
 # Bot Programming 
 Bot progamming is a challenge to create an AI to run thorugh a simulation in the best method for a given task. This could be as simple as a rules based approach to neural networks. A solution is tested against other users solutions and ranked based on how well it performs against others.
 
+| <b>Name</b> | <b>Players</b> | <b>Current League</b> |<b>League Rating</b>  | <b>Tags</b> | <b>Code</b> |
+| :---------: | :---------------: | :-------------------: | :----------------: | :---------: | :-------------: |
+| [Soak Overflow](https://www.codingame.com/multiplayer/bot-programming/soak-overflow) | 3875 | Legend<br>Gold<br>Silver<br><b>Bronze</b><br>Wood | 178/202 | Pathfinding<br>Multi-agent | [Wood 1](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Bot%20Programming/Soak%20Overflow/Python%20-%20Wood%201.py) <br> [Wood 2](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Bot%20Programming/Soak%20Overflow/Python%20-%20Wood%202.py) <br> [Wood 3](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Bot%20Programming/Soak%20Overflow/Python%20-%20Wood%203.py) <br> [Wood 4](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Bot%20Programming/Soak%20Overflow/Python%20-%20Wood%204.py) |
+
 # Optimization
 Optimization is a mode where you need to optimise your code to provide the best possible outcome given a problem.
