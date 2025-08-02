@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-503-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-54-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-55-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-12-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -326,6 +326,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 38 | [Monthly System](https://www.codingame.com/training/medium/monthly-system) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Monthly%20System/Python.py) | Strings<br>Modulus |
 | 39 | [Maximum Sub-Sequence](https://www.codingame.com/training/medium/maximum-sub-sequence) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Maximum%20Sub-Sequence/Python.py) | Mathematics |
 | 40 | [Snakes and Ladders](https://www.codingame.com/training/medium/snakes-and-ladders) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Snakes%20and%20Ladders/Python.py)| BFS<br>DFS<br>Pathfinding |
+| 41 | [Maze](https://www.codingame.com/training/medium/maze) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Maze/Python.py) | BFS<br>Maze<br>2D Array |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 ## Hard
 
