@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-503-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-59-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-13-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-14-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -349,6 +349,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 11 | [Roller Coaster](https://www.codingame.com/training/hard/roller-coaster) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Roller%20Coaster/Python.py) | Dynamic Programming<br>Memoization<br>Simulation |
 | 12 | [Pandora's Bridges](https://www.codingame.com/training/hard/pandoras-bridges) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Pandora's%20Bridges/Python.py) | Graphs<br>Trigonometry<br>3D<br>Distances |
 | 13 | [The Hungry Duck - Part 1](https://www.codingame.com/training/hard/the-hungry-duck---part-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/The%20Hungry%20Duck%20-%20Part%201/Python.py) | BFS<br>2D Array |
+| 14 | [The Hungry Duck - Part 2](https://www.codingame.com/training/hard/the-hungry-duck---part-2) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/The%20Hungry%20Duck%20-%20Part%202/Python.py) | BFS<br>2D Array |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
