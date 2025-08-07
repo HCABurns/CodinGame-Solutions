@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-506-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-59-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-60-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-17-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -333,6 +333,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 43 | [Bust Speeding Vehicles](https://www.codingame.com/training/medium/bust-speeding-vehicles) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Bust%20Speeding%20Vehicles/Python.py) | Hashap<br>Array |
 | 44 | [Dominoes Path](https://www.codingame.com/training/medium/dominoes-path) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Dominoes%20Path/Python.py) | Array |
 | 45 | [Swapping Elements](https://www.codingame.com/training/medium/swapping-elements) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Swapping%20Elements/Python.py) | Loops<br>Arrays<br>Sorting |
+| 46 | [Brackets, Extended Edition](https://www.codingame.com/training/medium/brackets-extended-edition) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Brackets%2C%20Extended%20Edition/Python.py) | Loops<br>Conditions<br>Stack |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 ## Hard
 
