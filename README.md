@@ -49,11 +49,11 @@ The following is a collection of my created puzzles and Clash of Codes that have
 ### Puzzles
 | <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Solution</b> |<b>Status</b> |
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
-| [Darts Checkout Combinations](https://www.codingame.com/training/easy/darts-checkout-routes) | Easy | 206 | 69% | 4.5⭐ | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ✔️ |
-| [Road to Mount Boom](https://www.codingame.com/training/easy/road-to-mount-boom) | Medium | 58 | 83% | 4.6⭐ | DFS<br>BFS<br>2D Array | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Road%20to%20Mount%20Boom/Solution.py) | ✔️ | 
+| [Darts Checkout Combinations](https://www.codingame.com/training/easy/darts-checkout-routes) | Easy | 207 | 70% | 4.5⭐ | DFS<br>BFS<br>Brute-Force| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py) | ✔️ |
+| [Road to Mount Boom](https://www.codingame.com/training/easy/road-to-mount-boom) | Medium | 59 | 81% | 4.6⭐ | DFS<br>BFS<br>2D Array | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Road%20to%20Mount%20Boom/Solution.py) | ✔️ | 
 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 46 | 72% | 3.9⭐ | Priority Queue<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
-| [Snakes and Ladders](https://www.codingame.com/training/medium/snakes-and-ladders) | Medium | 30 | 77% | 4.9⭐ | BFS<br>Pathfinding<br>DFS | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snakes%20and%20Ladders/Python.py) | ✔️ |
-| [Pandora's Bridges](https://www.codingame.com/training/hard/pandoras-bridges) | Hard | 17 | 76% | 5.0⭐ | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) | ✔️ |
+| [Snakes and Ladders](https://www.codingame.com/training/medium/snakes-and-ladders) | Medium | 33 | 79% | 4.9⭐ | BFS<br>Pathfinding<br>DFS | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snakes%20and%20Ladders/Python.py) | ✔️ |
+| [Pandora's Bridges](https://www.codingame.com/training/hard/pandoras-bridges) | Hard | 20 | 80% | 5.0⭐ | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) | ✔️ |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
 | Tired Pac-Man | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | 🚧 |
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
@@ -61,7 +61,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 ### Solo Games
 | <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Source Code</b> |<b>Status</b> |
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
-| Link the Numbers | Medium | | |  | BFS<br>DFS<br>Pathfinding | [Link](https://github.com/HCABurns/Connect-The-Colours) | 🚧 |
+| Connect the Colours | Hard | | |  | BFS<br>DFS<br>Pathfinding | [Link](https://github.com/HCABurns/Connect-The-Colours) | 🚧 |
 | TBD (Mount Boom 2) | Medium | | |  |  |  | 🚧 | 
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
