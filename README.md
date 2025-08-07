@@ -59,9 +59,9 @@ The following is a collection of my created puzzles and Clash of Codes that have
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
 ### Solo Games
-| <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Source Code</b> |<b>Status</b> |
+| <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Code Links</b> |<b>Status</b> |
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
-| [Connect the Colours](https://www.codingame.com/contribute/view/129408a417d97f1bbc14444ce623ef6495dcba) | Hard | | |  | BFS<br>DFS<br>Pathfinding | [Link](https://github.com/HCABurns/Connect-The-Colours)<br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours/Solution.py) | 🚧 |
+| [Connect the Colours](https://www.codingame.com/contribute/view/129408a417d97f1bbc14444ce623ef6495dcba) | Hard | | |  | BFS<br>DFS<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours)<br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours/Solution.py) | 🚧 |
 | TBD (Mount Boom 2) | Medium | | |  |  |  | 🚧 | 
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
