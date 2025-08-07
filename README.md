@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-504-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-505-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-59-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-17-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -279,6 +279,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 182 | [Takuzu Solver (Easy Mode)](https://www.codingame.com/training/easy/takuzu-solver-easy-mode) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Takuzu%20Solver%20(Easy%20Mode)/Python.py) | Conditions<br>2D Array |
 | 183 | [Scaleable TicTacToe](https://www.codingame.com/training/easy/scaleable-tictactoe) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Scaleable%20TicTacToe/Python.py) | Loops<br>Lists |
 | 184 | [Count as I Count](https://www.codingame.com/training/easy/count-as-i-count) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Count%20as%20I%20Count/Python.py) | Combinatorics<br>Memoization |
+| 185 | [Next Growing Number](https://www.codingame.com/training/easy/next-growing-number) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Next%20Growing%20Number/Python.py) | Nummbers |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
