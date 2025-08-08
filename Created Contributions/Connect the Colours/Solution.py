@@ -16,24 +16,27 @@ def solve():
             else:
                 grid.append('')
 
-    def score(y,x):
-        score = 0
+    def proximity(y,x):
+        prox = 0
         for i,j in [[0,1],[1,0],[0,-1],[1,0]]:
             newidx = y+i*w+x+j
             if 0<=y+i<h and 0<=x+j<w and grid[newidx] == '':
-                score+=1
-        return score    
-    
-    def manhattan(idx, idx2):
+                prox+=1
+        return prox 
+
+    def manhattan(v1,v2):
         """
         Manhattan distance between two nodes used for searching closest to furtherest.
         """
+        return abs(v1-v2)
+
+    def scoring(idx, idx2):
         i,j = divmod(idx, w)
         y,x = divmod(idx2, w)
-        return score(i,j) + score(y,x)
+        return [proximity(i,j) + proximity(y,x) , -(manhattan(i,y) + manhattan(j,x))]
 
     # Get the colours in increasing manhattan distance.
-    colours = sorted(colour_nodes.keys(),key = lambda k : manhattan(*colour_nodes[k])) # int[]
+    colours = sorted(colour_nodes.keys(),key = lambda k : scoring(*colour_nodes[k])) # int[]
     N = len(colours)
 
     # Set the starting bitmask and endmask.
@@ -41,6 +44,8 @@ def solve():
     for colour in colours:
         for idx in colour_nodes[colour]:
             starting_bitmask |= (1 << idx)
+
+    print(bin(starting_bitmask)[2:][::-1], file = sys.stderr)
 
     # Backtracking to find a solution.
     colour_paths = {}
@@ -76,11 +81,12 @@ def solve():
             for dy, dx in [(1,0), (0,1), (-1,0), (0,-1)]:
                 ny, nx = y + dy, x + dx
                 nidx = ny * w + nx
+                # Check for valid moves: within bounds and not occupied by other paths
                 if 0 <= ny < h and 0 <= nx < w:
                     is_endpoint = nidx == end_idx
                     is_empty = not ((current_bitmask >> nidx) & 1)
                     
-                    if not ((path_mask >> nidx) & 1):
+                    if not ((path_mask >> nidx) & 1): # Avoid self-intersections
                         if is_empty or is_endpoint:
                             # Recurse to extend the path
                             find_colour_path(ny, nx, path_mask | (1 << nidx))
@@ -96,11 +102,13 @@ def solve():
         find_colour_path(start_y, start_x, (1 << start_idx)) 
         return solution_found[0]
         
-    # Find all the paths and raise error if no path possible.
+    # Initial call to the solver
     if not find_paths(0, starting_bitmask):
         raise AssertionError("No valid full-covering path combination found")
 
-    # Print the Solution
+    # --- Print the Solution ---
+    print(colours, file = sys.stderr)
+    print(colour_paths, file = sys.stderr)
     for colour in colours:
         path = colour_paths[colour]
         for i in range(len(path) - 1):
@@ -109,7 +117,7 @@ def solve():
             print(x1, y1, x2, y2, colour)
 
 import time
-global s
 # Need in a function for the use of nonlocal
+global s
 solve()
 print(f"Execution time: {time.time()-s:.2f}s", file = sys.stderr)
