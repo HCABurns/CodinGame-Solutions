@@ -1,4 +1,5 @@
 import sys
+from collections import deque
 
 def solve():
     # Form 1D grid representation and store idx of starting nodes.
@@ -64,8 +65,6 @@ def solve():
             return False
 
         def find_colour_path(y,x, path_mask):
-            nonlocal solution_found
-            nonlocal colour_paths
             if solution_found[0]:
                 return
             
@@ -79,6 +78,9 @@ def solve():
                 return
 
             for dy, dx in [(1,0), (0,1), (-1,0), (0,-1)]:
+            #for dy, dx in [(0,1), (-1,0), (0,-1), (1,0)]:
+            #for dy, dx in [(-1,0), (0,-1),(1,0), (0,1)]:
+            #for dy, dx in [(0,-1),(1,0), (0,1), (-1,0)]:
                 ny, nx = y + dy, x + dx
                 nidx = ny * w + nx
                 # Check for valid moves: within bounds and not occupied by other paths
@@ -99,6 +101,36 @@ def solve():
         start_idx, end_idx = colour_nodes[colour]
         start_y, start_x = divmod(start_idx, w)
         current_path = []
+
+        def is_path(start_idx, end_idx, mask):
+            # BFS from start to end
+            queue = deque([start_idx])
+            visited = {start_idx}
+            while queue:
+                new_idx = queue.popleft()
+                if new_idx == end_idx:
+                    return True
+                visited.add(new_idx)
+                y ,x = divmod(new_idx, w)
+                for dy, dx in [[0,1],[-1,0],[0,-1],[1,0]]:
+                    ny, nx = dy+y, dx+x
+                    new_idx = ny*w + nx
+                    if 0<=ny<h and 0<=nx<w:
+                        if new_idx not in visited and (new_idx == end_idx or not ((mask >> new_idx) & 1)):
+                            queue.append(new_idx)
+            return False
+
+        def can_connect_colours(mask, colour_idx):
+            """Check if the remaining colours can be connected or not - Not blocked by paths"""
+            for colour in colours[colour_idx:]:
+                start_idx, end_idx = colour_nodes[colour]
+                if not is_path(start_idx, end_idx, mask):
+                    return False
+            return True
+
+        if not can_connect_colours(current_bitmask, colour_idx):
+            return False
+
         find_colour_path(start_y, start_x, (1 << start_idx)) 
         return solution_found[0]
         
