@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-506-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-507-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-63-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-17-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -280,6 +280,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 183 | [Scaleable TicTacToe](https://www.codingame.com/training/easy/scaleable-tictactoe) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Scaleable%20TicTacToe/Python.py) | Loops<br>Lists |
 | 184 | [Count as I Count](https://www.codingame.com/training/easy/count-as-i-count) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Count%20as%20I%20Count/Python.py) | Combinatorics<br>Memoization |
 | 185 | [Next Growing Number](https://www.codingame.com/training/easy/next-growing-number) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Next%20Growing%20Number/Python.py) | Nummbers |
+| 186 | [City Lights Part 2](https://www.codingame.com/training/easy/city-lights-part-2) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/City%20Lights%20Part%202/Python.py) | Distances | 
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
