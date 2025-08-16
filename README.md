@@ -17,8 +17,8 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-508-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-63-yellow)](#medium) 
+[![](https://img.shields.io/badge/Easy-507-green)](#easy) 
+[![](https://img.shields.io/badge/Medium-64-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-17-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
