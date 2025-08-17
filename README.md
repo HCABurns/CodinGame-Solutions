@@ -61,15 +61,17 @@ The following is a collection of my created puzzles and Clash of Codes that have
 ### Solo Games
 | <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Code Links</b> |<b>Status</b> |
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
-| [Connect the Colours](https://www.codingame.com/contribute/view/129408a417d97f1bbc14444ce623ef6495dcba) | Hard | | |  | BFS<br>DFS<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours)<br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours/Solution.py) | 🚧 |
-| [Connect the Colours - Part 1](https://www.codingame.com/contribute/view/129408a417d97f1bbc14444ce623ef6495dcba) | Medium | | |  | BFS<br>DFS<br>Pathfinding | [Source Code]([https://github.com/HCABurns/Connect-The-Colours](https://github.com/HCABurns/Connect-The-Colours-Part-1)) | 🚧 |
-| TBD (Mount Boom 2) | Medium | | |  |  |  | 🚧 | 
-<!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
+| [Connect the Colours](https://www.codingame.com/contribute/view/129408a417d97f1bbc14444ce623ef6495dcba) | Hard | | |  | BFS<br>DFS<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours)<br><br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours/Solution.py) | 🚧 |
+| Connect the Colours - Part 1 | Medium | | |  | BFS<br>DFS<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours-Part-1) | 🚧 |
+| Elevators and Stairs | Medium | | |  |  | [Source Code](https://github.com/HCABurns/Elevators-And-Stairs) | 🚧 | 
+<!--    | []() | | | | | | [Source Code]()<br>[Solution]() | ⏳🚧✔️ |      -->
 
 ### Bot Programming
-| <b>Name</b> |
-| :---------: | 
-| Grid Wars |
+| <b>Name</b> | <b>Total Players</b> |  <b>Rating</b> | <b>Tags</b> | <b>Code Links</b> |<b>Status</b> |
+| :---------: | :------------------: | :------------: | :---------: |  :--------------: | :----------: |  
+| Grid Wars | | | | [Source Code](https://github.com/HCABurns/Grid-Wars) | 🚧 |
+
+<!--  |  | | | | [Source Code]()<br>[Solution]() | ⏳🚧✔️ |   -->
 
 # Clash of Code
 
