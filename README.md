@@ -65,6 +65,10 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | TBD (Mount Boom 2) | Medium | | |  |  |  | 🚧 | 
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
+### Bot Programming
+| <b>Name</b> |
+| :---------: | 
+| TBD - Territory Control Something Words |
 
 # Clash of Code
 
