@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-507-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-64-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-65-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-17-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -346,7 +346,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 48 | [Cows in a Maze](https://www.codingame.com/training/medium/cows-in-a-maze) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Cows%20in%20a%20Maze/Python.py) | BFS<br>DFS<br>2D Array<br>Pathfinding |
 | 49 | [Brackets, Enhanced Edition](https://www.codingame.com/training/medium/brackets-enhanced-edition) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Brackets%2C%20Enhanced%20Edition/Python.py) | Parsing<br>Loops<br>Conditions |
 | 50 | [Mirror Rotation](https://www.codingame.com/training/medium/mirror-rotation) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Mirror%20Rotation/Python.py) | DFS<br>BFS<br>Simulation<br>Priority Queue<br>Stack |
-
+| 51 | [Reverse Polish Notation](https://www.codingame.com/training/medium/reverse-polish-notation) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Reverse%20Polish%20Notation/Python.py) | Stack<br>Interpreters<br>Reverse Polish Notation |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
