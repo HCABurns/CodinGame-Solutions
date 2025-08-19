@@ -53,25 +53,36 @@ def search(i, j, score, remaining_energy, visited):
             score += fruits[grid[i][j]]  
             visited |= (1 << fruit_idx)
     
-    if score > max_score[0]:
-        max_score[0] = score
-    if score + 5*remaining_energy <= max_score[0]:
-        return score
-
-    # Check if this state has already been seen.
+    # Check if this state has already been computed.
     state = (i, j, score, remaining_energy, visited)
     if state in cache:
         return 
+    cache[state] = score
+
+    if score > max_score[0]:
+        max_score[0] = score
+    if score + 5*remaining_energy <= max_score[0]:
+        return
 
     # Explore neighbors in cardinal directions.
     for y, x, cost in neighbours.get((i,j),[]):
         if remaining_energy-cost >= 0:
             search(y, x, score, remaining_energy-cost, visited)
 
-    # Cache and return.
-    cache[state] = score
-    return
-
 # Print max score result from DFS using the initial position, energy and no visited fruits.
 search(pos[0], pos[1], 0, energy, 0)
 print(max_score[0])
+
+""" Visualiser for the longest path.
+import sys
+for key,score in cache.items():
+    if key[2] == max_score[0]:
+        visited = key[-1]
+        print("\nUpdated Path:" , file = sys.stderr)
+        for i,j in fruit_positions:
+            fruit_idx = fruit_positions[(i, j)]
+            if (visited & (1 << fruit_idx)):
+                grid[i][j] = "?"
+        for row in grid:
+            print("".join(row), file = sys.stderr)
+"""
