@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-507-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-65-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-66-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-17-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -347,6 +347,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 49 | [Brackets, Enhanced Edition](https://www.codingame.com/training/medium/brackets-enhanced-edition) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Brackets%2C%20Enhanced%20Edition/Python.py) | Parsing<br>Loops<br>Conditions |
 | 50 | [Mirror Rotation](https://www.codingame.com/training/medium/mirror-rotation) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Mirror%20Rotation/Python.py) | DFS<br>BFS<br>Simulation<br>Priority Queue<br>Stack |
 | 51 | [Reverse Polish Notation](https://www.codingame.com/training/medium/reverse-polish-notation) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Reverse%20Polish%20Notation/Python.py) | Stack<br>Interpreters<br>Reverse Polish Notation |
+| 52 | [Valid Brackets in Code](https://www.codingame.com/training/medium/valid-brackets-in-code) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Valid%20Brackets%20in%20Code/Python.py) | Regular Expression<br>Stack<br>String Manipulation<br>Loops |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
