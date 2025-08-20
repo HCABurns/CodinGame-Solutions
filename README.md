@@ -55,7 +55,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Snakes and Ladders](https://www.codingame.com/training/medium/snakes-and-ladders) | Medium | 39 | 79% | 4.8⭐ | BFS<br>Pathfinding<br>DFS | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snakes%20and%20Ladders/Python.py) | ✔️ |
 | [Pandora's Bridges](https://www.codingame.com/training/hard/pandoras-bridges) | Hard | 22 | 77% | 5.0⭐ | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) | ✔️ |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
-| Tired Pac-Man | Medium | | | | DFS<br>Dynamic programming<br>Pathfinding<br>Memoization | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | 🚧 |
+| Tired Pac-Man | Medium | | | | DFS<br>BFS<br>Pathfinding | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | 0/3<br>⏳ |
 <!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
 
 ### Solo Games
