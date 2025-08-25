@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-507-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-67-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-68-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-17-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -349,6 +349,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 51 | [Reverse Polish Notation](https://www.codingame.com/training/medium/reverse-polish-notation) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Reverse%20Polish%20Notation/Python.py) | Stack<br>Interpreters<br>Reverse Polish Notation |
 | 52 | [Valid Brackets in Code](https://www.codingame.com/training/medium/valid-brackets-in-code) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Valid%20Brackets%20in%20Code/Python.py) | Regular Expression<br>Stack<br>String Manipulation<br>Loops |
 | 53 | [Magic Stones](https://www.codingame.com/training/medium/magic-stones) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Magic%20Stones/Python.py) | Greedy Algorithm<br>Stack |
+| 54 | [Binary Search Tree Traversal](https://www.codingame.com/training/medium/binary-search-tree-traversal) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Binary%20Search%20Tree%20Traversal/Python.py) | Binary Tree<br>Graph Traversal |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
