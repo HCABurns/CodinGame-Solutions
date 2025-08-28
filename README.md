@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-507-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-69-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-70-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-17-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -351,6 +351,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 53 | [Magic Stones](https://www.codingame.com/training/medium/magic-stones) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Magic%20Stones/Python.py) | Greedy Algorithm<br>Stack |
 | 54 | [Binary Search Tree Traversal](https://www.codingame.com/training/medium/binary-search-tree-traversal) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Binary%20Search%20Tree%20Traversal/Python.py) | Binary Tree<br>Graph Traversal |
 | 55 | [Various Number Spirals](https://www.codingame.com/training/medium/various-number-spirals) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Various%20Number%20Spirals/Python.py) | Loops |
+| 56 | [Flood Fill Example](https://www.codingame.com/training/medium/flood-fill-example) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Flood%20Fill%20Example/Python.py) | Flood Fill<br>BFS |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
