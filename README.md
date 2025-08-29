@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-508-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-71-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-19-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-20-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -378,6 +378,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 16 | [Candies](https://www.codingame.com/training/hard/candies) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Candies/Python.py) | DFS |
 | 17 | [Electrical Grid](https://www.codingame.com/training/hard/electrical-grid) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Electrical%20Grid/Python.py) | MST<br>Graphs |
 | 18 | [CGX Formatter](https://www.codingame.com/training/hard/cgx-formatter) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/CGX%20Formatter/Python.py) | Strings<br>Parsing |
+| 19 | [Unflood the World](https://www.codingame.com/training/hard/unflood-the-world) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Unflood%20the%20World/Python.py) | 2D Array<br>BFS |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
