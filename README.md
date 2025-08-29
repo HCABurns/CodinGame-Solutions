@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-507-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-71-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-17-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-18-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -375,6 +375,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 14 | [The Hungry Duck - Part 2](https://www.codingame.com/training/hard/the-hungry-duck---part-2) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/The%20Hungry%20Duck%20-%20Part%202/Python.py) | BFS<br>2D Array |
 | 15 | [Mystery Sums](https://www.codingame.com/training/hard/mystery-sums) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Mystery%20Sums/Python.py) | Parsing<br>Strings |
 | 16 | [Candies](https://www.codingame.com/training/hard/candies) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Candies/Python.py) | DFS |
+| 17 | [Electrical Grid](https://www.codingame.com/training/hard/electrical-grid) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Electrical%20Grid/Python.py) | MST<br>Graphs |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
