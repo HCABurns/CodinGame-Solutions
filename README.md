@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-508-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-71-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-21-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-22-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -380,6 +380,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 18 | [CGX Formatter](https://www.codingame.com/training/hard/cgx-formatter) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/CGX%20Formatter/Python.py) | Strings<br>Parsing |
 | 19 | [Unflood the World](https://www.codingame.com/training/hard/unflood-the-world) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Unflood%20the%20World/Python.py) | 2D Array<br>BFS |
 | 20 | [Alternative Vote](https://www.codingame.com/training/hard/alternative-vote) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Alternative%20Vote/Python.py) | Hashmap<br>Simulation |
+| 21 | [Simplify Selection Ranges](https://www.codingame.com/training/hard/simplify-selection-ranges) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Simplify%20Selection%20Ranges/Python.py) | Ranges<br>String |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
