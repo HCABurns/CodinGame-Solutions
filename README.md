@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-508-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-71-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-24-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-25-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -383,6 +383,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 21 | [Simplify Selection Ranges](https://www.codingame.com/training/hard/simplify-selection-ranges) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Simplify%20Selection%20Ranges/Python.py) | Ranges<br>String |
 | 22 | [Chess Cavalry](https://www.codingame.com/training/hard/chess-cavalry) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Chess%20Cavalry/Python.py) | Pathfinding<br>DFS<br>Chess |
 | 23 | [The Holy Grail](https://www.codingame.com/training/hard/the-holy-grail) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/The%20Holy%20Grail/Python.py) | BFS<br>Pathfinding |
+| 24 | [Erdős Number](https://www.codingame.com/training/hard/erdos-number) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Erd%C5%91s%20Number/Python.py) | Graph<br>Hashmap |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
