@@ -54,9 +54,9 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Snakes and Ladders](https://www.codingame.com/training/medium/snakes-and-ladders) | Medium | 48 | 81% | 4.8⭐ | BFS<br>Pathfinding<br>DFS | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snakes%20and%20Ladders/Python.py) | ✔️ |
 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 48 | 73% | 3.9⭐ | Priority Queue<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
 | [Pandora's Bridges](https://www.codingame.com/training/hard/pandoras-bridges) | Hard | 26 | 77% | 5.0⭐ | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) | ✔️ |
+| Tired Pac-Man | Medium | 2 | 50% | 5.0⭐ | DFS<br>BFS<br>Pathfinding<br>Memoization<br>Recursion | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | ✔️ |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
-| Tired Pac-Man | Medium | | | | DFS<br>BFS<br>Pathfinding | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | 1/3<br>⏳ |
-<!--    | []() | | | | | | []() | ⏳🚧✔️ |      -->
+<!--    | []() | | | | | ⭐ | []() | ⏳🚧✔️ |      -->
 
 ### Solo Games
 | <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Code Links</b> |<b>Status</b> |
