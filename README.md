@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-510-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-71-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-72-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-25-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -54,7 +54,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Snakes and Ladders](https://www.codingame.com/training/medium/snakes-and-ladders) | Medium | 48 | 81% | 4.8⭐ | BFS<br>Pathfinding<br>DFS | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snakes%20and%20Ladders/Python.py) | ✔️ |
 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 48 | 73% | 3.9⭐ | Priority Queue<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
 | [Pandora's Bridges](https://www.codingame.com/training/hard/pandoras-bridges) | Hard | 26 | 77% | 5.0⭐ | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) | ✔️ |
-| Tired Pac-Man | Medium | 2 | 50% | 5.0⭐ | DFS<br>BFS<br>Pathfinding<br>Memoization<br>Recursion | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | ✔️ |
+| [Tired Pac-Man](https://www.codingame.com/training/medium/tired-pac-man) | Medium | 3 | 67% | 5.0⭐ | DFS<br>BFS<br>Pathfinding<br>Memoization<br>Recursion | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | ✔️ |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
 <!--    | []() | | | | | ⭐ | []() | ⏳🚧✔️ |      -->
 
@@ -356,6 +356,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 55 | [Various Number Spirals](https://www.codingame.com/training/medium/various-number-spirals) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Various%20Number%20Spirals/Python.py) | Loops |
 | 56 | [Flood Fill Example](https://www.codingame.com/training/medium/flood-fill-example) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Flood%20Fill%20Example/Python.py) | Flood Fill<br>BFS |
 | 57 | [Porcupine Fever](https://www.codingame.com/training/medium/porcupine-fever) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Porcupine%20Fever/Python.py) | Simulation<br>Loops |
+| 58 | [Tired Pac-Man](https://www.codingame.com/training/medium/tired-pac-man) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Tired%20Pac-Man/Python.py) | DFS<br>BFS<br>Pathfinding<br>Memoization<br>Recursion |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
