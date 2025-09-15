@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-510-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-511-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-72-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-25-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -291,6 +291,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 187 | [Equivalent Resistance, Circuit Building](https://www.codingame.com/training/easy/equivalent-resistance-circuit-building) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Equivalent%20Resistance%2C%20Circuit%20Building/Python.py) | Stack<br>Parsing<br>Physics |
 | 188 | [Peaks and Valleys in 2D Grid](https://www.codingame.com/training/easy/peaks-and-valleys-in-2d-grid) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Peaks%20and%20Valleys%20in%202D%20Grid/Python.py) | 2D Array |
 | 189 | [Grandma's Serial Keys](https://www.codingame.com/training/easy/grandmas-serial-keys) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Grandma's%20Serial%20Keys/Python.py) | Mathematics |
+| 190 | [ASCII Art The Drunken Bishop Algorithm](https://www.codingame.com/training/easy/ascii-art-the-drunken-bishop-algorithm) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/ASCII%20Art%20The%20Drunken%20Bishop%20Algorithm/Python.py) | ASCII Art | 
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
