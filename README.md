@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-515-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-73-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-74-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-25-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -363,6 +363,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 57 | [Porcupine Fever](https://www.codingame.com/training/medium/porcupine-fever) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Porcupine%20Fever/Python.py) | Simulation<br>Loops |
 | 58 | [Tired Pac-Man](https://www.codingame.com/training/medium/tired-pac-man) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Tired%20Pac-Man/Python.py) | DFS<br>BFS<br>Pathfinding<br>Memoization<br>Recursion |
 | 59 | [The Lost Child - Episode 1](https://www.codingame.com/training/easy/the-lost-child-episode-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Lost%20Child%20-%20Episode%201/Python.py) | Pathfinding<br>BFS<br>2D Array |
+| 60 | [Dungeon 3D](https://www.codingame.com/training/medium/dungeon-3d) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Dungeon%203D/Python.py) | Pathfinding<br>Maze |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
