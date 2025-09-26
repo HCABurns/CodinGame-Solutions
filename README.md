@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-515-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-74-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-82-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-25-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -43,7 +43,6 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Beam Rotation](https://www.codingame.com/ide/demo/1201571c100a965df299af10fddd04f8c5559d8) | Mathematics<br>Moments| Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Beam%20Rotation/Solution.py) | ✔️ |
 | [Santa's Gift Sorting](https://www.codingame.com/ide/demo/1200650cc3d81d212484f24bc4be8396d207253) | Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Santa's%20Gift%20Sorting/Solution.py) |✔️|
 | [Football Scores](https://www.codingame.com/ide/demo/12297844fba01e3b75ab47d84dbf6dc63304cb2) | Hashmap<br>String<br>Sorting | Fastest<br>Shortest | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Football%20Scores/Solution.py) | ✔️ |
-
 <!--     | []() | | Fastest<br>Shortest<br>Reverse | []() | ⏳🚧✔️|     -->          
 
 ### Puzzles
@@ -97,6 +96,36 @@ Clash of Code is a mode aimed at improving coding efficiency through racing othe
 # Puzzles
 
 Puzzles are a selection of problems split into different difficulty levels. The goal is to provide a solution that will pass hidden validators, to ensure a complete solution. The hidden validators will include general solutions as well as edge cases. Each problem is accompanied by tags releated to the problem, for example: BFS, Trie, Backtracking, Pathfinding, Cryptography, ... etc. 
+
+<!-- Order for the languages
+[Python]() <br> 
+[Ruby]() <br> 
+[Java]() <br> 
+[JavaScript]() <br> 
+[C++]() <br> 
+[C]() <br> 
+[C#]() <br> 
+[Bash]() <br> 
+[D]() <br> 
+[Dart]() <br> 
+[F#]() <br> 
+[Go]() <br> 
+[Groovy]() <br> 
+[Kotlin]() <br> 
+[Lua]() <br> 
+[ObjectiveC]() <br> 
+[PHP]() <br> 
+[Pascal]() <br> 
+[Perl]() <br> 
+[Rust]() <br> 
+[Scala]() <br> 
+[Swift]() <br> 
+[TypeScript]() <br> 
+[VBNET]() <br> 
+[Clojure]() <br> 
+[Haskell]() <br> 
+[OCaml]()
+-->
 
 ## Easy
 
@@ -364,6 +393,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 58 | [Tired Pac-Man](https://www.codingame.com/training/medium/tired-pac-man) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Tired%20Pac-Man/Python.py) | DFS<br>BFS<br>Pathfinding<br>Memoization<br>Recursion |
 | 59 | [The Lost Child - Episode 1](https://www.codingame.com/training/easy/the-lost-child-episode-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Lost%20Child%20-%20Episode%201/Python.py) | Pathfinding<br>BFS<br>2D Array |
 | 60 | [Dungeon 3D](https://www.codingame.com/training/medium/dungeon-3d) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Dungeon%203D/Python.py) | Pathfinding<br>Maze |
+| 61 | [Rubik®](https://www.codingame.com/training/medium/rubik) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Java.java)<br>[JavaScript](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/JavaScript.js)<br>[C++](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/C%2B%2B.cpp) <br> [C](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/C.c) <br> [C#](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/C%23.cs)<br> [Bash](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Bash.bash)  | Mathematics<br>Geometry |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
