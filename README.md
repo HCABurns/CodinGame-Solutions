@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-515-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-516-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-82-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-25-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -325,6 +325,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 192 | [Fix the Networks](https://www.codingame.com/training/easy/fix-the-networks) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Fix%20the%20Networks/Python.py) | Conditions<br>String Manipulation<br>Numbers |
 | 193 | [Street Fighter : Level I](https://www.codingame.com/training/easy/street-fighter-level-i) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Street%20Fighter%20%3A%20Level%20I/Python.py) | Conditions<br>Loops<br>Hashmaps |
 | 194 | [Seeing Squares](https://www.codingame.com/training/easy/seeing-squares) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Seeing%20Squares/Python.py) | ASCII Art<br>Parsing |
+| 195 | [Diagonal-achoo!!](https://www.codingame.com/training/easy/diagonal-achoo) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Diagonal-achoo!!/Python.py) | Simulation<br>2D Arrays<br>Loops |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
