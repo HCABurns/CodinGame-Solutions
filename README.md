@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-516-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-82-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-26-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-27-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -426,6 +426,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 23 | [The Holy Grail](https://www.codingame.com/training/hard/the-holy-grail) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/The%20Holy%20Grail/Python.py) | BFS<br>Pathfinding |
 | 24 | [Erdős Number](https://www.codingame.com/training/hard/erdos-number) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Erd%C5%91s%20Number/Python.py) | Graph<br>Hashmap |
 | 25 | [Super Computer](https://www.codingame.com/training/hard/super-computer) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Super%20Computer/Python.py) | Scheduling<br>Greedy Algorithm |
+| 26 | [Blunder - Episode 2](https://www.codingame.com/training/hard/blunder-episode-2) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Blunder%20-%20Episode%202/Python.py) | Memoization<br>Dynamic Programming<br>Pathfinding<br>Recursion |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
