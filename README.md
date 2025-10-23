@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-516-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-82-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-83-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-27-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -395,6 +395,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 59 | [The Lost Child - Episode 1](https://www.codingame.com/training/easy/the-lost-child-episode-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Lost%20Child%20-%20Episode%201/Python.py) | Pathfinding<br>BFS<br>2D Array |
 | 60 | [Dungeon 3D](https://www.codingame.com/training/medium/dungeon-3d) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Dungeon%203D/Python.py) | Pathfinding<br>Maze |
 | 61 | [Rubik®](https://www.codingame.com/training/medium/rubik) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Java.java)<br>[JavaScript](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/JavaScript.js)<br>[C++](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/C%2B%2B.cpp) <br> [C](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/C.c) <br> [C#](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/C%23.cs)<br> [Bash](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Bash.bash)  | Mathematics<br>Geometry |
+| 62 | [Christmas Tree](https://www.codingame.com/training/medium/christmas-tree) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Christmas%20Tree/Python.py) | Mathematics |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
