@@ -55,13 +55,14 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Tired Pac-Man](https://www.codingame.com/training/medium/tired-pac-man) | Medium | 35 | 49% | 4.9⭐ | DFS<br>BFS<br>Pathfinding<br>Memoization<br>Recursion | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | ✔️ |
 | [Pandora's Bridges](https://www.codingame.com/training/hard/pandoras-bridges) | Hard | 30 | 77% | 5.0⭐ | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) | ✔️ |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
+| [Snap!]() | Easy | | | | ⭐ | []() | 🚧 |
 <!--    | []() | | | | | ⭐ | []() | ⏳🚧✔️ |      -->
 
 ### Solo Games
 | <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Code Links</b> |<b>Status</b> |
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
-| [Connect the Colours - Part 1](https://www.codingame.com/contribute/view/1299698fc897623022a45311186f34a333fc69) | Medium | | |  | BFS<br>DFS<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours-Part-1) <br><br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours%20-%20Part%201/Solution.py) | 🚧 |
-| [Connect the Colours - Part 2](https://www.codingame.com/contribute/view/129408a417d97f1bbc14444ce623ef6495dcba) | Hard | | |  | BFS<br>DFS<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours)<br><br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours%20-%20Part%202/Solution.py) | 🚧 |
+| [Connect the Colours - Part 1](https://www.codingame.com/contribute/view/1299698fc897623022a45311186f34a333fc69) | Medium | | |  | BFS<br>DFS<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours-Part-1) <br><br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours%20-%20Part%201/Solution.py) | 0/3<br>⏳ |
+| [Connect the Colours - Part 2](https://www.codingame.com/contribute/view/129408a417d97f1bbc14444ce623ef6495dcba) | Hard | | |  | BFS<br>DFS<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours)<br><br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours%20-%20Part%202/Solution.py) | 0/3<br>⏳ |
 | Elevators and Stairs | Medium | | |  |  | [Source Code](https://github.com/HCABurns/Elevators-And-Stairs) | 🚧 | 
 <!--    | []() | | | | | | [Source Code]()<br>[Solution]() | ⏳🚧✔️ |      -->
 
