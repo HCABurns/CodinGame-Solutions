@@ -1,23 +1,23 @@
 from collections import deque
 
+# Populate player decks - First card = Top
 p1 = deque([])
 p2 = deque([])
-
 m = int(input())
 for i in range(m):
     card = input()
-    p1.append(card[0])
-
+    p1.append(card[:-1])
 n = int(input())
 for i in range(n):
     card = input()
-    p2.append(card[0])
+    p2.append(card[:-1])
 
+# Define central pile and starting turn
 pile = []
 turn = 1
 
+# Simulate Snap until one player has no more cards.
 while p1 and p2:
-
     if turn == 1:
         pile.append(p1.popleft())
         if len(pile) > 1 and pile[-1] == pile[-2]:
@@ -36,10 +36,9 @@ while p1 and p2:
         turn = 1
         continue
 
+# Print output.
 if p1:
     print("Winner:","Player 1")
-elif p2:
-    print("Winner:","Player 2")
 else:
-    print("Draw")
+    print("Winner:","Player 2")
 print(max(len(p1),len(p2)))
