@@ -55,7 +55,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 56 | 72% | 4.0⭐ | Priority Queue<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
 | [Pandora's Bridges](https://www.codingame.com/training/hard/pandoras-bridges) | Hard | 34 | 79% | 5.0⭐ | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) | ✔️ |
 | Snap! | Easy | | | ?⭐ | Priority Queue<br>Stack<br>Card Games<br>Simulation | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snap!/Solution.py) | 0/3<br>⏳ |
-| Snowflakes | Medium | | | ?⭐ | ? | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snowflakes/Solution.py) | 🚧 |
+| Snowflakes | Medium | | | ?⭐ | ? | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snowflakes/Solution.py) | 0/3<br>⏳ |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
 
 <!--    | []() | | | | ⭐ |  | []() | ⏳🚧✔️ |      -->
