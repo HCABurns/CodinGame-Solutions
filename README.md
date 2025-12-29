@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-518-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-84-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-85-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-28-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -54,8 +54,8 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Tired Pac-Man](https://www.codingame.com/training/medium/tired-pac-man) | Medium | 58 | 40% | 4.9⭐ | DFS<br>BFS<br>Pathfinding<br>Memoization<br>Recursion | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py) | ✔️ |
 | [The Sovereign's Game](https://www.codingame.com/training/medium/the-sovereigns-game) | Medium | 57 | 72% | 4.0⭐ | Priority Queue<br>Greedy Algorithm | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py) |✔️ |
 | [Pandora's Bridges](https://www.codingame.com/training/hard/pandoras-bridges) | Hard | 34 | 79% | 5.0⭐ | Graphs<br>Trigonometry<br>3D<br>Distances | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py) | ✔️ |
+| [Snowflakes](https://www.codingame.com/training/medium/snowflakes) | Medium | 1 | 100% | 5.0⭐ | BFS<br>DFS | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snowflakes/Solution.py) | ✔️ |
 | Snap! | Easy | | | ?⭐ | Priority Queue<br>Stack<br>Card Games<br>Simulation | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snap!/Solution.py) | 0/3<br>⏳ |
-| Snowflakes | Medium | | | ?⭐ | ? | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snowflakes/Solution.py) | 0/3<br>⏳ |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
 
 <!--    | []() | | | | ⭐ |  | []() | ⏳🚧✔️ |      -->
@@ -400,6 +400,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 61 | [Rubik®](https://www.codingame.com/training/medium/rubik) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Java.java)<br>[JavaScript](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/JavaScript.js)<br>[C++](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/C%2B%2B.cpp) <br> [C](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/C.c) <br> [C#](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/C%23.cs)<br> [Bash](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Rubik%C2%AE/Bash.bash)  | Mathematics<br>Geometry |
 | 62 | [Christmas Tree](https://www.codingame.com/training/medium/christmas-tree) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Christmas%20Tree/Python.py) | Mathematics |
 | 63 | [Connect The Colours - Part 1](https://www.codingame.com/training/medium/connect-the-colours---part-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Connect%20The%20Colours%20-%20Part%201/Python.py) | DFS<br>BFS<br>Pathfinding<br>Backtracking |
+| 64 | [Snowflakes](https://www.codingame.com/training/medium/snowflakes) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Snowflakes/Python.py) | BFS<br>DFS |
 <!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
 
 ## Hard
