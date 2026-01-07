@@ -2,15 +2,36 @@
 This script will use the https://chadok.info/codingame/ website to retrieve information about a players puzzles.
 The result will be the total number of puzzles solved in all languages, split by difficulty.
 
-Information is currently being added to badges manually.
+How to find your player_id:
+1. Open the provided link in a web browser: https://chadok.info/codingame/
+2. Find option 7 at the bottom of the main menu and enter your codingame username. If your name appears in a button go to step 3b, otherwise 3a.
+3a. Go to your codingame profile and get the url.
+3ai. Take the last section of the url and paste in in the new input box at the bottom of the page then move to section 3b.
+     e.g. for https://www.codingame.com/profile/mk4ig8...3863 - The useful information is mk4ig8...3863
+3b. Simply click on the button containing your username.
+3bi. There will be three option boxes, the last option box containing only numbers.
 """
 
 # Required imports
 from requests import get
-from re import findall
+from re import findall, search
 
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- #
+# -=-=-=-=-=-=-=-=- YOUR PLAYER ID GOES HERE! -=-=-=-=-=-=-=-=- #
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- #
 # Player ID
 player_id = 5192217
+
+# Get and display name player name associated with the player_id
+url = f"https://chadok.info/codingame/players_puzzles.php?level=easy&commu=0&player={player_id}&update=0"
+data = get(url)
+if data.status_code == 200:
+    pattern = r'player <a href="[^"]*">([^<]+)</a>'
+    name = search(pattern, data.text)
+    if name:
+        print(f"Showing results for: {name.group(1)}\n")
+    else:
+        print("No player name found...")
 
 # URLS
 tutorial = [f"https://chadok.info/codingame/players_puzzles.php?level=tutorial&commu=0&player={player_id}&update=0","Tutorial"]
