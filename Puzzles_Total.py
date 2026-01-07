@@ -20,7 +20,9 @@ from re import findall, search
 # -=-=-=-=-=-=-=-=- YOUR PLAYER ID GOES HERE! -=-=-=-=-=-=-=-=- #
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- #
 # Player ID
-player_id = 5192217
+#player_id = 5192217
+player_id = None
+assert player_id != None, "No player ID provided!\nPlease follow the instructions at the top of the file or use player_id = 5192217 as an example."
 
 # Get and display name player name associated with the player_id
 url = f"https://chadok.info/codingame/players_puzzles.php?level=easy&commu=0&player={player_id}&update=0"
@@ -95,3 +97,4 @@ print()
 
 # Print total of all difficulty levels for community and official CodinGame puzzles.
 print(f"Total solved in all languages: {total}")
+
