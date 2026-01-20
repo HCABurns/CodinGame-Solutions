@@ -20,7 +20,8 @@ pile = []
 turn = 0
 
 """
-Function to perform the claiming of central pile
+Function to perform the claiming of central pile.
+Done via physically flipping the pile and placing it on the bottom.
 
 Return: int - Flag for which player is the next to play.
 """
