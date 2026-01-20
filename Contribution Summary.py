@@ -28,8 +28,7 @@ from solutions import db
 # -=-=-=-=-=-=-=-=- YOUR PLAYER ID GOES HERE! -=-=-=-=-=-=-=-=- #
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- #
 # Player ID
-#player_id = 5192217
-player_id = None
+player_id = 5192217
 assert player_id != None, "No player ID provided!\nPlease follow the instructions at the top of the file or use player_id = 5192217 as an example."
 
 
@@ -59,11 +58,13 @@ soup = BeautifulSoup(data, 'html.parser')
 # Find ALL divs with class="magicDiv"
 magic_divs = soup.find_all('div', class_='magicDiv')[0:4]
 
-# Get the puzzles information.
+# Get the names
+
 td_texts = [th.get_text(strip=True) for th in magic_divs[0].find_all("th")]
 
 # Process each one - Storing if matching the player name
 players_puzzles = []
+updated = False
 diff = 0
 difficulty = {0:"Tutorial",1:"Easy",2:"Medium",3:"Hard",4:"Expert"}
 for div in magic_divs:
@@ -82,15 +83,21 @@ for div in magic_divs:
         
         if td_texts[1] == player_name:
             players_puzzles.append(td_texts+[difficulty[diff]] + [tags])
+            #4,6
+            if players_puzzles[-1][4] or players_puzzles[-1][4]:
+                if not updated:
+                    print("The following puzzles have had players attempt or solve them:")
+                    updated = True
+                print(td_texts+[difficulty[diff]] + [tags])
     diff+=1
 
 # Ensure there is a result
 assert players_puzzles, f"No published puzzles for {player_name} found."
 
 # Sort the display by: 0-Name, 3-Solves, 5-Attmepts, 7-Success Rate, 8-Rating, 9-Date, 11-Difficulty.
-players_puzzles.sort(key = lambda x:(-float(x[3]), -float(x[8])))
+players_puzzles.sort(key = lambda x:(-float(x[5]), -float(x[8])))
 # Display the information in a github table.
-print("| <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Solution</b> |<b>Status</b> |")
+print("\n| <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Solution</b> |<b>Status</b> |")
 print("| :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |")
 for puzzle in players_puzzles:
     puzzle_name = puzzle[0]
@@ -103,11 +110,11 @@ for puzzle in players_puzzles:
         else:
             puzzle_solution = f"[Solution]({db.get(puzzle_name,'')})"
     puzzle_difficulty = puzzle[-2]
-    puzzle_name = f"[{puzzle_name}](https://www.codingame.com/training//{puzzle_name.replace(' ','-').lower()})"
-    puzzle_solved = puzzle[3]
+    puzzle_name = f"[{puzzle_name}](https://www.codingame.com/training//{(puzzle_name.replace(' ','-')).replace(''','').lower()})"
+    puzzle_attempts = puzzle[5]
     puzzle_success = puzzle[7]
     puzzle_rating = puzzle[8]+"⭐"
     puzzle_tags = puzzle[-1]
-    puzzle = [puzzle_name, puzzle_difficulty, puzzle_solved, puzzle_success, puzzle_rating, puzzle_tags, puzzle_solution]
+    puzzle = [puzzle_name, puzzle_difficulty, puzzle_attempts, puzzle_success, puzzle_rating, puzzle_tags, puzzle_solution]
     print(f"| {' | '.join(puzzle)}  | ✔️ |")
 
