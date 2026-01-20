@@ -58,7 +58,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Snowflakes](https://www.codingame.com/training//snowflakes) | Medium | 29 | 89.66% | 4.75⭐ | BFS<br>DFS | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snowflakes/Solution.py)  | ✔️ |
 | [Connect the Colours - Part 2](https://www.codingame.com/training//connect-the-colours---part-2) | Hard | 25 | 72.00% | 5.00⭐ | BFS<br>DFS<br>Backtracking<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours)<br><br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours%20-%20Part%202/Solution.py)  | ✔️ |
 |  |  |  |  |  |  |  |  |
-| Snap! | Easy | | | ?⭐ | Priority Queue<br>Stack<br>Card Games<br>Simulation | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snap!/Solution.py) | 🚧 |
+| Snap! | Easy | | | ?⭐ | Queues<br>Card Games<br>Simulation | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snap!/Solution.py) | 0/3<br>⏳ |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
 | Elevators and Stairs | Medium | | |  |  | [Source Code](https://github.com/HCABurns/Elevators-And-Stairs) | 🚧 | 
 <!--    | []() | | | | | | [Source Code]()<br>[Solution]() | ⏳🚧✔️ |      -->
