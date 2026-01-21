@@ -110,11 +110,11 @@ for puzzle in players_puzzles:
         else:
             puzzle_solution = f"[Solution]({db.get(puzzle_name,'')})"
     puzzle_difficulty = puzzle[-2]
-    puzzle_name = f"[{puzzle_name}](https://www.codingame.com/training//{(puzzle_name.replace(' ','-')).replace(''','').lower()})"
+    tmp_name = puzzle_name.replace(" ", "-").replace("'", "").lower()
+    puzzle_name = f"[{puzzle_name}](https://www.codingame.com/training//{tmp_name})"
     puzzle_attempts = puzzle[5]
     puzzle_success = puzzle[7]
     puzzle_rating = puzzle[8]+"⭐"
     puzzle_tags = puzzle[-1]
     puzzle = [puzzle_name, puzzle_difficulty, puzzle_attempts, puzzle_success, puzzle_rating, puzzle_tags, puzzle_solution]
     print(f"| {' | '.join(puzzle)}  | ✔️ |")
-
