@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-518-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-85-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-86-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-28-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -396,7 +396,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 62 | [Christmas Tree](https://www.codingame.com/training/medium/christmas-tree) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Christmas%20Tree/Python.py) | Mathematics |
 | 63 | [Connect The Colours - Part 1](https://www.codingame.com/training/medium/connect-the-colours---part-1) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Connect%20The%20Colours%20-%20Part%201/Python.py) | DFS<br>BFS<br>Pathfinding<br>Backtracking |
 | 64 | [Snowflakes](https://www.codingame.com/training/medium/snowflakes) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Snowflakes/Python.py) | BFS<br>DFS |
-<!--|  | []() |✔️ Completed| []()<br>[]() |  |-->
+| 65 | [Santa's Garland](https://www.codingame.com/training/medium/santas-garland) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Santa's%20Garland/Python.py) | BFS<br>Pathfinding<br>Graphs |
+<!--|  | []() |✔️ Completed | []()<br>[]() |  |-->
 
 ## Hard
 
