@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-520-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-521-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-86-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-28-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -326,6 +326,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 195 | [Diagonal-achoo!!](https://www.codingame.com/training/easy/diagonal-achoo) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Diagonal-achoo!!/Python.py) | Simulation<br>2D Arrays<br>Loops |
 | 196 | [The Electrician Apprentice](https://www.codingame.com/training/easy/the-electrician-apprentice) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Electrician%20Apprentice/Python.py) | Parsing<br>String Manipulation | 
 | 197 | [Synchronized Scrambles](https://www.codingame.com/training/easy/synchronized-scrambles) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Synchronized%20Scrambles/Python.py) | String Manipulation<br>Parsing |
+| 198 | [Container Terminal](https://www.codingame.com/training/easy/container-terminal) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Container%20Terminal/Python.py) | Stacks |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
