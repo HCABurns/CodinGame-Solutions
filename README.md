@@ -70,27 +70,6 @@ The following is a collection of my created puzzles and Clash of Codes that have
 
 <!--  |  | | | | [Source Code]()<br>[Solution]() | ⏳🚧✔️ |   -->
 
-# Clash of Code
-
-Clash of Code is a mode aimed at improving coding efficiency through racing other users to create a robust solution to a problem as quick as possible. There are three different modes available in Clash of Code: Fastest, Shortest and Reverse.
-
-<b>Fastest:</b> This mode is to create a solution to a problem passing all validators as quick as possible.
-
-<b>Shortest:</b> This mode is for creating a solution in the shortest number of characters possible.
-
-<b>Reverse:</b> This mode provides an input and output only. The user must decipher the problem only from this information and create a solution as quick as they can.
-
-### Current Standings
-| <b>Position</b>  | <b>Percentile</b> | <b>Score</b> | <b>Participations</b> |
-| ------------- | --- |------------- | :-----------: |
-| <b>111</b> / 800,136 | Top 0.014% | 27.26 | 654 |
-
-### Best Standings
-
-| <b>Position</b>  | <b>Percentile</b> | <b>Score</b> | <b>Participations</b> |
-| ------------- | --- |------------- | :-----------: |
-| <b>36</b> / 739,096 | Top 0.0049% | 28.28 | 530 |
-
 # Puzzles
 
 Puzzles are a selection of problems split into different difficulty levels. The goal is to provide a solution that will pass hidden validators, to ensure a complete solution. The hidden validators will include general solutions as well as edge cases. Each problem is accompanied by tags releated to the problem, for example: BFS, Trie, Backtracking, Pathfinding, Cryptography, ... etc. 
@@ -495,6 +474,22 @@ Code golf is a challenge to achieve the shortest possible source code by using l
 | 4 |  [Music Scores](https://www.codingame.com/codegolf/expert/music-scores-codesize) | ❌ Not Completed |  |  | Encoding<br>Image Processing<br>Pattern Recognition |
 | 5 |  [Vox Codei - Episode 2](https://www.codingame.com/codegolf/expert/vox-codei-episode-2-codesize) | ❌ Not Completed |  |  | Pattern Recognition<br>DFS<br>Brute-force<br>Simulation |
 | 6 |  [Mars Lander - Episode 3](https://www.codingame.com/codegolf/expert/mars-lander-episode-3-codesize) | ❌ Not Completed |  |  | Distances<br>Trigonometry |
+
+# Clash of Code
+
+Clash of Code is a mode aimed at improving coding efficiency through racing other users to create a robust solution to a problem as quick as possible. There are three different modes available in Clash of Code: Fastest, Shortest and Reverse.
+
+<b>Fastest:</b> This mode is to create a solution to a problem passing all validators as quick as possible.
+
+<b>Shortest:</b> This mode is for creating a solution in the shortest number of characters possible.
+
+<b>Reverse:</b> This mode provides an input and output only. The user must decipher the problem only from this information and create a solution as quick as they can.
+
+### Best Standings
+
+| <b>Position</b>  | <b>Percentile</b> | <b>Score</b> | <b>Participations</b> |
+| ------------- | --- |------------- | :-----------: |
+| <b>36</b> / 739,096 | Top 0.0049% | 28.28 | 530 |
 
 # Bot Programming 
 Bot progamming is a challenge to create an AI to run thorugh a simulation in the best method for a given task. This could be as simple as a rules based approach to neural networks. A solution is tested against other users solutions and ranked based on how well it performs against others.
