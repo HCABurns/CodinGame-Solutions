@@ -83,8 +83,7 @@ for div in magic_divs:
         
         if td_texts[1] == player_name:
             players_puzzles.append(td_texts+[difficulty[diff]] + [tags])
-            #4,6
-            if players_puzzles[-1][4] or players_puzzles[-1][4]:
+            if players_puzzles[-1][6] or players_puzzles[-1][6]:
                 if not updated:
                     print("The following puzzles have had players attempt or solve them:")
                     updated = True
