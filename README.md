@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-522-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-523-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-86-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-28-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -307,6 +307,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 197 | [Synchronized Scrambles](https://www.codingame.com/training/easy/synchronized-scrambles) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Synchronized%20Scrambles/Python.py) | String Manipulation<br>Parsing |
 | 198 | [Container Terminal](https://www.codingame.com/training/easy/container-terminal) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Container%20Terminal/Python.py) | Stacks |
 | 199 | [Sign (programming) language](https://www.codingame.com/training/easy/sign-programming-language) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Sign%20(programming)%20language/Python.py) | Interpreter |
+| 200 | [The Mystic Rectangle](https://www.codingame.com/training/easy/the-mystic-rectangle) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Mystic%20Rectangle/Python.py) | Topology<br>Distances<br>Coordinates |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
