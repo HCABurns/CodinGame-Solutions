@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-526-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-527-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-87-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-28-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -310,6 +310,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 200 | [The Mystic Rectangle](https://www.codingame.com/training/easy/the-mystic-rectangle) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Mystic%20Rectangle/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Mystic%20Rectangle/Ruby.rb) | Topology<br>Distances<br>Coordinates |
 | 201 | [Feature Extraction](https://www.codingame.com/training/easy/feature-extraction) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Feature%20Extraction/Python.py) | Dot Product<br>Mathematics |
 | 202 | [Chocolate Bar Cut](https://www.codingame.com/training/easy/chocolate-bar-cut) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Chocolate%20Bar%20Cut/Python.py) | Formula<br>GCD |
+| 203 | [What a dessert!](https://www.codingame.com/training/easy/what-a-dessert) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/What%20a%20dessert!/Python.py) | Conditions |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
