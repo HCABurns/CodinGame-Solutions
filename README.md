@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-527-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-528-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-87-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-28-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -57,8 +57,8 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Pandora's Bridges](https://www.codingame.com/training//pandoras-bridges) | Hard | 38 | 81.58% | 5.00⭐ | 3D<br>Distances<br>Graphs<br>Trigonometry | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py)  | ✔️ |
 | [Snowflakes](https://www.codingame.com/training//snowflakes) | Medium | 36 | 86.11% | 4.80⭐ | BFS<br>DFS | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snowflakes/Solution.py)  | ✔️ |
 | [Connect the Colours - Part 2](https://www.codingame.com/training//connect-the-colours---part-2) | Hard | 32 | 68.75% | 5.00⭐ | BFS<br>DFS<br>Backtracking<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours)<br><br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours%20-%20Part%202/Solution.py)  | ✔️ |
+| Snap! | Easy | 18 | 66.67% | 5.00⭐ | Queues<br>Card Games<br>Simulation | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snap!/Solution.py) | ✔️ |
 |  |  |  |  |  |  |  |  |
-| Snap! | Easy | | | ?⭐ | Queues<br>Card Games<br>Simulation | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snap!/Solution.py) | ⏳<br>1/3 |
 | Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
 | Elevators and Stairs | Medium | | |  |  | [Source Code](https://github.com/HCABurns/Elevators-And-Stairs) | 🚧 | 
 <!--    | []() | | | | | | [Source Code]()<br>[Solution]() | ⏳🚧✔️ |      -->
@@ -311,6 +311,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 201 | [Feature Extraction](https://www.codingame.com/training/easy/feature-extraction) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Feature%20Extraction/Python.py) | Dot Product<br>Mathematics |
 | 202 | [Chocolate Bar Cut](https://www.codingame.com/training/easy/chocolate-bar-cut) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Chocolate%20Bar%20Cut/Python.py) | Formula<br>GCD |
 | 203 | [What a dessert!](https://www.codingame.com/training/easy/what-a-dessert) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/What%20a%20dessert!/Python.py) | Conditions |
+| 204 | [Snap!](https://www.codingame.com/training/easy/snap) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Snap!/python.py) | Queues<br>Card Game<br>Simulation |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
