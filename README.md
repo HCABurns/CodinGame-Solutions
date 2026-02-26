@@ -48,8 +48,6 @@ The following is a collection of my created puzzles and Clash of Codes that have
 ### Puzzles
 | <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Solution</b> |<b>Status</b> |
 | :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
-| <b>Name</b> | <b>Difficulty</b> | <b>Total Attempts</b> |<b>Success Rate</b> | <b>Rating</b> | <b>Tags</b> | <b>Solution</b> |<b>Status</b> |
-| :---------: | :---------------: | :-------------------: | :----------------: | :-----------: | :---------: | :-------------: | :------------: |
 | [Darts Checkout Routes](https://www.codingame.com/training//darts-checkout-routes) | Easy | 244 | 72.95% | 4.47⭐ | BFS<br>DFS<br>Brute-force | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py)  | ✔️ |
 | [Tired Pac-Man](https://www.codingame.com/training//tired-pac-man) | Medium | 88 | 39.77% | 4.90⭐ | BFS<br>DFS<br>Memoization<br>Pathfinding<br>Recursion | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py)  | ✔️ |
 | [Road to Mount Boom](https://www.codingame.com/training//road-to-mount-boom) | Medium | 80 | 80.00% | 4.71⭐ | 2D array<br>BFS<br>DFS | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Road%20to%20Mount%20Boom/Solution.py)  | ✔️ |
