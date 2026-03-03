@@ -47,7 +47,7 @@ assert player_name, "No player name found..."
 
 # Get the information for Easy, Medium, Hard and Expert Puzzles.
 url = "https://chadok.info/codingame/puzzles_list.html"
-pattern = '<div class="magicDiv"[^"]*<\div>'
+pattern = '<div class="magicDiv"[^"]*<\\div>'
 data = get(url)
 assert data.status_code == 200, "Failure to retrieve data from the website. Try again later or check the website status."
 data = data.text
@@ -83,6 +83,7 @@ for div in magic_divs:
         
         if td_texts[1] == player_name:
             players_puzzles.append(td_texts+[difficulty[diff]] + [tags])
+            #Index 4 for solve, index 6 for attempt but fail
             if players_puzzles[-1][6] or players_puzzles[-1][6]:
                 if not updated:
                     print("The following puzzles have had players attempt or solve them:")
@@ -109,7 +110,7 @@ for puzzle in players_puzzles:
         else:
             puzzle_solution = f"[Solution]({db.get(puzzle_name,'')})"
     puzzle_difficulty = puzzle[-2]
-    tmp_name = puzzle_name.replace(" ", "-").replace("'", "").lower()
+    tmp_name = puzzle_name.replace(" ", "-").replace("'", "").replace("!","").lower()
     puzzle_name = f"[{puzzle_name}](https://www.codingame.com/training//{tmp_name})"
     puzzle_attempts = puzzle[5]
     puzzle_success = puzzle[7]
@@ -117,3 +118,4 @@ for puzzle in players_puzzles:
     puzzle_tags = puzzle[-1]
     puzzle = [puzzle_name, puzzle_difficulty, puzzle_attempts, puzzle_success, puzzle_rating, puzzle_tags, puzzle_solution]
     print(f"| {' | '.join(puzzle)}  | ✔️ |")
+
