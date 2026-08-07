@@ -66,6 +66,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 ### Bot Programming
 | <b>Name</b> | <b>Total Players</b> |  <b>Rating</b> | <b>Tags</b> | <b>Code Links</b> |<b>Status</b> |
 | :---------: | :------------------: | :------------: | :---------: |  :--------------: | :----------: |  
+| Barricade | | | | [Source Code](https://github.com/HCABurns/CG_Barricade) | 🚧 |
 | Grid Wars | | | | [Source Code](https://github.com/HCABurns/Grid-Wars) | 🚧 |
 
 <!--  |  | | | | [Source Code]()<br>[Solution]() | ⏳🚧✔️ |   -->
