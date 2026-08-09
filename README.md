@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-528-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-87-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-88-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-28-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
@@ -387,6 +387,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 64 | [Snowflakes](https://www.codingame.com/training/medium/snowflakes) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Snowflakes/Python.py) | BFS<br>DFS |
 | 65 | [Santa's Garland](https://www.codingame.com/training/medium/santas-garland) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Santa's%20Garland/Python.py) | BFS<br>Pathfinding<br>Graphs |
 | 66 | [Robbery optimisation](https://www.codingame.com/training/easy/robbery-optimisation) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Robbery%20optimisation/Python.py) | Dynamic Programming<br>Mathematics |
+| 67 | [Find the replacement](https://www.codingame.com/training/medium/find-the-replacement) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Find%20the%20replacement/Python.py) | Hashmap<br>Strings |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  |-->
 
 ## Hard
