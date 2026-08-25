@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-528-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-529-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-90-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-28-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -313,6 +313,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 202 | [Chocolate Bar Cut](https://www.codingame.com/training/easy/chocolate-bar-cut) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Chocolate%20Bar%20Cut/Python.py) | Formula<br>GCD |
 | 203 | [What a dessert!](https://www.codingame.com/training/easy/what-a-dessert) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/What%20a%20dessert!/Python.py) | Conditions |
 | 204 | [Snap!](https://www.codingame.com/training/easy/snap) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Snap!/python.py) | Queues<br>Card Game<br>Simulation |
+| 205 | [The Descent - Part 2](https://www.codingame.com/training/easy/the-descent---part-2) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Descent%20-%20Part%202/Python.py) | 2D Array |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
 
 
