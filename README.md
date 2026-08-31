@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-530-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-90-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-29-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-30-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
 
 Code Golf Completed:
@@ -426,6 +426,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 26 | [Blunder - Episode 2](https://www.codingame.com/training/hard/blunder-episode-2) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Blunder%20-%20Episode%202/Python.py) | Memoization<br>Dynamic Programming<br>Pathfinding<br>Recursion |
 | 27 | [Connect the Colours - Part 2](https://www.codingame.com/training/hard/connect-the-colours---part-2) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Connect%20the%20Colours%20-%20Part%202/Python.py) | BFS<br>DFS<br>Backtracking<br>Pathfinding |
 | 28 | [n Queens](https://www.codingame.com/training/hard/n-queens) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/n%20Queens/Python.py) | DFS<br>Bitboard<br> |
+| 29 | [TXT2HTML](https://www.codingame.com/training/hard/txt2html) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/TXT2HTML/Python.py) | Parsing |
 <!--- |  | []() |✔️ Completed| []() |  | --->
 
 ## Very Hard
