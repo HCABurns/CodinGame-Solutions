@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-531-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-532-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-91-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-37-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-4-purple)](#very-hard)
@@ -316,8 +316,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 205 | [The Descent - Part 2](https://www.codingame.com/training/easy/the-descent---part-2) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Descent%20-%20Part%202/Python.py) | 2D Array |
 | 206 | [Shadow Casting](https://www.codingame.com/training/easy/shadow-casting) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Shadow%20Casting/Python.py) | ASCII Art<br>2D Array<br>Loops |
 | 207 | [Where Was This Knight Before?](https://www.codingame.com/training/easy/where-was-this-knight-before) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Where%20Was%20This%20Knight%20Before%3F/Python.py) | Chess<br>2D Array |
+| 208 | [Jump the Queue](https://www.codingame.com/training/easy/jump-the-queue) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Jump%20the%20Queue/Python.py)| Simulation<br>Queue |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
-
 
 
 ## Medium
