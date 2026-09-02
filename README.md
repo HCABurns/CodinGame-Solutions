@@ -17,7 +17,7 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/HCABurns/CodinGame-Solutions/Puzzles/Very%20Hard?label=Very%20Hard&color=purple)](#very-hard)
 
 Total Puzzle Solutions: 
-[![](https://img.shields.io/badge/Easy-530-green)](#easy) 
+[![](https://img.shields.io/badge/Easy-531-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-91-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-30-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-10-purple)](#very-hard)
@@ -315,8 +315,8 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 204 | [Snap!](https://www.codingame.com/training/easy/snap) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Snap!/python.py) | Queues<br>Card Game<br>Simulation |
 | 205 | [The Descent - Part 2](https://www.codingame.com/training/easy/the-descent---part-2) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/The%20Descent%20-%20Part%202/Python.py) | 2D Array |
 | 206 | [Shadow Casting](https://www.codingame.com/training/easy/shadow-casting) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Shadow%20Casting/Python.py) | ASCII Art<br>2D Array<br>Loops |
+| 207 | [Where Was This Knight Before?](https://www.codingame.com/training/easy/where-was-this-knight-before) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Where%20Was%20This%20Knight%20Before%3F/Python.py) | Chess<br>2D Array |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  | -->
-
 
 
 
