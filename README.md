@@ -19,7 +19,7 @@ Puzzles Completed:
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-532-green)](#easy) 
 [![](https://img.shields.io/badge/Medium-92-yellow)](#medium) 
-[![](https://img.shields.io/badge/Hard-37-red)](#hard) 
+[![](https://img.shields.io/badge/Hard-38-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-4-purple)](#very-hard)
 
 Code Golf Completed:
@@ -431,7 +431,9 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 28 | [n Queens](https://www.codingame.com/training/hard/n-queens) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/n%20Queens/Python.py) | DFS<br>Bitboard<br> |
 | 29 | [TXT2HTML](https://www.codingame.com/training/hard/txt2html) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/TXT2HTML/Python.py) | Parsing |
 | 30 | [Recurring Decimals](https://www.codingame.com/training/expert/recurring-decimals) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Recurring%20Decimals/Python.py)<br>[Ruby](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Recurring%20Decimals/Ruby.rb)<br>[Java](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Recurring%20Decimals/Java.java)<br>[JavaScript](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Recurring%20Decimals/JavaScript.js)<br>[C++](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Recurring%20Decimals/C%2B%2B.cpp)<br>[C#](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Recurring%20Decimals/C%23.cs)<br>[Kotlin](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Recurring%20Decimals/Kotlin.kt) | Mathematics |
+| 31 | [Mini sudoku solver](https://www.codingame.com/training/hard/mini-sudoku-solver) |✔️ Completed| [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Hard/Mini%20sudoku%20solver/Python.py) | BFS |
 <!--- |  | []() |✔️ Completed| []() |  | --->
+
 
 ## Very Hard
 
