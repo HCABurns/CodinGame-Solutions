@@ -18,7 +18,7 @@ Puzzles Completed:
 
 Total Puzzle Solutions: 
 [![](https://img.shields.io/badge/Easy-532-green)](#easy) 
-[![](https://img.shields.io/badge/Medium-91-yellow)](#medium) 
+[![](https://img.shields.io/badge/Medium-92-yellow)](#medium) 
 [![](https://img.shields.io/badge/Hard-37-red)](#hard) 
 [![](https://img.shields.io/badge/Very_Hard-4-purple)](#very-hard)
 
@@ -394,6 +394,7 @@ Puzzles are a selection of problems split into different difficulty levels. The 
 | 68 | [The Hole Truth](https://www.codingame.com/training/medium/the-hole-truth) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/The%20Hole%20Truth/Python.py) | BFS<br>Flood Fill<br>Graphs |
 | 69 | [Maze /w teleporters and jumps](https://www.codingame.com/training/medium/maze-w-teleporters-and-jumps) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Maze%20w%20teleporters%20and%20jumps/Python.py) | BFS<br>Maze |
 | 70 | [Shortest Palindromic Path](https://www.codingame.com/training/medium/shortest-palindromic-path) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Shortest%20Palindromic%20Path/Python.py) | A*<br>Pathfinding<br>BFS<br>Palindrome |
+| 71 | [Frog Exchange](https://www.codingame.com/training/medium/frog-exchange) |✔️ Completed | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Medium/Frog%20Exchange/Python.py) | BFS<br>String Manipulation<br>Conditions |
 <!--|  | []() |✔️ Completed | []()<br>[]() |  |-->
 
 ## Hard
