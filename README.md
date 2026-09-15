@@ -51,7 +51,7 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Darts Checkout Routes](https://www.codingame.com/training//darts-checkout-routes) | Easy | 280 | 75.36% | 4.47⭐ | BFS<br>DFS<br>Brute-force | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Darts%20Checkout%20Combinations/Python.py)  | ✔️ |
 | [Connect the Colours - Part 1](https://www.codingame.com/training//connect-the-colours---part-1) | Medium | 174 | 26.44% | 5.00⭐ | BFS<br>DFS<br>Backtracking<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours-Part-1)<br><br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours%20-%20Part%201/Solution.py)  | ✔️ |
 | [Snap!](https://www.codingame.com/training//snap) | Easy | 167 | 76.05% | 4.46⭐ | Card games<br>Queues<br>Simulation | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Puzzles/Easy/Snap!/python.py)  | ✔️ |
-| [Tired Pac-Man](https://www.codingame.com/training//tired-pac-man) | Medium | 124 | 36.29% | 4.93⭐ | BFS<br>DFS<br>Memoization<br>Pathfinding<br>Recursion | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py)  | ✔️ |
+| [Tired Pac-Man](https://www.codingame.com/training//tired-pac-man) | Medium | 124 | 37.10% | 4.93⭐ | BFS<br>DFS<br>Memoization<br>Pathfinding<br>Recursion | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Tired%20Pac-Man/Solution.py)  | ✔️ |
 | [Road to Mount Boom](https://www.codingame.com/training//road-to-mount-boom) | Medium | 106 | 79.25% | 4.78⭐ | 2D array<br>BFS<br>DFS | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Road%20to%20Mount%20Boom/Solution.py)  | ✔️ |
 | [Snakes and Ladders](https://www.codingame.com/training//snakes-and-ladders) | Medium | 99 | 77.78% | 4.69⭐ | BFS<br>DFS<br>Pathfinding | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Snakes%20and%20Ladders/Python.py)  | ✔️ |
 | [The Sovereign's Game](https://www.codingame.com/training//the-sovereigns-game) | Medium | 72 | 75.00% | 4.12⭐ | Greedy algorithms<br>Optimization<br>Priority Queue<br>Sorting | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/The%20Sovereign's%20Game/Solution_Heap.py)  | ✔️ |
@@ -59,14 +59,14 @@ The following is a collection of my created puzzles and Clash of Codes that have
 | [Pandora's Bridges](https://www.codingame.com/training//pandoras-bridges) | Hard | 52 | 84.62% | 4.91⭐ | 3D<br>Distances<br>Graphs<br>Trigonometry | [Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Pandora's%20Bridges/Solution.py)  | ✔️ |
 | [Connect the Colours - Part 2](https://www.codingame.com/training//connect-the-colours---part-2) | Hard | 50 | 58.00% | 4.83⭐ | BFS<br>DFS<br>Backtracking<br>Pathfinding | [Source Code](https://github.com/HCABurns/Connect-The-Colours)<br><br>[Solution](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Connect%20the%20Colours%20-%20Part%202/Solution.py)  | ✔️ |
 |  |  |  |  |  |  |  |  |
-| Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | 🚧 | 
+| Target Practice | Easy/Medium | | | | Mathematics<br>Geometry | [Python](https://github.com/HCABurns/CodinGame-Solutions/blob/main/Created%20Contributions/Target%20Practice/Target_Practice_CodinGame_Python_Solution.py) | ❌ | 
 | Elevators and Stairs | Medium | | |  |  | [Source Code](https://github.com/HCABurns/Elevators-And-Stairs) | 🚧 | 
 <!--    | []() | | | | | | [Source Code]()<br>[Solution]() | ⏳🚧✔️ |      -->
 
 ### Bot Programming
 | <b>Name</b> | <b>Total Players</b> |  <b>Rating</b> | <b>Tags</b> | <b>Code Links</b> |<b>Status</b> |
 | :---------: | :------------------: | :------------: | :---------: |  :--------------: | :----------: |  
-| Barricade | | | | [Source Code](https://github.com/HCABurns/CG_Barricade) | 🚧 |
+| Barricade | | | | [Source Code](https://github.com/HCABurns/CG_Barricade) | ❌ |
 | Grid Wars | | | | [Source Code](https://github.com/HCABurns/Grid-Wars) | 🚧 |
 
 <!--  |  | | | | [Source Code]()<br>[Solution]() | ⏳🚧✔️ |   -->
